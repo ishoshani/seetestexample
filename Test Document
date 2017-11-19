@@ -1,0 +1,7 @@
+Tests for Ebay Sellers Utilities
+1.Test that all fields only take numbered inputs
+	often times a security risk with open fields in applications is unsanitized inputs, so making sure that the inputs can only be what is intended is an important test to include
+2.Test that Auction starting is not visible when fixed price active, and reserve is not visible when no reserve price, and listing upgrades not visible when hidden
+	Making sure that the layout appears and dis
+3.Create Calculation with all options, gets reaches expected profit
+---Auction, 1-10, 100 cost 5 shipping, 200 final sale, 2 buyer shipping and acuton starting at 110, with top rate and ebay store, and 0.15 insertiona dn 2.9 ebay fee,International listing,, 10 reserve: expected profit is $70.11

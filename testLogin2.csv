@@ -1,0 +1,9 @@
+login,password, pass
+one,company, false
+Company,one, false
+,one, false
+one,, false
+one,one,true
+compa,company,false
+company,compa,false
+company,company,true
