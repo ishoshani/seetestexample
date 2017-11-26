@@ -6,6 +6,8 @@ import org.testng.annotations.*;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
+import java.util.concurrent.TimeUnit;
+
 /**
  *
  */
@@ -13,27 +15,34 @@ public class WebTest1{
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
-	private String installPath = "";
 	private String runtime;
-	protected DemoClient client = null;
+	protected Client client = null;
 	private String device;
 	private String OS;
 	private String[] Elements = {"Regions","USPolitics","Money","Entertainment","tech","Sport","travel","style","Health","Features","Video","vr", "More…"};
 	private Boolean[] exists = new Boolean[Elements.length];
 
 
-
+	@Parameters("isGrid")
 	@BeforeMethod(groups = {"Web"})
-	public void setUp(){
-		client = new DemoClient(host, port, true, runtime);
-		client.setProjectBaseDirectory(projectBaseDirectory);
+	public void setUp(String isGrid){
+			Boolean createGrid = Boolean.parseBoolean(isGrid);
+			if(createGrid) {
+				  GridClient gridClient = new GridClient("ido","Espeon123", "WebTest", "https://stage.experitest.com:443");
+			      client = gridClient.lockDeviceForExecution("native1", "", 120, TimeUnit.MINUTES.toMillis(2));
+
+			}else{
+		
+		client = new DemoClient(host, port, true,"WebTest", runtime);
 		device = client.waitForDevice("", 30000);
 
 		client.setDevice(device);
+			}
+		client.setProjectBaseDirectory(projectBaseDirectory);
+	
 		OS = client.getDeviceProperty("device.os");
 		client.setWebAutoScroll(true);
 	
-		client.setData(device, "Web", this.getClass(), installPath);
 		if(OS.equals("IOS_APP")) {
 			client.launch("Safari:http://www.cnn.com", true, false);
 		}else if(OS.equals("ANDROID")) {

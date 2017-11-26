@@ -9,32 +9,41 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 import org.testng.annotations.*;
 
+import com.experitest.client.Client;
+import com.experitest.client.GridClient;
 import com.experitest.client.InternalException;
 
 public class NativeTest2 {
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
-	protected DemoClient client = null;
+	protected Client client = null;
 	private String installPath= "";
 	private String runtime;
 	private String device;
 	private String OS;
 	
-
+	@Parameters("isGrid")
 	@BeforeMethod(groups= {"native2"})
-	public void setUp() throws Exception {
-		client = new DemoClient(host, port, true, runtime);
-		client.setProjectBaseDirectory(projectBaseDirectory);
+	public void setUp(String isGrid) throws Exception {
+		Boolean createGrid = Boolean.parseBoolean(isGrid);
+		if(createGrid) {
+			  GridClient gridClient = new GridClient("ido","Espeon123", "ExperitestDemo", "https://stage.experitest.com:443");
+		      client = gridClient.lockDeviceForExecution("native2", "", 120, TimeUnit.MINUTES.toMillis(2));
+
+		}else{
+		client = new DemoClient(host, port, true, "ExperitestDemo", runtime);
 		device = client.waitForDevice("", 30000);
 		client.setDevice(device);
-		OS = client.getDeviceProperty("device.os");
-		client.setData(device, "ExperitestDemo", this.getClass(), installPath);
+		
+		}
+		client.setProjectBaseDirectory(projectBaseDirectory);
+	OS = client.getDeviceProperty("device.os");
 		client.setLocation("-122.445848", "37.76033");
-		client.startLoggingDevice(client.destinationLocation);
 		if(OS.equals("IOS_APP")) {
 			client.install("ExperiDemo", true, false);
 			client.launch("ExperiDemo", true, true);      

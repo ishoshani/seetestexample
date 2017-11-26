@@ -2,22 +2,24 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name = "My suite" parallel="methods" thread-count="2">
+  <parameter name="isGrid" value="true"/>
+
   <test name="TestAttempt">
   <groups>
   	<run>
   		<include name="native1"/>
-  	  	<include name="AppStore"/> 
+  	 <!--  	<include name="AppStore"/> 
   	 	<include name="native2"/>
   	 	<include name= "calculator"/>
-  	 	<include name = "Web"/>
+  	 	<include name = "Web"/> -->
   	</run>
   </groups>
     <classes>
       <class name="com.myTests.NativeTest"/>
-    <class name="com.myTests.AppStoreTest"/>
+   <!--  <class name="com.myTests.AppStoreTest"/>
     <class name = "com.myTests.NativeTest2"/>
     <class name="com.myTests.CalculatorTest"/>
-    <class name = "com.myTests.WebTest1.java"/>
+    <class name = "com.myTests.WebTest1.java"/> -->
     </classes>
   </test>
   </suite>

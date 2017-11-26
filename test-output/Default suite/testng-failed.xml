@@ -3,14 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.myTests.CalculatorTest">
+      <class name="com.myTests.NativeTest">
         <methods>
-          <include name="setUp"/>
-          <include name="test3"/>
-          <include name="test"/>
-          <include name="test2"/>
+          <include name="testNativeLogin"/>
+          <include name="OrderTest"/>
         </methods>
-      </class> <!-- com.myTests.CalculatorTest -->
+      </class> <!-- com.myTests.NativeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

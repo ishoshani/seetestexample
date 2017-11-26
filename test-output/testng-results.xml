@@ -1,116 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="3" total="3" passed="0">
+<testng-results skipped="0" failed="2" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="My suite" duration-ms="144393" started-at="2017-11-23T17:05:24Z" finished-at="2017-11-23T17:07:49Z">
+  <suite name="My suite" duration-ms="156549" started-at="2017-11-26T09:18:30Z" finished-at="2017-11-26T09:21:06Z">
     <groups>
-      <group name="AppStore">
-        <method signature="AppStoreTest.test()[pri:0, instance:com.myTests.AppStoreTest@6e1567f1]" name="test" class="com.myTests.AppStoreTest"/>
-      </group> <!-- AppStore -->
       <group name="native1">
-        <method signature="NativeTest.OrderTest()[pri:0, instance:com.myTests.NativeTest@59494225]" name="OrderTest" class="com.myTests.NativeTest"/>
-        <method signature="NativeTest.testNativeLogin()[pri:0, instance:com.myTests.NativeTest@59494225]" name="testNativeLogin" class="com.myTests.NativeTest"/>
+        <method signature="NativeTest.OrderTest()[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="OrderTest" class="com.myTests.NativeTest"/>
+        <method signature="NativeTest.testNativeLogin()[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="testNativeLogin" class="com.myTests.NativeTest"/>
       </group> <!-- native1 -->
     </groups>
-    <test name="TestAttempt" duration-ms="144393" started-at="2017-11-23T17:05:24Z" finished-at="2017-11-23T17:07:49Z">
-      <class name="com.myTests.AppStoreTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTests.AppStoreTest@6e1567f1]" name="setUp" is-config="true" duration-ms="3510" started-at="2017-11-23T19:06:38Z" finished-at="2017-11-23T19:06:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="test()[pri:0, instance:com.myTests.AppStoreTest@6e1567f1]" name="test" duration-ms="64728" started-at="2017-11-23T19:06:41Z" finished-at="2017-11-23T19:07:46Z">
-          <exception class="com.experitest.client.InternalException">
-            <message>
-              <![CDATA[Exception caught while executing click: Element was not identified: 'play_card' at zone default]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[com.experitest.client.InternalException: Exception caught while executing click: Element was not identified: 'play_card' at zone default
-	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
-	at com.experitest.client.Client.execute(Client.java:247)
-	at com.experitest.client.Client.click(Client.java:476)
-	at com.myTests.AppStoreTest.test(AppStoreTest.java:48)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- com.experitest.client.InternalException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method status="FAIL" signature="tearDown()[pri:0, instance:com.myTests.AppStoreTest@6e1567f1]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-23T19:07:46Z" finished-at="2017-11-23T19:07:46Z">
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at com.experitest.client.Client.getDeviceLog(Client.java:1095)
-	at com.myTests.AppStoreTest.tearDown(AppStoreTest.java:110)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.myTests.AppStoreTest -->
+    <test name="TestAttempt" duration-ms="156549" started-at="2017-11-26T09:18:30Z" finished-at="2017-11-26T09:21:06Z">
       <class name="com.myTests.NativeTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTests.NativeTest@59494225]" name="setUp" is-config="true" duration-ms="25556" started-at="2017-11-23T19:05:24Z" finished-at="2017-11-23T19:05:50Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="setUp" is-config="true" duration-ms="63680" started-at="2017-11-26T11:18:30Z" finished-at="2017-11-26T11:19:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTests.NativeTest@59494225]" name="setUp" is-config="true" duration-ms="40988" started-at="2017-11-23T19:05:24Z" finished-at="2017-11-23T19:06:05Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="setUp" is-config="true" duration-ms="148825" started-at="2017-11-26T11:18:30Z" finished-at="2017-11-26T11:20:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="OrderTest()[pri:0, instance:com.myTests.NativeTest@59494225]" name="OrderTest" duration-ms="48274" started-at="2017-11-23T19:05:50Z" finished-at="2017-11-23T19:06:38Z">
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at com.experitest.client.Client.hybridRunJavascript(Client.java:1376)
-	at com.myTests.NativeTest.OrderTest(NativeTest.java:114)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- OrderTest -->
-        <test-method status="FAIL" signature="testNativeLogin()[pri:0, instance:com.myTests.NativeTest@59494225]" name="testNativeLogin" duration-ms="30427" started-at="2017-11-23T19:06:05Z" finished-at="2017-11-23T19:06:36Z">
+        <test-method status="FAIL" signature="testNativeLogin()[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="testNativeLogin" duration-ms="75415" started-at="2017-11-26T11:19:33Z" finished-at="2017-11-26T11:20:49Z">
           <exception class="com.experitest.client.InternalException">
             <message>
               <![CDATA[Exception caught while executing elementSendText: Element was not identified: 'usernameTextField' at zone default]]>
@@ -119,8 +42,9 @@
               <![CDATA[com.experitest.client.InternalException: Exception caught while executing elementSendText: Element was not identified: 'usernameTextField' at zone default
 	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
 	at com.experitest.client.Client.execute(Client.java:247)
+	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
 	at com.experitest.client.Client.elementSendText(Client.java:807)
-	at com.myTests.NativeTest.testNativeLogin(NativeTest.java:67)
+	at com.myTests.NativeTest.testNativeLogin(NativeTest.java:80)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -140,16 +64,41 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testNativeLogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.NativeTest@59494225]" name="tearDown" is-config="true" duration-ms="2406" started-at="2017-11-23T19:06:36Z" finished-at="2017-11-23T19:06:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="tearDown" is-config="true" duration-ms="17414" started-at="2017-11-26T11:20:49Z" finished-at="2017-11-26T11:21:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="FAIL" signature="tearDown()[pri:0, instance:com.myTests.NativeTest@59494225]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-23T19:06:38Z" finished-at="2017-11-23T19:06:38Z">
+        <test-method status="FAIL" signature="OrderTest()[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="OrderTest" duration-ms="6984" started-at="2017-11-26T11:20:58Z" finished-at="2017-11-26T11:21:05Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
-	at com.experitest.client.Client.generateReport(Client.java:949)
-	at com.myTests.NativeTest.tearDown(NativeTest.java:122)
+	at com.experitest.client.Client.hybridRunJavascript(Client.java:1376)
+	at com.myTests.NativeTest.OrderTest(NativeTest.java:110)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderTest -->
+        <test-method status="FAIL" signature="tearDown()[pri:0, instance:com.myTests.NativeTest@4b952a2d]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-26T11:21:05Z" finished-at="2017-11-26T11:21:05Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.experitest.client.ExecutionClient.generateReport(ExecutionClient.java:139)
+	at com.myTests.NativeTest.tearDown(NativeTest.java:135)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)

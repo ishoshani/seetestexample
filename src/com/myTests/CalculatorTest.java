@@ -5,11 +5,14 @@ import org.testng.annotations.BeforeMethod;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
+import java.util.concurrent.TimeUnit;
+
 import org.testng.annotations.*;
 import org.testng.asserts.*;
 
 import com.experitest.auto.BaseTest;
 import com.experitest.client.Client;
+import com.experitest.client.GridClient;
 import com.experitest.client.InternalException;
 
 
@@ -20,7 +23,7 @@ public class CalculatorTest {
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
 	private String installPath = "";
 	private String runtime;
-	protected DemoClient client = null;
+	protected Client client = null;
 	private String device = null;
 	private String ErrorString = "+=-_)(*&^%$#@!abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWSYZ;{}[],0987654321../<>";
 	String[] xpaths = {"xpath=//*[@id='item_cost_edit_text']",
@@ -28,13 +31,22 @@ public class CalculatorTest {
 			"xpath=//*[@id='sale_price_edit_text']",
 			"xpath=//*[@id='buyer_shipping_price_edit_text']",
 	"xpath=//*[@id='starting_price_edit_text']"};
+	@Parameters("isGrid")
 	@BeforeMethod
-	public void setUp(){
-		client = new DemoClient(host, port, true,runtime);
+	public void setUp(String isGrid){
+		Boolean createGrid = Boolean.parseBoolean(isGrid);
+		if(createGrid) {
+			  GridClient gridClient = new GridClient("ido","Espeon123", "Calculator", "https://stage.experitest.com:443");
+		      client = gridClient.lockDeviceForExecution("native1", "@os='Android'", 120, TimeUnit.MINUTES.toMillis(2));
+
+		}else{
+	
+	client = new DemoClient(host, port, true,"WebTest", runtime);
+	device = client.waitForDevice("", 30000);
+	client.setDevice(device);
+		}
+		client = new DemoClient(host, port, true, "Calculator", runtime);
 		client.setProjectBaseDirectory(projectBaseDirectory);
-		device = client.waitForDevice("", 40000);
-		client.setDevice(device);
-		client.setData(device, "calculator", this.getClass(), installPath);
 		String apps = client.getInstalledApplications();
 		if(!apps.contains("sellerprofitcalculator"));{
 			client.openDevice();

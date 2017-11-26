@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [My suite]" parallel="methods">
+  <parameter name="isGrid" value="true"/>
   <test name="TestAttempt(failed)" parallel="methods">
     <groups>
       <run>
         <include name="native1"/>
-        <include name="AppStore"/>
       </run>
     </groups>
     <classes>
@@ -17,13 +17,6 @@
           <include name="OrderTest"/>
         </methods>
       </class> <!-- com.myTests.NativeTest -->
-      <class name="com.myTests.AppStoreTest">
-        <methods>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="test"/>
-        </methods>
-      </class> <!-- com.myTests.AppStoreTest -->
     </classes>
   </test> <!-- TestAttempt(failed) -->
 </suite> <!-- Failed suite [My suite] -->

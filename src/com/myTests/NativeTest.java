@@ -6,10 +6,14 @@ package com.myTests;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 import org.testng.Assert;
 import org.testng.annotations.*;
 import org.testng.annotations.BeforeMethod;
+
+import com.experitest.client.Client;
+import com.experitest.client.GridClient;
 /**
  *
  */
@@ -18,7 +22,7 @@ public class NativeTest{
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
 	private String installPath = "";
-	protected DemoClient client = null;
+	protected Client client = null;
 	protected String scenario;
 	protected String expected;
 	protected String actual;
@@ -26,22 +30,31 @@ public class NativeTest{
 	private String device;
 	private String OS;
 	
+	
+	@Parameters({"isGrid"})
 	@BeforeMethod(groups = {"native1"})
-	public void setUp(){
-		client = new DemoClient(host, port, true, runtime);
-		client.setProjectBaseDirectory(projectBaseDirectory);
-		client.setReporter("xml", "reports", "NativeTest1");
+	public void setUp(String isGrid){
+		Boolean createGrid = Boolean.parseBoolean(isGrid);
+		if(createGrid) {
+			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
+		      client = gridClient.lockDeviceForExecution("native1", "", 120, TimeUnit.MINUTES.toMillis(2));
+
+		}else{
+		client = new DemoClient(host, port, true,"EriBank", runtime);
 		device = client.waitForDevice("", 30000);
 		client.setDevice(device);
+		}
+		client.setProjectBaseDirectory(projectBaseDirectory);
+		client.setReporter("xml", "reports", "NativeTest1");
+	
 		OS = client.getDeviceProperty("device.os");
-		client.setData(device, "Eribank", this.getClass(),installPath);
 		client.setSpeed("Fast");
 		if(OS.equals("IOS_APP")) {
-			client.install("com.experitest.ExperiBank", true, false);
+			client.install("cloud:com.experitest.ExperiBank", true, false);
 			client.launch("com.experitest.ExperiBank", true, true);      
 
 		}else if(OS.equals("ANDROID")) {
-			client.install("com.experitest.ExperiBank/.LoginActivity", true, false);
+			client.install("cloud:com.experitest.ExperiBank/.LoginActivity", true, false);
 			client.launch("com.experitest.ExperiBank/.LoginActivity", true, false);
 
 
