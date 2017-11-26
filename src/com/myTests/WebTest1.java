@@ -1,18 +1,15 @@
 package com.myTests;
-import com.experitest.auto.BaseTest;
 import com.experitest.client.*;
 
-import java.nio.file.FileSystem;
-import java.nio.file.FileSystems;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import org.testng.annotations.*;
 
-import org.apache.http.client.ClientProtocolException;
-import org.junit.*;
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertTrue;
+
 /**
  *
  */
-public class WebTest1 extends RunnableTest {
+public class WebTest1{
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
@@ -21,14 +18,12 @@ public class WebTest1 extends RunnableTest {
 	protected DemoClient client = null;
 	private String device;
 	private String OS;
-	public WebTest1(String runtime) {
-		this.runtime= runtime;
-	}
-	@Override
-	void theTests() throws AssertionError {
-		testWebTest1();
-	}
-	@Before
+	private String[] Elements = {"Regions","USPolitics","Money","Entertainment","tech","Sport","travel","style","Health","Features","Video","vr", "More…"};
+	private Boolean[] exists = new Boolean[Elements.length];
+
+
+
+	@BeforeMethod(groups = {"Web"})
 	public void setUp(){
 		client = new DemoClient(host, port, true, runtime);
 		client.setProjectBaseDirectory(projectBaseDirectory);
@@ -39,12 +34,7 @@ public class WebTest1 extends RunnableTest {
 		client.setWebAutoScroll(true);
 	
 		client.setData(device, "Web", this.getClass(), installPath);
-	}
-
-	@Test
-	public void testWebTest1(){
-		//Opena pp at page
-			if(OS.equals("IOS_APP")) {
+		if(OS.equals("IOS_APP")) {
 			client.launch("Safari:http://www.cnn.com", true, false);
 		}else if(OS.equals("ANDROID")) {
 			client.launch("Chrome:http://www.cnn.com", true, true);
@@ -65,14 +55,20 @@ public class WebTest1 extends RunnableTest {
 			client.click("default", "I agree", 0, 1);
 		}
 		//Test that all side menu buttons exists
-		String[] Elements = {"Regions","USPolitics","Money","Entertainment","tech","Sport","travel","style","Health","Features","Video","vr", "More…"};
-		Boolean[] exists = new Boolean[Elements.length];
 		client.click("WEB", "xpath=//div[@class=\"nav-menu__hamburger\"]", 0, 1);
+	}
 
+	@Test(groups = {"Web"})
+	public void testWebTest1(){
+		//Opena pp at page
 		for(int i =0; i<Elements.length; i++) {
-			exists[i]=client.isElementFoundTest(getStatus(), "default", Elements[i], 0);
+			exists[i]=client.isElementFound("default", Elements[i], 0);
+			assertTrue(exists[i]);
 		
 		}
+	}
+	@Test(groups = {"Web"})
+	public void testWebTest2() {
 		String[] urls = {"edition.cnn.com/regions","edition.cnn.com/politics","money.cnn.com/INTERNATIONAL/",
 				"edition.cnn.com/entertainment","money.cnn.com/technology/","edition.cnn.com/sport","edition.cnn.com/travel",
 				"edition.cnn.com/style","edition.cnn.com/health","edition.cnn.com/specials","edition.cnn.com/videos","edition.cnn.com/vr","edition.cnn.com/more"};
@@ -88,7 +84,7 @@ public class WebTest1 extends RunnableTest {
 			}
 
 			String currentURL = client.elementGetProperty("default", "URLbar", 0, "text");
-			Assert.assertTrue("Failed to match URL "+currentURL+" to "+urls[i],currentURL.equals("http://"+urls[i]));
+			assertEquals(currentURL,"http://"+urls[i]);
 			client.click("default", "backIcon", 0, 1);
 			if(client.isElementFound("default", "Done", 0)){
 				client.click("default", "Done", 0, 1);
@@ -105,7 +101,7 @@ public class WebTest1 extends RunnableTest {
 		for(int i =0;i<Elements.length;i++) {
 			String href = client.elementGetProperty("WEB", "xpath=//*[@class='nav-flyout__section-title']", i, "href");
 			try {
-			client.AssertBoolean(getStatus(), true, (urls[i].contains(href) || href.contains(urls[i])));
+			assertTrue(urls[i].contains(href) || href.contains(urls[i]));
 			}catch(AssertionError e) {
 			client.report("URL "+href+" is not in "+urls[i],false);
 			throw e;
@@ -117,34 +113,8 @@ public class WebTest1 extends RunnableTest {
 		
 		
 
-	 @After
-		public void tearDown() {
-			switch (getStatus()) {
-			case 0:
-				//didn't fail, 
-				client.generateReport(true);
-				break;
-			case -1:
-				//took a second try
-				System.err.println("failed the first time");
-				client.generateReport(false);
-				TestSuite();
-				break;
-			case -2:
-				//failed on second try, reboot
-				System.err.println("failed the second time rebooting");
-				client.generateReport(false);
-				try {
-					client.reboot(120000);
-					client.deviceAction("Unlock");
-					}catch(InternalException e) {
-						decStatus();
-					}
-				TestSuite();
-				break;
-			default:
-				client.generateReport(true);
-				break;
-			}
-	    }
+	 @AfterMethod(groups = {"Web"})
+	public void tearDown() {
+			client.generateReport(true);
+		}	
 }

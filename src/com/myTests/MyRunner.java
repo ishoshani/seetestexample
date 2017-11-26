@@ -8,6 +8,8 @@ import java.io.PrintWriter;
 
 import org.boon.primitive.Int;
 import org.junit.runner.Runner;
+import org.testng.internal.thread.TestNGThread;
+
 import java.util.ArrayDeque;
 import java.util.HashMap;
 
@@ -55,53 +57,10 @@ public class MyRunner{
 			return destinationLocation;
 		}
 	
-		public static void main(String... args) {
-			runtime = ""+System.currentTimeMillis();
-			ArrayDeque<RunnableTest> threadq = new ArrayDeque<RunnableTest>();
-			HashMap<Integer,RunnableTest> finished = new HashMap<Integer,RunnableTest>();
-			//Create one of each test
-			RunnableTest st1 = new AppStoreTest(runtime);
-			RunnableTest nt1 = new NativeTest(runtime);
-			RunnableTest nt2 = new NativeTest2(runtime);
-			RunnableTest ct1 = new CalculatorTest(runtime);
-			RunnableTest wt1 = new WebTest1(runtime);
-		
-			//	add them all to que
-			threadq.add(st1);
-			threadq.add(nt1);
-			threadq.add(nt2);
-			threadq.add(ct1);
-			threadq.add(wt1);
-			int index = 0;
-			while(!threadq.isEmpty()) {
-				//run two test tests in parallel
-			RunnableTest currentTest1= threadq.remove();
-			RunnableTest currentTest2 = threadq.remove();
-					
-			Thread t1 = new Thread(currentTest1);
-			Thread t2 = new Thread(currentTest2);
-			t1.start();
-			t2.start();
-			try {
-				//wait for both to finish
-			t1.join();
-			t2.join();
-			}catch(InterruptedException e){
-				e.printStackTrace();
-				System.exit(1);
-			}
-			finished.put(index, currentTest1);
-			finished.put(index+1, currentTest2);
-			index+=2;
-			}
-			int[] s = new int[4];
-			String[] n = new String[4];
-			for(Integer i : finished.keySet()) {
-				RunnableTest current = finished.get(i);
-				System.out.println(current.getStatus());
-				s[i]=current.getStatus();
-				n[i]=current.testName;
-			}
+		@Test
+		public void Runner() {
+			TestNGThread
+			
 			SummaryReport(s,n);
 			
 

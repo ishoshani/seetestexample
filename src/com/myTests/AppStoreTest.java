@@ -1,16 +1,13 @@
 package com.myTests;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
-import com.experitest.auto.BaseTest;
-import com.experitest.client.Client;
-import com.experitest.client.InternalException;
+import org.testng.asserts.*;
 
-import junit.framework.Assert;
-
-public class AppStoreTest extends RunnableTest {
+public class AppStoreTest{
 	private String host = "localhost";
 	private int port = 8889;
 	private String installPath = "";
@@ -22,23 +19,18 @@ public class AppStoreTest extends RunnableTest {
 	/*public AppStoreTest(String runtime) {
 		this.runtime = runtime;
 	}*/
-	@Before
+	@BeforeMethod(groups = {"AppStore"})
 	public void setUp() throws Exception {
 		  client = new DemoClient(host, port, true, runtime);
 	      client.setProjectBaseDirectory(projectBaseDirectory);
 	      device = client.waitForDevice("", 30000);
-	      testName = "AppStore Test";
 		  client.setDevice(device);
 		  OS = client.getDeviceProperty("device.os");
 	      client.setData(device	, "appstore", this.getClass(), installPath);
 	      client.openDevice();
 	}
-	@Override
-	void theTests() throws AssertionError {
-		test();
-		test2();
-	}
-	@Test
+
+	@Test(groups = {"AppStore"})
 	public void test() {
 		
 		client.deviceAction("HOME");
@@ -69,14 +61,14 @@ public class AppStoreTest extends RunnableTest {
 			client.waitForElementToVanish("default", "Install", 0, 30000);
 		}
 		
-		client.isElementFoundTest(getStatus(), "default", "OPEN", 0);
+		client.isElementFound("default", "OPEN", 0);
 		client.sync(10, 0, 30000);
 		client.click("default", "OPEN", 0, 1);
 		String appname = client.getCurrentApplicationName();
 		client.applicationClose(appname);
 		client.uninstall(appname);
 	}
-	@Test
+	@Test(groups = {"Appstore"})
 	public void test2() {
 		client.deviceAction("HOME");
 		client.click("default", "Store", 0, 1);
@@ -102,8 +94,8 @@ public class AppStoreTest extends RunnableTest {
 				if(i%3 == 0) {
 					client.swipe("down", 1250, 20);
 				}
-				System.out.println(Titles[i]);
-				client.capture();
+				String pathToProof = client.capture();
+				client.report(pathToProof,String.format("$d : %s", i,Titles[i]), true);
 			}
 
 		}
@@ -112,37 +104,12 @@ public class AppStoreTest extends RunnableTest {
 	}
 	
 	
-	@After
+	@AfterMethod(groups = {"AppStore"})
 	public void tearDown() {
-		switch (getStatus()) {
-		case 0:
-			client.generateReport(true);
-			break;
-		case -1:
-			System.err.println("failed the first time");
-			client.generateReport(false);
-			client.getDeviceLog();
-			TestSuite();
-			break;
-		case -2:
-			System.err.println("failed the second time rebooting");
-			client.generateReport(false);
-			client.getDeviceLog();
-			try {
-				client.reboot(120000);
-				client.deviceAction("Unlock");
-				}catch(InternalException e) {
-					decStatus();
-					client.getDeviceLog();
-				}
-			TestSuite();
-			break;
-		default:
 			client.generateReport(true);
 			client.getDeviceLog();
-			break;
+			client.releaseClient();
 		}
 
 	}
 
-}

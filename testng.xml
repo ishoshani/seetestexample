@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-  <test name="Test">
+
+<suite name = "My suite" parallel="methods" thread-count="2">
+  <test name="TestAttempt">
+  <groups>
+  	<run>
+  		<include name="native1"/>
+  	  	<include name="AppStore"/> 
+  	 	<include name="native2"/>
+  	 	<include name= "calculator"/>
+  	 	<include name = "Web"/>
+  	</run>
+  </groups>
     <classes>
-      <class name="com.experitest.auto.simpleTest"/>
+      <class name="com.myTests.NativeTest"/>
+    <class name="com.myTests.AppStoreTest"/>
+    <class name = "com.myTests.NativeTest2"/>
+    <class name="com.myTests.CalculatorTest"/>
+    <class name = "com.myTests.WebTest1.java"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+  </suite>
+

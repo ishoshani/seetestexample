@@ -1,19 +1,19 @@
 package com.myTests;
 
-import com.experitest.auto.BaseTest;
 
 //package <set your test package>;
-import com.experitest.client.*;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-import org.junit.*;
+import org.testng.Assert;
+import org.testng.annotations.*;
+import org.testng.annotations.BeforeMethod;
 /**
  *
  */
-public class NativeTest extends RunnableTest {
+public class NativeTest{
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
@@ -25,36 +25,17 @@ public class NativeTest extends RunnableTest {
 	private String runtime;
 	private String device;
 	private String OS;
-	@Override
-	public void theTests() {
-		testNativeLogin();
-	}
-	public NativeTest() {
-		super();
-		this.runtime= String.valueOf(System.currentTimeMillis());
-	}
-	public NativeTest(String runtime) {
-		super();
-		this.runtime = runtime;
-	}
 	
-	@Before
+	@BeforeMethod(groups = {"native1"})
 	public void setUp(){
 		client = new DemoClient(host, port, true, runtime);
 		client.setProjectBaseDirectory(projectBaseDirectory);
 		client.setReporter("xml", "reports", "NativeTest1");
-		testName = "NativeTest1";
 		device = client.waitForDevice("", 30000);
 		client.setDevice(device);
 		OS = client.getDeviceProperty("device.os");
 		client.setData(device, "Eribank", this.getClass(),installPath);
 		client.setSpeed("Fast");
-		
-	}
-
-
-	@Test
-	public void testNativeLogin() {
 		if(OS.equals("IOS_APP")) {
 			client.install("com.experitest.ExperiBank", true, false);
 			client.launch("com.experitest.ExperiBank", true, true);      
@@ -65,6 +46,13 @@ public class NativeTest extends RunnableTest {
 
 
 		}
+		
+	}
+
+
+	@Test(groups = {"native1"})
+	public void testNativeLogin() {
+		
 		File f = new File("testLogin.csv");
 		Scanner r = null;
 		try {
@@ -84,9 +72,9 @@ public class NativeTest extends RunnableTest {
 				}
 				boolean clientSuccess = client.isElementFound("default", "Make Payment");
 				if(user.equals("company") && password.equals("company")) {
-					client.AssertBoolean(getStatus(), true, clientSuccess);
+					Assert.assertEquals(true, clientSuccess);
 				}else {
-					client.AssertBoolean(getStatus(), false, clientSuccess);
+					Assert.assertEquals(false, clientSuccess);
 				}
 			}}
 		catch(IOException e) {
@@ -95,8 +83,14 @@ public class NativeTest extends RunnableTest {
 			r.close();
 		}
 
-
-
+		}
+	
+		@Test(groups = {"native1"})
+		
+		public void OrderTest() {
+		client.elementSendText("default", "usernameTextField", 0, "company");
+		client.elementSendText("default", "passwordTextField", 0, "company");
+		client.click("default", "Login", 0, 1);
 		double start = 100;
 		double spent = 66;
 
@@ -120,39 +114,19 @@ public class NativeTest extends RunnableTest {
 		String actualString = client.hybridRunJavascript("", 0, "var result = document.getElementsByTagName(\"H1\")[0].innerText;");
 		actualString = actualString.replace("\n", "");
 		String expectedString = String.format("Your balance is: %.2f$",(start-spent));
-		client.AssertStringsEqual(getStatus(), expectedString, actualString);
+		Assert.assertEquals(expectedString, actualString);
 	}
 
-	@After
+	@AfterMethod(groups = {"native1"})
 	public void tearDown() {
-		switch (getStatus()) {
-		case 0:
-			client.generateReport(true);
-			break;
-		case -1:
-			System.err.println("failed the first time");
-			client.generateReport(false);
-			TestSuite();
-			break;
-		case -2:
-			System.err.println("failed the second time rebooting");
-			client.generateReport(false);
-			try {
-				client.reboot(120000);
-				client.deviceAction("Unlock");
-				}catch(InternalException e) {
-					decStatus();
-				}
-			TestSuite();
-			break;
-		default:
-			client.generateReport(true);
-			break;
+		client.generateReport(false);
+		client.releaseClient();
+		
 		}
 		
 		
 	
 		
 	}
-}
+
 

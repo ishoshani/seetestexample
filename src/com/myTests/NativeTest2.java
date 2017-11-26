@@ -1,20 +1,20 @@
 package com.myTests;
 
+
+import static org.junit.Assert.assertEquals;
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.fail;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
-import org.junit.After;
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
+import org.testng.annotations.*;
 
-import com.experitest.auto.BaseTest;
-import com.experitest.client.Client;
 import com.experitest.client.InternalException;
 
-public class NativeTest2 extends RunnableTest {
+public class NativeTest2 {
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
@@ -23,31 +23,18 @@ public class NativeTest2 extends RunnableTest {
 	private String runtime;
 	private String device;
 	private String OS;
-	public NativeTest2(String runtime){
-		this.runtime = runtime;
-	}
 	
-	@Override
-	void theTests() throws AssertionError {
-		test();
 
-	}
-	@Before
+	@BeforeMethod(groups= {"native2"})
 	public void setUp() throws Exception {
 		client = new DemoClient(host, port, true, runtime);
 		client.setProjectBaseDirectory(projectBaseDirectory);
 		device = client.waitForDevice("", 30000);
-		testName = "applicationTest";
 		client.setDevice(device);
 		OS = client.getDeviceProperty("device.os");
 		client.setData(device, "ExperitestDemo", this.getClass(), installPath);
 		client.setLocation("-122.445848", "37.76033");
 		client.startLoggingDevice(client.destinationLocation);
-	}
-
-	@Test
-	public void test() {
-		
 		if(OS.equals("IOS_APP")) {
 			client.install("ExperiDemo", true, false);
 			client.launch("ExperiDemo", true, true);      
@@ -57,6 +44,12 @@ public class NativeTest2 extends RunnableTest {
 			client.launch("com.example.isho.experitestdemo/.Login", true, false);
 		}
 		client.getCurrentApplicationName();
+	}
+
+	@Test(groups = {"native2"})
+	public void test() {
+		
+		
 		if(client.getNetworkConnection("WIFI")) {
 			client.capture();
 		}
@@ -77,22 +70,27 @@ public class NativeTest2 extends RunnableTest {
 				client.click("default", "Login", 0, 1);
 				boolean clientSuccess = client.isElementFound("default", "Game");
 				if(user.equals(password)&&!user.isEmpty()) {
-					client.AssertBoolean(getStatus(),true, clientSuccess);
+					assertEquals(true, clientSuccess);
 					if(OS.equals("ANDROID")) {
 						client.deviceAction("Back");				
 					}else {
 						client.click("default", "Exit", 0, 1);
 					}
 				}else {
-					client.AssertBoolean(getStatus(),false, clientSuccess);
+					assertEquals(false,clientSuccess);
 				}
 			}}
 		catch(IOException e) {
-			Assert.fail("failed with error"+e);
+			fail("failed with error"+e);
 		}finally {
 			r.close();
 		}
 		System.out.println("got through first part of the test");
+	}
+		
+		
+		@Test(groups = {"native2"})
+		public void test2() {
 		client.elementSendText("default", "topLoginField", 0, "login");
 		client.elementSendText("default", "bottomLoginField", 0, "login");
 		client.sendText("{ENTER}");
@@ -113,7 +111,7 @@ public class NativeTest2 extends RunnableTest {
 						break playgame;
 					}
 			}
-			client.AssertIntsEqual(getStatus(),expectedScore, Integer.parseInt(client.elementGetProperty("default", "counter", 0, "text")));
+			assertEquals(expectedScore,Integer.parseInt(client.elementGetProperty("default", "counter", 0, "text")));
 			client.click("default", "Again", 0, 1);
 
 		}
@@ -121,34 +119,11 @@ public class NativeTest2 extends RunnableTest {
 
 
 	}
-	@After
+	@AfterMethod(groups = {"native2"})
 	public void tearDown() {
-		switch (getStatus()) {
-		case 0:
+		
 			client.generateReport(true);
 			client.stopLoggingDevice();
-			break;
-		case -1:
-			System.err.println("failed the first time");
-			client.generateReport(false);
-			TestSuite();
-			break;
-		case -2:
-			System.err.println("failed the second time rebooting");
-			client.generateReport(false);
-			try {
-				client.reboot(120000);
-				client.deviceAction("Unlock");
-				}catch(InternalException e) {
-					decStatus();
-				}
-			TestSuite();
-			break;
-		default:
-			client.generateReport(true);
-			client.stopLoggingDevice();
-			break;
 		}
 
 	}
-}
