@@ -59,7 +59,6 @@ public class MyRunner{
 	
 		@Test
 		public void Runner() {
-			TestNGThread
 			
 			SummaryReport(s,n);
 			

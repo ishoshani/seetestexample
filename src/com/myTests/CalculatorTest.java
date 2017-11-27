@@ -16,7 +16,7 @@ import com.experitest.client.GridClient;
 import com.experitest.client.InternalException;
 
 
-public class CalculatorTest {
+public class CalculatorTest extends DemoTest{
 
 	private String host = "localhost";
 	private int port = 8889;
@@ -25,8 +25,8 @@ public class CalculatorTest {
 	private String runtime;
 	protected DemoClient client = null;
 	private String device = null;
-	private String ErrorString = "+=-_)(*&^%$#@!abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWSYZ;{}[],0987654321../<>";
-	String[] xpaths = {"xpath=//*[@id='item_cost_edit_text']",
+	protected String ErrorString = "+=-_)(*&^%$#@!abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWSYZ;{}[],0987654321../<>";
+	protected String[] xpaths = {"xpath=//*[@id='item_cost_edit_text']",
 			"xpath=//*[@id='shipping_cost_edit_text']",
 			"xpath=//*[@id='sale_price_edit_text']",
 			"xpath=//*[@id='buyer_shipping_price_edit_text']",
@@ -64,65 +64,9 @@ public class CalculatorTest {
 
 
 	}
-	@Test(groups = {"Calculator"})
-	public void test() {
-		client.deviceAction("HOME");
-
-		client.startVideoRecord();
-		for(int i = 4; i>=0;i--) {
-			client.swipeWhileNotFound("Down", 761, 400, "NATIVE", xpaths[i], 0, 0, 2, false);
-			client.elementSendText("NATIVE",xpaths[i],0,ErrorString);
-			String endString = client.elementGetProperty("NATIVE", xpaths[i], 0, "text");
-			assertTrue("0987654321.".equals(endString));
-		}
-		client.swipeWhileNotFound("Down", 761, 602, "NATIVE", "xpath=//*[@text='CALCULATE']", 0, 0, 2, false);
-		client.click("NATIVE", "xpath=//*[@id='arrow_icon']", 0, 1);
-		client.click("NATIVE", "xpath=//*[@text='Reserve price']", 0, 1);
-		client.elementSendText("NATIVE", "xpath=//*[@id='reserve_price_edit_text']", 0, ErrorString);
-		String endString = client.elementGetProperty("NATIVE", "xpath=//*[@id='reserve_price_edit_text']", 0, "text");
-		assertTrue("0987654321.".equals(endString));
-		client.click("NATIVE", "xpath=//*[@text='Calculate']", 0, 1);
-		client.stopVideoRecord();
-		resetApp();
-
-	} 
-	@Test(groups = {"Calculator"})
-	public void test2() {
-		client.setThrowExceptionOnFail(true);
-		client.swipeWhileNotFound("Up", 761, 602, "NATIVE", "xpath=//*[@text='Listing Information']", 0, 0, 2, false);
-		client.click("default", "Fixed price", 0 , 1);
-		boolean found = client.isElementFound("default", "AuctionStartingPrice", 0);
-		assertEquals(false,found);
-		client.click("default", "Auction", 0, 1);
-		client.isElementFound("default", "AuctionStartingPrice", 0);
-		client.swipeWhileNotFound("Down", 761, 602, "NATIVE", "xpath=//*[@text='CALCULATE']", 0, 0, 2, false);
-		client.click("NATIVE", "xpath=//*[@id='arrow_icon']", 0, 1);
-		client.click("NATIVE", "xpath=//*[@text='Reserve price']", 0, 1);
-		client.isElementFound("default", "reservemarker", 0);
-	}
-	@Test(groups = {"Calculator"})
-	public void test3() {
-		client.click("default", "Seller Profit Calculator", 0, 1);
-		client.swipeWhileNotFound("Up", 761, 602, "NATIVE", "xpath=//*[@text='Listing Information']", 0, 0, 2, false);
-		client.click("default", "Auction", 0, 1);
-		String[] testNumber = {"100","5","200","2","110"};
-		for(int i =4; i>=0;i--) {
-			client.elementSendText("NATIVE", xpaths[i], 0, testNumber[i]);
-		}
-		client.swipeWhileNotFound("Down", 761, 602, "NATIVE", "xpath=//*[@text='Calculate']", 0, 0, 2, false);
-		client.click("NATIVE", "xpath=//*[@id='insertion_fee_spinner']", 0, 1);
-		client.click("NATIVE", "xpath=//*[@text='$0.15']", 0, 1);
-		client.click("NATIVE", "xpath=//*[@id='upgrade_header']", 0, 1);
-		client.click("NATIVE", "xpath=//*[@text='International']", 0, 1);
-		client.click("NATIVE", "xpath=//*[@text='Reserve price']",0,1);
-		client.elementSendText("NATIVE", "xpath=//*[@id='reserve_price_edit_text']", 0, "10");
-		client.click("NATIVE", "xpath=//*[@text='Calculate']", 0, 1);
-		String profit = client.elementGetText("NATIVE","xpath=//*[@id='final_seller_profit_calc']",0);
-		assertEquals("$67.24", profit);
-
-
-
-	}
+	
+	
+	
 	public void resetApp() {
 		if(client.isElementFound("NATIVE", "xpath=//*[@id='reserve_price_edit_text']")) {
 			client.click("NATIVE","xpath=//*[@id='upgrade_header']",0,1);

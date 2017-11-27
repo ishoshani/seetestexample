@@ -34,7 +34,6 @@ public class NativeTest extends DemoTest{
 	@Parameters({"isGrid"})
 	@BeforeMethod(groups = {"native1"})
 	public void setUp(String isGrid){
-		runtime = super.getRunTime();
 		Boolean createGrid = Boolean.parseBoolean(isGrid);
 		Client tempClient;
 		if(createGrid) {
