@@ -21,7 +21,7 @@ public class NativeTest2 {
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
-	protected Client client = null;
+	protected DemoClient client = null;
 	private String installPath= "";
 	private String runtime;
 	private String device;
@@ -31,25 +31,27 @@ public class NativeTest2 {
 	@BeforeMethod(groups= {"native2"})
 	public void setUp(String isGrid) throws Exception {
 		Boolean createGrid = Boolean.parseBoolean(isGrid);
+		Client tempClient;
 		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123", "ExperitestDemo", "https://stage.experitest.com:443");
-		      client = gridClient.lockDeviceForExecution("native2", "", 120, TimeUnit.MINUTES.toMillis(2));
+			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
+		      tempClient = gridClient.lockDeviceForExecution("native2", "", 120, TimeUnit.MINUTES.toMillis(2));
 
 		}else{
-		client = new DemoClient(host, port, true, "ExperitestDemo", runtime);
-		device = client.waitForDevice("", 30000);
-		client.setDevice(device);
+		tempClient = new Client(host, port, true);
+		device = tempClient.waitForDevice("", 30000);
+		tempClient.setDevice(device);
 		
 		}
+		client = new DemoClient(tempClient, "ExperiDemo", runtime);
 		client.setProjectBaseDirectory(projectBaseDirectory);
 	OS = client.getDeviceProperty("device.os");
-		client.setLocation("-122.445848", "37.76033");
+		client.setLocation("37.76033", "-122.445848");
 		if(OS.equals("IOS_APP")) {
-			client.install("ExperiDemo", true, false);
+			client.install("cloud:ExperiDemo", true, false);
 			client.launch("ExperiDemo", true, true);      
 
 		}else if(OS.equals("ANDROID")) {
-			client.install("com.example.isho.experitestdemo/.Login", true, false);
+			client.install("cloud:com.example.isho.experitestdemo/.Login", true, false);
 			client.launch("com.example.isho.experitestdemo/.Login", true, false);
 		}
 		client.getCurrentApplicationName();
@@ -59,9 +61,7 @@ public class NativeTest2 {
 	public void test() {
 		
 		
-		if(client.getNetworkConnection("WIFI")) {
-			client.capture();
-		}
+	
 		File f = new File("testLogin2.csv");
 		Scanner r = null;
 		try {

@@ -55,13 +55,13 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>TestAttempt</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/2/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/1</td>
 </tr><tr>
-<td>Started on:</td><td>Sun Nov 26 11:18:30 IST 2017</td>
+<td>Started on:</td><td>Sun Nov 26 15:16:04 IST 2017</td>
 </tr>
-<tr><td>Total time:</td><td>156 seconds (156549 ms)</td>
+<tr><td>Total time:</td><td>513 seconds (513162 ms)</td>
 </tr><tr>
-<td>Included groups:</td><td>native1 </td>
+<td>Included groups:</td><td>Web native1 </td>
 </tr><tr>
 <td>Excluded groups:</td><td></td>
 </tr>
@@ -75,17 +75,25 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.myTests.NativeTest.tearDown()'><b>tearDown</b><br>Test class: com.myTests.NativeTest</td>
-<td><div><pre>java.lang.NullPointerException
-	at com.experitest.client.ExecutionClient.generateReport(ExecutionClient.java:139)
-	at com.myTests.NativeTest.tearDown(NativeTest.java:135)
+<td title='com.myTests.WebTestLinksWork.setUp()'><b>setUp</b><br>Test class: com.myTests.WebTestLinksWork<br>Parameters: true</td>
+<td><div><pre>com.experitest.client.InternalException: Exception caught while executing click: Element was not identified: &apos;xpath=//div[@class=&quot;nav-menu__hamburger&quot;]&apos; at zone WEB
+	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
+	at com.experitest.client.Client.execute(Client.java:247)
+	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
+	at com.experitest.client.Client.click(Client.java:476)
+	at com.experitest.client.ClientWrapper.click(ClientWrapper.java:195)
+	at com.myTests.WebTest1.setUp(WebTest1.java:66)
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
-... Removed 12 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1944934511", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1944934511'><pre>java.lang.NullPointerException
-	at com.experitest.client.ExecutionClient.generateReport(ExecutionClient.java:139)
-	at com.myTests.NativeTest.tearDown(NativeTest.java:135)
+... Removed 12 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1850712021", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1850712021'><pre>com.experitest.client.InternalException: Exception caught while executing click: Element was not identified: &apos;xpath=//div[@class=&quot;nav-menu__hamburger&quot;]&apos; at zone WEB
+	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
+	at com.experitest.client.Client.execute(Client.java:247)
+	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
+	at com.experitest.client.Client.click(Client.java:476)
+	at com.experitest.client.ClientWrapper.click(ClientWrapper.java:195)
+	at com.myTests.WebTest1.setUp(WebTest1.java:66)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -93,7 +101,7 @@ function toggleAllBoxes() {
 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
 	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
 	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
@@ -103,77 +111,61 @@ function toggleAllBoxes() {
 	at java.lang.Thread.run(Unknown Source)
 </pre></div></td>
 <td>0</td>
-<td>com.myTests.NativeTest@4b952a2d</td></tr>
+<td>com.myTests.WebTestLinksWork@192b07fd</td></tr>
 </table><p>
-<table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED CONFIGURATIONS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.myTests.NativeTest.OrderTest()'><b>OrderTest</b><br>Test class: com.myTests.NativeTest</td>
-<td><div><pre>java.lang.NullPointerException
-	at com.experitest.client.Client.hybridRunJavascript(Client.java:1376)
-	at com.myTests.NativeTest.OrderTest(NativeTest.java:110)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-... Removed 10 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1038413803", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1038413803'><pre>java.lang.NullPointerException
-	at com.experitest.client.Client.hybridRunJavascript(Client.java:1376)
-	at com.myTests.NativeTest.OrderTest(NativeTest.java:110)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-</pre></div></td>
-<td>6</td>
-<td>com.myTests.NativeTest@4b952a2d</td></tr>
+<td title='com.myTests.WebTestLinksWork.tearDown()'><b>tearDown</b><br>Test class: com.myTests.WebTestLinksWork</td>
+<td></td>
+<td>0</td>
+<td>com.myTests.WebTestLinksWork@192b07fd</td></tr>
 <tr>
-<td title='com.myTests.NativeTest.testNativeLogin()'><b>testNativeLogin</b><br>Test class: com.myTests.NativeTest</td>
-<td><div><pre>com.experitest.client.InternalException: Exception caught while executing elementSendText: Element was not identified: &apos;usernameTextField&apos; at zone default
-	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
-	at com.experitest.client.Client.execute(Client.java:247)
-	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
-	at com.experitest.client.Client.elementSendText(Client.java:807)
-	at com.myTests.NativeTest.testNativeLogin(NativeTest.java:80)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-... Removed 10 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace594710734", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace594710734'><pre>com.experitest.client.InternalException: Exception caught while executing elementSendText: Element was not identified: &apos;usernameTextField&apos; at zone default
-	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
-	at com.experitest.client.Client.execute(Client.java:247)
-	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
-	at com.experitest.client.Client.elementSendText(Client.java:807)
-	at com.myTests.NativeTest.testNativeLogin(NativeTest.java:80)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-</pre></div></td>
-<td>75</td>
-<td>com.myTests.NativeTest@4b952a2d</td></tr>
+<td title='com.myTests.WebTestMenuExists.tearDown()'><b>tearDown</b><br>Test class: com.myTests.WebTestMenuExists</td>
+<td></td>
+<td>0</td>
+<td>com.myTests.WebTestMenuExists@64bfbc86</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.myTests.NativeTestLogin.LoginTest()'><b>LoginTest</b><br>Test class: com.myTests.NativeTestLogin</td>
+<td></td>
+<td>425</td>
+<td>com.myTests.NativeTestLogin@49993335</td></tr>
+<tr>
+<td title='com.myTests.NativeTestWorkFlow.OrderTest()'><b>OrderTest</b><br>Test class: com.myTests.NativeTestWorkFlow</td>
+<td></td>
+<td>108</td>
+<td>com.myTests.NativeTestWorkFlow@20322d26</td></tr>
+<tr>
+<td title='com.myTests.WebTestMenuExists.testWebTest1()'><b>testWebTest1</b><br>Test class: com.myTests.WebTestMenuExists</td>
+<td></td>
+<td>35</td>
+<td>com.myTests.WebTestMenuExists@64bfbc86</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.myTests.WebTestLinksWork.testWebTest2()'><b>testWebTest2</b><br>Test class: com.myTests.WebTestLinksWork</td>
+<td></td>
+<td>0</td>
+<td>com.myTests.WebTestLinksWork@192b07fd</td></tr>
 </table><p>
 </body>
 </html>

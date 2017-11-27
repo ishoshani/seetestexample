@@ -18,7 +18,7 @@ public class AppStoreTest{
 	private int port = 8889;
 	private String installPath = "";
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
-	protected Client client = null;
+	protected DemoClient client = null;
 	private String device;
 	private String runtime;
 	private String OS;
@@ -29,17 +29,19 @@ public class AppStoreTest{
 	@BeforeMethod(groups = {"AppStore"})
 	public void setUp(String isGrid) throws Exception {
 		Boolean createGrid = Boolean.parseBoolean(isGrid);
+		Client tempClient;
 		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123", "AppStore", "https://stage.experitest.com:443");
-		      client = gridClient.lockDeviceForExecution("native1", "", 120, TimeUnit.MINUTES.toMillis(2));
+			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
+		      tempClient = gridClient.lockDeviceForExecution("AppStore", "", 120, TimeUnit.MINUTES.toMillis(2));
 
 		}else{
 	
-	client = new DemoClient(host, port, true,"AppStore", runtime);
-	device = client.waitForDevice("", 30000);
-
-	client.setDevice(device);
-		}	      client.setProjectBaseDirectory(projectBaseDirectory);
+			tempClient = new Client(host, port, true);
+			device = tempClient.waitForDevice("", 30000);
+			tempClient.setDevice(device);
+		}	      
+		client = new DemoClient(tempClient, "AppStore", runtime);
+		client.setProjectBaseDirectory(projectBaseDirectory);
 	     
 		  OS = client.getDeviceProperty("device.os");
 	      client.openDevice();

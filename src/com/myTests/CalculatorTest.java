@@ -23,7 +23,7 @@ public class CalculatorTest {
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
 	private String installPath = "";
 	private String runtime;
-	protected Client client = null;
+	protected DemoClient client = null;
 	private String device = null;
 	private String ErrorString = "+=-_)(*&^%$#@!abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWSYZ;{}[],0987654321../<>";
 	String[] xpaths = {"xpath=//*[@id='item_cost_edit_text']",
@@ -35,17 +35,18 @@ public class CalculatorTest {
 	@BeforeMethod
 	public void setUp(String isGrid){
 		Boolean createGrid = Boolean.parseBoolean(isGrid);
+		Client tempClient;
 		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123", "Calculator", "https://stage.experitest.com:443");
-		      client = gridClient.lockDeviceForExecution("native1", "@os='Android'", 120, TimeUnit.MINUTES.toMillis(2));
+			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
+		      tempClient = gridClient.lockDeviceForExecution("Calculator", "@os='Android'", 120, TimeUnit.MINUTES.toMillis(2));
 
 		}else{
 	
-	client = new DemoClient(host, port, true,"WebTest", runtime);
-	device = client.waitForDevice("", 30000);
-	client.setDevice(device);
+			tempClient = new Client(host, port, true);
+			device = tempClient.waitForDevice("", 30000);
+			tempClient.setDevice(device);
 		}
-		client = new DemoClient(host, port, true, "Calculator", runtime);
+		client = new DemoClient(tempClient, "Calculator", runtime);
 		client.setProjectBaseDirectory(projectBaseDirectory);
 		String apps = client.getInstalledApplications();
 		if(!apps.contains("sellerprofitcalculator"));{

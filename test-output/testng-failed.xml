@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [My suite]" parallel="methods">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [My suite]" parallel="methods">
   <parameter name="isGrid" value="true"/>
   <test name="TestAttempt(failed)" parallel="methods">
     <groups>
       <run>
         <include name="native1"/>
+        <include name="Web"/>
       </run>
     </groups>
     <classes>
-      <class name="com.myTests.NativeTest">
+      <class name="com.myTests.NativeTestLogin">
         <methods>
-          <include name="testNativeLogin"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="OrderTest"/>
         </methods>
-      </class> <!-- com.myTests.NativeTest -->
+      </class> <!-- com.myTests.NativeTestLogin -->
+      <class name="com.myTests.NativeTestWorkFlow">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.myTests.NativeTestWorkFlow -->
+      <class name="com.myTests.WebTestLinksWork">
+        <methods>
+          <include name="testWebTest2"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.myTests.WebTestLinksWork -->
+      <class name="com.myTests.WebTestMenuExists">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.myTests.WebTestMenuExists -->
+      <class name="com.myTests.DemoTest">
+        <methods>
+          <include name="setRuntime"/>
+        </methods>
+      </class> <!-- com.myTests.DemoTest -->
     </classes>
   </test> <!-- TestAttempt(failed) -->
 </suite> <!-- Failed suite [My suite] -->

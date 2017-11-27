@@ -6,19 +6,20 @@ import org.junit.runner.Result;
 
 import com.experitest.auto.BaseTest;
 import com.experitest.client.Client;
+import com.experitest.client.ClientWrapper;
 
-public class DemoClient extends Client {
+public class DemoClient extends ClientWrapper {
 	String deviceName;
 	String appName;
 	String runtime;
 	String destinationLocation;
 	String reporterLocation;
 	String installPath;
-	public DemoClient(String host, int port, boolean useSeesionID,String app, String sessionTime) {
-		super(host,port,useSeesionID);
+	public DemoClient(Client client,String app, String sessionTime) {
+		super(client);
 		runtime = sessionTime; 
 		String dv = getDeviceProperty("device.os");
-		deviceName = dv.split(":")[1];
+		deviceName = dv.split(":")[0];
 		reporterLocation = "FailureReports\\"+"RUN_"+runtime+"\\Devices\\"+deviceName+"\\"+app;
 		destinationLocation = System.getProperty("user,dir")+"\\"+reporterLocation;
 		setReporter("xml",reporterLocation,app+"test");
