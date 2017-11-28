@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="0" total="4" passed="3">
+<testng-results skipped="4" failed="1" total="7" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="My suite" duration-ms="513162" started-at="2017-11-26T13:16:04Z" finished-at="2017-11-26T13:24:37Z">
+  <suite name="My suite" duration-ms="534153" started-at="2017-11-28T17:54:41Z" finished-at="2017-11-28T18:03:35Z">
     <groups>
       <group name="Web">
-        <method signature="WebTestLinksWork.testWebTest2()[pri:0, instance:com.myTests.WebTestLinksWork@192b07fd]" name="testWebTest2" class="com.myTests.WebTestLinksWork"/>
-        <method signature="WebTestMenuExists.testWebTest1()[pri:0, instance:com.myTests.WebTestMenuExists@64bfbc86]" name="testWebTest1" class="com.myTests.WebTestMenuExists"/>
+        <method signature="WebTestLinksWork.testWebTest2()[pri:0, instance:com.myTests.WebTestLinksWork@1d422d]" name="testWebTest2" class="com.myTests.WebTestLinksWork"/>
+        <method signature="WebTestMenuExists.testWebTest1()[pri:0, instance:com.myTests.WebTestMenuExists@480dd7]" name="testWebTest1" class="com.myTests.WebTestMenuExists"/>
       </group> <!-- Web -->
+      <group name="native2">
+        <method signature="MyApplicationGame.test2()[pri:0, instance:com.myTests.MyApplicationGame@1213b92]" name="test2" class="com.myTests.MyApplicationGame"/>
+        <method signature="MyApplicationLogin.test()[pri:0, instance:com.myTests.MyApplicationLogin@67c67e]" name="test" class="com.myTests.MyApplicationLogin"/>
+      </group> <!-- native2 -->
+      <group name="AppStore">
+        <method signature="AppStoreDownload.test()[pri:0, instance:com.myTests.AppStoreDownload@127bd23]" name="test" class="com.myTests.AppStoreDownload"/>
+      </group> <!-- AppStore -->
       <group name="native1">
-        <method signature="NativeTestLogin.LoginTest()[pri:0, instance:com.myTests.NativeTestLogin@49993335]" name="LoginTest" class="com.myTests.NativeTestLogin"/>
-        <method signature="NativeTestWorkFlow.OrderTest()[pri:0, instance:com.myTests.NativeTestWorkFlow@20322d26]" name="OrderTest" class="com.myTests.NativeTestWorkFlow"/>
+        <method signature="NativeTestLogin.LoginTest()[pri:0, instance:com.myTests.NativeTestLogin@1610302]" name="LoginTest" class="com.myTests.NativeTestLogin"/>
+        <method signature="NativeTestWorkFlow.OrderTest()[pri:0, instance:com.myTests.NativeTestWorkFlow@1318ec4]" name="OrderTest" class="com.myTests.NativeTestWorkFlow"/>
       </group> <!-- native1 -->
     </groups>
-    <test name="TestAttempt" duration-ms="513162" started-at="2017-11-26T13:16:04Z" finished-at="2017-11-26T13:24:37Z">
+    <test name="TestAttempt" duration-ms="534153" started-at="2017-11-28T17:54:41Z" finished-at="2017-11-28T18:03:35Z">
       <class name="com.myTests.NativeTestWorkFlow">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.NativeTestWorkFlow@20322d26]" name="setUp" is-config="true" duration-ms="64134" started-at="2017-11-26T15:16:04Z" finished-at="2017-11-26T15:17:08Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.NativeTestWorkFlow@1318ec4]" name="setUp" is-config="true" duration-ms="136320" started-at="2017-11-28T19:54:41Z" finished-at="2017-11-28T19:56:57Z">
           <params>
             <param index="0">
               <value>
@@ -26,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="OrderTest()[pri:0, instance:com.myTests.NativeTestWorkFlow@20322d26]" name="OrderTest" duration-ms="108696" started-at="2017-11-26T15:17:08Z" finished-at="2017-11-26T15:18:56Z">
+        <test-method status="PASS" signature="OrderTest()[pri:0, instance:com.myTests.NativeTestWorkFlow@1318ec4]" name="OrderTest" duration-ms="102054" started-at="2017-11-28T19:56:57Z" finished-at="2017-11-28T19:58:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OrderTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.NativeTestWorkFlow@20322d26]" name="tearDown" is-config="true" duration-ms="4217" started-at="2017-11-26T15:18:56Z" finished-at="2017-11-26T15:19:01Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.NativeTestWorkFlow@1318ec4]" name="tearDown" is-config="true" duration-ms="4614" started-at="2017-11-28T19:58:39Z" finished-at="2017-11-28T19:58:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.myTests.NativeTestWorkFlow -->
       <class name="com.myTests.WebTestLinksWork">
-        <test-method status="FAIL" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.WebTestLinksWork@192b07fd]" name="setUp" is-config="true" duration-ms="0" started-at="2017-11-26T15:16:04Z" finished-at="2017-11-26T15:16:04Z">
+        <test-method status="FAIL" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.WebTestLinksWork@1d422d]" name="setUp" is-config="true" duration-ms="0" started-at="2017-11-28T19:55:44Z" finished-at="2017-11-28T19:55:44Z">
           <params>
             <param index="0">
               <value>
@@ -57,9 +64,9 @@
 	at com.experitest.client.ClientWrapper.click(ClientWrapper.java:195)
 	at com.myTests.WebTest1.setUp(WebTest1.java:66)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
 	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
 	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
@@ -68,32 +75,26 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
 ]]>
             </full-stacktrace>
           </exception> <!-- com.experitest.client.InternalException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="testWebTest2()[pri:0, instance:com.myTests.WebTestLinksWork@192b07fd]" name="testWebTest2" duration-ms="16" started-at="2017-11-26T15:18:02Z" finished-at="2017-11-26T15:18:02Z">
+        <test-method status="SKIP" signature="testWebTest2()[pri:0, instance:com.myTests.WebTestLinksWork@1d422d]" name="testWebTest2" duration-ms="4" started-at="2017-11-28T19:57:37Z" finished-at="2017-11-28T19:57:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testWebTest2 -->
-        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.myTests.WebTestLinksWork@192b07fd]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-26T15:18:02Z" finished-at="2017-11-26T15:18:02Z">
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.myTests.WebTestLinksWork@1d422d]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-28T19:57:37Z" finished-at="2017-11-28T19:57:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.myTests.WebTestLinksWork -->
-      <class name="com.myTests.DemoTest">
-        <test-method status="PASS" signature="setRuntime()[pri:0, instance:com.myTests.DemoTest@5025a98f]" name="setRuntime" is-config="true" duration-ms="7" started-at="2017-11-26T15:16:04Z" finished-at="2017-11-26T15:16:04Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setRuntime -->
-      </class> <!-- com.myTests.DemoTest -->
-      <class name="com.myTests.WebTestMenuExists">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.WebTestMenuExists@64bfbc86]" name="setUp" is-config="true" duration-ms="96395" started-at="2017-11-26T15:16:04Z" finished-at="2017-11-26T15:17:40Z">
+      <class name="com.myTests.AppStoreDownload">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.AppStoreDownload@127bd23]" name="setUp" is-config="true" duration-ms="17988" started-at="2017-11-28T19:54:41Z" finished-at="2017-11-28T19:54:59Z">
           <params>
             <param index="0">
               <value>
@@ -104,17 +105,179 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testWebTest1()[pri:0, instance:com.myTests.WebTestMenuExists@64bfbc86]" name="testWebTest1" duration-ms="35968" started-at="2017-11-26T15:17:40Z" finished-at="2017-11-26T15:18:16Z">
+        <test-method status="FAIL" signature="test()[pri:0, instance:com.myTests.AppStoreDownload@127bd23]" name="test" duration-ms="36856" started-at="2017-11-28T19:54:59Z" finished-at="2017-11-28T19:55:36Z">
+          <exception class="com.experitest.client.InternalException">
+            <message>
+              <![CDATA[Exception caught while executing click: Element was not identified: 'OPEN' at zone default]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.experitest.client.InternalException: Exception caught while executing click: Element was not identified: 'OPEN' at zone default
+	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
+	at com.experitest.client.Client.execute(Client.java:247)
+	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
+	at com.experitest.client.Client.click(Client.java:476)
+	at com.experitest.client.ClientWrapper.click(ClientWrapper.java:195)
+	at com.myTests.AppStoreDownload.test(AppStoreDownload.java:39)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.experitest.client.InternalException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.AppStoreDownload@127bd23]" name="tearDown" is-config="true" duration-ms="8182" started-at="2017-11-28T19:55:36Z" finished-at="2017-11-28T19:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTests.AppStoreDownload -->
+      <class name="com.myTests.MyApplicationLogin">
+        <test-method status="FAIL" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.MyApplicationLogin@67c67e]" name="setUp" is-config="true" duration-ms="0" started-at="2017-11-28T19:54:41Z" finished-at="2017-11-28T19:54:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <exception class="com.experitest.client.InternalException">
+            <message>
+              <![CDATA[Exception caught while executing install: Failed to install cloud application: . Failed to install cloud application: . Failed to install: C:\ProgramData\cloud-server\original-apks\2\ExperiDemo_ver_1_2017-11-26-11-49-44.ipa on iOS device: 
+7171d0205bae77c1387abda07335ceb8b4702421
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.experitest.client.InternalException: Exception caught while executing install: Failed to install cloud application: . Failed to install cloud application: . Failed to install: C:\ProgramData\cloud-server\original-apks\2\ExperiDemo_ver_1_2017-11-26-11-49-44.ipa on iOS device: 
+7171d0205bae77c1387abda07335ceb8b4702421
+
+	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
+	at com.experitest.client.Client.execute(Client.java:247)
+	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
+	at com.experitest.client.Client.install(Client.java:1417)
+	at com.experitest.client.ExecutionClient.install(ExecutionClient.java:89)
+	at com.experitest.client.ClientWrapper.install(ClientWrapper.java:1029)
+	at com.myTests.NativeTest2.setUp(NativeTest2.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.experitest.client.InternalException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="test()[pri:0, instance:com.myTests.MyApplicationLogin@67c67e]" name="test" duration-ms="1" started-at="2017-11-28T19:56:05Z" finished-at="2017-11-28T19:56:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.myTests.MyApplicationLogin@67c67e]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-28T19:56:05Z" finished-at="2017-11-28T19:56:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTests.MyApplicationLogin -->
+      <class name="com.myTests.DemoTest">
+        <test-method status="PASS" signature="setRuntime()[pri:0, instance:com.myTests.DemoTest@4fe44c]" name="setRuntime" is-config="true" duration-ms="18" started-at="2017-11-28T19:54:41Z" finished-at="2017-11-28T19:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRuntime -->
+      </class> <!-- com.myTests.DemoTest -->
+      <class name="com.myTests.MyApplicationGame">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.MyApplicationGame@1213b92]" name="setUp" is-config="true" duration-ms="120600" started-at="2017-11-28T19:54:41Z" finished-at="2017-11-28T19:56:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="test2()[pri:0, instance:com.myTests.MyApplicationGame@1213b92]" name="test2" duration-ms="3" started-at="2017-11-28T19:56:41Z" finished-at="2017-11-28T19:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.myTests.MyApplicationGame@1213b92]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-28T19:56:41Z" finished-at="2017-11-28T19:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTests.MyApplicationGame -->
+      <class name="com.myTests.WebTestMenuExists">
+        <test-method status="FAIL" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.WebTestMenuExists@480dd7]" name="setUp" is-config="true" duration-ms="0" started-at="2017-11-28T19:56:05Z" finished-at="2017-11-28T19:56:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <exception class="com.experitest.client.InternalException">
+            <message>
+              <![CDATA[Exception caught while executing click: Element was not identified: 'xpath=//div[@class="nav-menu__hamburger"]' at zone WEB]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.experitest.client.InternalException: Exception caught while executing click: Element was not identified: 'xpath=//div[@class="nav-menu__hamburger"]' at zone WEB
+	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
+	at com.experitest.client.Client.execute(Client.java:247)
+	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
+	at com.experitest.client.Client.click(Client.java:476)
+	at com.experitest.client.ClientWrapper.click(ClientWrapper.java:195)
+	at com.myTests.WebTest1.setUp(WebTest1.java:66)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.experitest.client.InternalException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testWebTest1()[pri:0, instance:com.myTests.WebTestMenuExists@480dd7]" name="testWebTest1" duration-ms="1" started-at="2017-11-28T19:57:28Z" finished-at="2017-11-28T19:57:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testWebTest1 -->
-        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.myTests.WebTestMenuExists@64bfbc86]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-26T15:18:16Z" finished-at="2017-11-26T15:18:16Z">
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.myTests.WebTestMenuExists@480dd7]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-11-28T19:57:28Z" finished-at="2017-11-28T19:57:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.myTests.WebTestMenuExists -->
       <class name="com.myTests.NativeTestLogin">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.NativeTestLogin@49993335]" name="setUp" is-config="true" duration-ms="82874" started-at="2017-11-26T15:16:04Z" finished-at="2017-11-26T15:17:27Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.myTests.NativeTestLogin@1610302]" name="setUp" is-config="true" duration-ms="140492" started-at="2017-11-28T19:54:41Z" finished-at="2017-11-28T19:57:01Z">
           <params>
             <param index="0">
               <value>
@@ -125,11 +288,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.myTests.NativeTestLogin@49993335]" name="LoginTest" duration-ms="425331" started-at="2017-11-26T15:17:27Z" finished-at="2017-11-26T15:24:32Z">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.myTests.NativeTestLogin@1610302]" name="LoginTest" duration-ms="389815" started-at="2017-11-28T19:57:01Z" finished-at="2017-11-28T20:03:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.NativeTestLogin@49993335]" name="tearDown" is-config="true" duration-ms="4939" started-at="2017-11-26T15:24:32Z" finished-at="2017-11-26T15:24:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTests.NativeTestLogin@1610302]" name="tearDown" is-config="true" duration-ms="3809" started-at="2017-11-28T20:03:31Z" finished-at="2017-11-28T20:03:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

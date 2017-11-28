@@ -61,9 +61,9 @@ public class NativeTest2 extends DemoTest{
 
 	@AfterMethod(groups = {"native2"})
 	public void tearDown() {
-		
+		client.stopLoggingDevice();
+
 			client.generateReport(true);
-			client.stopLoggingDevice();
 		}
 
 	}

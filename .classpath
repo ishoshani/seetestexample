@@ -32,6 +32,7 @@
 	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/ws-commons-util-1.0.2.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/xmlrpc-client-3.1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/Experitest/SeeTest/clients/java/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="pom.xml"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>

@@ -19,7 +19,7 @@
       <class name="com.myTests.NativeTestLogin"/>
       <class name="com.myTests.NativeTestWorkFlow"/>
       <class name ="com.myTests.MyApplicationGame"/>
-      <class name = "com.myTests.myApplicationLogin"/>
+      <class name = "com.myTests.MyApplicationLogin"/>
       <class name = "com.myTests.AppStoreCharts"/>
       <class name = "com.myTests.AppStoreDownload"/>
       <class name = "com.myTests.CalculatorField"/>

@@ -51,7 +51,7 @@ public class AppStoreTest extends DemoTest{
 	
 	@AfterMethod(groups = {"AppStore"})
 	public void tearDown() {
-			client.generateReport(true);
+			client.generateReport(false);
 			client.getDeviceLog();
 			client.releaseClient();
 		}

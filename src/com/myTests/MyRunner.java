@@ -1,4 +1,4 @@
-package com.myTests;
+/*package com.myTests;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -57,10 +57,9 @@ public class MyRunner{
 			return destinationLocation;
 		}
 	
-		@Test
 		public void Runner() {
 			
-			SummaryReport(s,n);
+			//SummaryReport(s,n);
 			
 
 			
@@ -69,3 +68,4 @@ public class MyRunner{
 		}
 	}
 
+*/
