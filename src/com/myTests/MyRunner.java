@@ -1,4 +1,4 @@
-/*package com.myTests;
+package com.myTests;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -13,7 +13,6 @@ import org.testng.internal.thread.TestNGThread;
 import java.util.ArrayDeque;
 import java.util.HashMap;
 
-import com.google.common.io.Files;
 
 public class MyRunner{
 		static String runtime;
@@ -57,15 +56,5 @@ public class MyRunner{
 			return destinationLocation;
 		}
 	
-		public void Runner() {
-			
-			//SummaryReport(s,n);
-			
-
-			
-			
-
-		}
+	
 	}
-
-*/
