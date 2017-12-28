@@ -1,4 +1,4 @@
-package com.myTests;
+package com.myTests.web;
 
 import static org.testng.Assert.assertTrue;
 

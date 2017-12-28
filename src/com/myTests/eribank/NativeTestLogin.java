@@ -1,4 +1,4 @@
-package com.myTests;
+package com.myTests.eribank;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.myTests.RetryAnalyzer;
 
 public class NativeTestLogin extends NativeTest {
 

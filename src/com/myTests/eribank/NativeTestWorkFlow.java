@@ -1,7 +1,9 @@
-package com.myTests;
+package com.myTests.eribank;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.myTests.RetryAnalyzer;
 
 public class NativeTestWorkFlow extends NativeTest{
 	@Test(groups = {"native1"}, retryAnalyzer = RetryAnalyzer.class)
