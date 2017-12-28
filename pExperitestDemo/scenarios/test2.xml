@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="11.2">
+<command appiumName="SetDevice(Device)" enable="true" name="SetDevice(Device)">
+<parameters>
+<parameter appium="true" defaultValue="ios_app:iPhone7" description="Device name" name="Title" pattern="" type="application"/>
+</parameters>
+</command>
+<command appiumName="ExecuteScript(script)" enable="true" name="HybridRunJavascript(WebViewLocator, Index, Script)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="true" defaultValue="var result = document.getElementsByTagName(&quot;H1&quot;)[0].innerText;" description="Javascript" name="Script" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="ApplicationClearData(app)">
+<parameters>
+<parameter appium="false" defaultValue="com.experitest.ExperiBank" description="The application's package name" name="Package Name" pattern="" type="clearData"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="HybridGetHtml(WebViewLocator, Index)">
+<parameters>
+<parameter appium="false" defaultValue="" description="WebView locator string like id=web or empty for the first WebView in page" name="WebViewLocator" pattern="" type="string"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+</commands>

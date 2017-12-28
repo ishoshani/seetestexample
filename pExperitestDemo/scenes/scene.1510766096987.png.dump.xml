@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="1184" ignored="false" w="720" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][720,1184]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="720"/>
+<property type="height" value="1184"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="1184" ignored="false" w="720" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][720,1184]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="720"/>
+<property type="height" value="1184"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="50" ignored="false" w="720" web="false" x="0" y="48">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,48][720,98]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="48"/>
+<property type="width" value="720"/>
+<property type="height" value="50"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="46" ignored="false" w="704" web="false" x="8" y="49">
+<properties>
+<property type="id" value="title"/>
+<property type="resource-id" value="android:id/title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Build Version : 1.0.465"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[8,49][712,95]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="8"/>
+<property type="y" value="49"/>
+<property type="width" value="704"/>
+<property type="height" value="46"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1086" ignored="false" w="720" web="false" x="0" y="98">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,98][720,1184]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="98"/>
+<property type="width" value="720"/>
+<property type="height" value="1086"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="1086" ignored="false" w="720" web="false" x="0" y="98">
+<properties>
+<property type="id" value="loginView"/>
+<property type="resource-id" value="com.experitest.ExperiBank:id/loginView"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,98][720,1184]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="98"/>
+<property type="width" value="720"/>
+<property type="height" value="1086"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="1086" ignored="false" w="720" web="false" x="0" y="98">
+<properties>
+<property type="id" value="scrollView1"/>
+<property type="resource-id" value="com.experitest.ExperiBank:id/scrollView1"/>
+<property type="class" value="android.widget.ScrollView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,98][720,1184]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.ScrollView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="98"/>
+<property type="width" value="720"/>
+<property type="height" value="1086"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="539" ignored="false" w="720" web="false" x="0" y="98">
+<properties>
+<property type="id" value="makePaymentView"/>
+<property type="resource-id" value="com.experitest.ExperiBank:id/makePaymentView"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,98][720,637]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="98"/>
+<property type="width" value="720"/>
+<property type="height" value="539"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="171" ignored="false" w="555" web="false" x="82" y="118">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[82,118][637,289]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="82"/>
+<property type="y" value="118"/>
+<property type="width" value="555"/>
+<property type="height" value="171"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children/>
+</node>
+<node h="116" ignored="false" w="720" web="false" x="0" y="289">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,289][720,405]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="289"/>
+<property type="width" value="720"/>
+<property type="height" value="116"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="680" web="false" x="20" y="309">
+<properties>
+<property type="id" value="usernameTextField"/>
+<property type="resource-id" value="com.experitest.ExperiBank:id/usernameTextField"/>
+<property type="class" value="android.widget.EditText"/>
+<property type="text" value="Username"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="true"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[20,309][700,405]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="20"/>
+<property type="y" value="309"/>
+<property type="width" value="680"/>
+<property type="height" value="96"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="116" ignored="false" w="720" web="false" x="0" y="405">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,405][720,521]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="405"/>
+<property type="width" value="720"/>
+<property type="height" value="116"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="680" web="false" x="20" y="425">
+<properties>
+<property type="id" value="passwordTextField"/>
+<property type="resource-id" value="com.experitest.ExperiBank:id/passwordTextField"/>
+<property type="class" value="android.widget.EditText"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[20,425][700,521]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="true"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="20"/>
+<property type="y" value="425"/>
+<property type="width" value="680"/>
+<property type="height" value="96"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="96" ignored="false" w="320" web="false" x="200" y="541">
+<properties>
+<property type="id" value="loginButton"/>
+<property type="resource-id" value="com.experitest.ExperiBank:id/loginButton"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="Login"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[200,541][520,637]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="200"/>
+<property type="y" value="541"/>
+<property type="width" value="320"/>
+<property type="height" value="96"/>
+<property type="package" value="com.experitest.ExperiBank"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

@@ -1,0 +1,4357 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="drag_layer"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/drag_layer"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="workspace"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/workspace"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="contentDescription" value="Screen 4 of 5"/>
+<property type="content-desc" value="Screen 4 of 5"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1567" ignored="false" w="-2159" web="false" x="0" y="0">
+<properties>
+<property type="id" value="workspace_screen"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/workspace_screen"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-2159,1567]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-2159"/>
+<property type="height" value="1567"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1540" ignored="false" w="-2171" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-2171,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-2171"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="-29" ignored="false" w="-2699" web="false" x="0" y="0">
+<properties>
+<property type="id" value="default_screen_home_icon"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/default_screen_home_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Set default screen"/>
+<property type="content-desc" value="Set default screen"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-2699,-29]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-2699"/>
+<property type="height" value="-29"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1540" ignored="false" w="-2171" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][-2171,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-2171"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-2699" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="DialMyApp"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,90][-2699,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-2699"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-2171" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="contentDescription" value="Google"/>
+<property type="content-desc" value="Google"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,670][-2171,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-2171"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="192" ignored="false" w="-2195" web="false" x="0" y="719">
+<properties>
+<property type="id" value="default_search_widget"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/default_search_widget"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,719][-2195,911]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="719"/>
+<property type="width" value="-2195"/>
+<property type="height" value="192"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children>
+<node h="146" ignored="false" w="-2218" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_plate_container"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_plate_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,742][-2218,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2218"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children>
+<node h="146" ignored="false" w="-2218" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_widget_background_protection"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_widget_background_protection"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,742][-2218,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2218"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children/>
+</node>
+<node h="146" ignored="false" w="-2218" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_widget_background"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_widget_background"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,742][-2218,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2218"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children/>
+</node>
+<node h="146" ignored="false" w="-2218" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_plate"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_plate"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,742][-2218,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2218"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children>
+<node h="146" ignored="false" w="-2916" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_widget_google_logo"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_widget_google_logo"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Google Search"/>
+<property type="content-desc" value="Google Search"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,742][-2916,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2916"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children>
+<node h="146" ignored="false" w="-2916" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_widget_google_full"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_widget_google_full"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,742][-2916,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2916"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="146" ignored="false" w="-2386" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_edit_frame"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_edit_frame"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Google Search"/>
+<property type="content-desc" value="Google Search"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,742][-2386,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2386"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children>
+<node h="146" ignored="false" w="-2386" web="false" x="0" y="742">
+<properties>
+<property type="id" value="hint_text_alignment"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/hint_text_alignment"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,742][-2386,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2386"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children>
+<node h="146" ignored="false" w="-2386" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_widget_voice_hint"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_widget_voice_hint"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,742][-2386,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2386"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="146" ignored="false" w="-2218" web="false" x="0" y="742">
+<properties>
+<property type="id" value="search_widget_voice_btn"/>
+<property type="resource-id" value="com.google.android.googlequicksearchbox:id/search_widget_voice_btn"/>
+<property type="class" value="android.widget.ImageButton"/>
+<property type="contentDescription" value="Voice Search"/>
+<property type="content-desc" value="Voice Search"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,742][-2218,888]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageButton"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="742"/>
+<property type="width" value="-2218"/>
+<property type="height" value="146"/>
+<property type="package" value="com.google.android.googlequicksearchbox"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1567" ignored="false" w="-1079" web="false" x="0" y="0">
+<properties>
+<property type="id" value="workspace_screen"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/workspace_screen"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][-1079,1567]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-1079"/>
+<property type="height" value="1567"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1540" ignored="false" w="-1091" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-1091,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-1091"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="-29" ignored="false" w="-1619" web="false" x="0" y="0">
+<properties>
+<property type="id" value="default_screen_home_icon"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/default_screen_home_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Set default screen"/>
+<property type="content-desc" value="Set default screen"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-1619,-29]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-1619"/>
+<property type="height" value="-29"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1540" ignored="false" w="-1091" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][-1091,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-1091"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="contentDescription" value="Weather"/>
+<property type="content-desc" value="Weather"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,90][-1091,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,90][-1091,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="90">
+<properties>
+<property type="id" value="widget_weather_mainlayout"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_weather_mainlayout"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,90][-1091,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children>
+<node h="279" ignored="false" w="-1097" web="false" x="0" y="95">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,95][-1097,374]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="95"/>
+<property type="width" value="-1097"/>
+<property type="height" value="279"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children>
+<node h="279" ignored="false" w="-1097" web="false" x="0" y="95">
+<properties>
+<property type="id" value="widget_weather_background_icon"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_weather_background_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,95][-1097,374]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="95"/>
+<property type="width" value="-1097"/>
+<property type="height" value="279"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+<node h="163" ignored="false" w="-1680" web="false" x="0" y="167">
+<properties>
+<property type="id" value="time_display"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/time_display"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="contentDescription" value="11:38"/>
+<property type="content-desc" value="11:38"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,167][-1680,330]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="167"/>
+<property type="width" value="-1680"/>
+<property type="height" value="163"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children>
+<node h="162" ignored="false" w="-1910" web="false" x="0" y="167">
+<properties>
+<property type="id" value="widget_time_hour"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_time_hour"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="11"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,167][-1910,329]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="167"/>
+<property type="width" value="-1910"/>
+<property type="height" value="162"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+<node h="162" ignored="false" w="-1880" web="false" x="0" y="167">
+<properties>
+<property type="id" value="widget_time_colon"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_time_colon"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value=":"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,167][-1880,329]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="167"/>
+<property type="width" value="-1880"/>
+<property type="height" value="162"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+<node h="162" ignored="false" w="-1682" web="false" x="0" y="167">
+<properties>
+<property type="id" value="widget_time_minute"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_time_minute"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="38"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,167][-1682,329]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="167"/>
+<property type="width" value="-1682"/>
+<property type="height" value="162"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="132" ignored="false" w="-1453" web="false" x="0" y="169">
+<properties>
+<property type="id" value="city_name_layout"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/city_name_layout"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,169][-1453,301]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="169"/>
+<property type="width" value="-1453"/>
+<property type="height" value="132"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="-1453" web="false" x="0" y="209">
+<properties>
+<property type="id" value="widget_city_name"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_city_name"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Hadassim"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,209][-1453,260]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="209"/>
+<property type="width" value="-1453"/>
+<property type="height" value="51"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="49" ignored="false" w="-1582" web="false" x="0" y="263">
+<properties>
+<property type="id" value="widget_city_date"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_city_date"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Nov 9"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,263][-1582,312]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="263"/>
+<property type="width" value="-1582"/>
+<property type="height" value="49"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+<node h="52" ignored="false" w="-1109" web="false" x="0" y="266">
+<properties>
+<property type="id" value="include_widget_temperature"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/include_widget_temperature"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,266][-1109,318]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="266"/>
+<property type="width" value="-1109"/>
+<property type="height" value="52"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children>
+<node h="52" ignored="false" w="-1281" web="false" x="0" y="266">
+<properties>
+<property type="id" value="widget_current_temperature"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_current_temperature"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="73"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,266][-1281,318]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="266"/>
+<property type="width" value="-1281"/>
+<property type="height" value="52"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+<node h="52" ignored="false" w="-1254" web="false" x="0" y="266">
+<properties>
+<property type="id" value="widget_current_temperature_unit"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_current_temperature_unit"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="℉"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,266][-1254,318]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="266"/>
+<property type="width" value="-1254"/>
+<property type="height" value="52"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+<node h="44" ignored="false" w="-1133" web="false" x="0" y="274">
+<properties>
+<property type="id" value="widget_highlow_temperature"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_highlow_temperature"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="76°/55°"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,274][-1133,318]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="274"/>
+<property type="width" value="-1133"/>
+<property type="height" value="44"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="108" ignored="false" w="-1177" web="false" x="0" y="164">
+<properties>
+<property type="id" value="widget_currentweather_smallicon"/>
+<property type="resource-id" value="com.huawei.android.totemweather:id/widget_currentweather_smallicon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Partly sunny"/>
+<property type="content-desc" value="Partly sunny"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[0,164][-1177,272]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="164"/>
+<property type="width" value="-1177"/>
+<property type="height" value="108"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,90][-1091,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.totemweather"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-1619" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="contentDescription" value="Gallery"/>
+<property type="content-desc" value="Gallery"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,380][-1619,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1619"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1619" web="false" x="0" y="380">
+<properties>
+<property type="id" value="appwidget_view"/>
+<property type="resource-id" value="com.android.gallery3d:id/appwidget_view"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,380][-1619,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1619"/>
+<property type="height" value="290"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.gallery3d"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1619" web="false" x="0" y="380">
+<properties>
+<property type="id" value="appwidget_image_view"/>
+<property type="resource-id" value="com.android.gallery3d:id/appwidget_image_view"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,380][-1619,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1619"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.gallery3d"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-1619" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,380][-1619,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1619"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.gallery3d"/>
+</properties>
+<children/>
+</node>
+<node h="149" ignored="false" w="-1619" web="false" x="0" y="521">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,521][-1619,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="521"/>
+<property type="width" value="-1619"/>
+<property type="height" value="149"/>
+<property type="package" value="com.android.gallery3d"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="-1835" web="false" x="0" y="598">
+<properties>
+<property type="id" value="appwidget_album_name"/>
+<property type="resource-id" value="com.android.gallery3d:id/appwidget_album_name"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Choose an album"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,598][-1835,647]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="598"/>
+<property type="width" value="-1835"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.gallery3d"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.appwidget.AppWidgetHostView"/>
+<property type="contentDescription" value="Music"/>
+<property type="content-desc" value="Music"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,380][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.appwidget.AppWidgetHostView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,380][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="380">
+<properties>
+<property type="id" value="widget_frame_layout"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_frame_layout"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,380][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="380">
+<properties>
+<property type="id" value="widget_id_controlbar"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_id_controlbar"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,380][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="380">
+<properties>
+<property type="id" value="widget_album_layout"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_album_layout"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,380][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children>
+<node h="279" ignored="false" w="-1097" web="false" x="0" y="385">
+<properties>
+<property type="id" value="widget_id_album_cover"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_id_album_cover"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Open application"/>
+<property type="content-desc" value="Open application"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,385][-1097,664]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="385"/>
+<property type="width" value="-1097"/>
+<property type="height" value="279"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="380">
+<properties>
+<property type="id" value="widget_bg"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_bg"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,380][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+<node h="149" ignored="false" w="-1091" web="false" x="0" y="521">
+<properties>
+<property type="id" value="text_bg"/>
+<property type="resource-id" value="com.android.mediacenter:id/text_bg"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,521][-1091,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="521"/>
+<property type="width" value="-1091"/>
+<property type="height" value="149"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="-1444" web="false" x="0" y="475">
+<properties>
+<property type="id" value="widget_id_control_prev"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_id_control_prev"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Previous"/>
+<property type="content-desc" value="Previous"/>
+<property type="enabled" value="false"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,475][-1444,571]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="475"/>
+<property type="width" value="-1444"/>
+<property type="height" value="96"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="-1307" web="false" x="0" y="475">
+<properties>
+<property type="id" value="widget_id_control_play"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_id_control_play"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Play or pause"/>
+<property type="content-desc" value="Play or pause"/>
+<property type="enabled" value="false"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,475][-1307,571]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="475"/>
+<property type="width" value="-1307"/>
+<property type="height" value="96"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="-1170" web="false" x="0" y="475">
+<properties>
+<property type="id" value="widget_id_control_next"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_id_control_next"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Next"/>
+<property type="content-desc" value="Next"/>
+<property type="enabled" value="false"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[0,475][-1170,571]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="475"/>
+<property type="width" value="-1170"/>
+<property type="height" value="96"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="-1124" web="false" x="0" y="606">
+<properties>
+<property type="id" value="widget_song_title_layout"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_song_title_layout"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[0,606][-1124,655]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="606"/>
+<property type="width" value="-1124"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children>
+<node h="49" ignored="false" w="-1278" web="false" x="0" y="606">
+<properties>
+<property type="id" value="widget_id_title"/>
+<property type="resource-id" value="com.android.mediacenter:id/widget_id_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="No songs"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,606][-1278,655]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="606"/>
+<property type="width" value="-1278"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.mediacenter"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-1883" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Messaging"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,670][-1883,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-1883"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-1619" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Messaging"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,670][-1619,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-1619"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-1355" web="false" x="0" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Play Store"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[0,960][-1355,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="960"/>
+<property type="width" value="-1355"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-1883" web="false" x="0" y="1250">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="contentDescription" value="Folder: Google"/>
+<property type="content-desc" value="Folder: Google"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[0,1250][-1883,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="-1883"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="180" ignored="false" w="-1925" web="false" x="0" y="1270">
+<properties>
+<property type="id" value="preview_background"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/preview_background"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1270][-1925,1450]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1270"/>
+<property type="width" value="-1925"/>
+<property type="height" value="180"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="78" ignored="false" w="-1883" web="false" x="0" y="1462">
+<properties>
+<property type="id" value="folder_icon_name"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/folder_icon_name"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Google"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,1462][-1883,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1462"/>
+<property type="width" value="-1883"/>
+<property type="height" value="78"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-1091" web="false" x="0" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Gallery"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[0,1250][-1091,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="-1091"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1567" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="id" value="workspace_screen"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/workspace_screen"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,0][0,1567]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="1567"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1540" ignored="false" w="-11" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-11,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-11"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="-29" ignored="false" w="-539" web="false" x="0" y="0">
+<properties>
+<property type="id" value="default_screen_home_icon"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/default_screen_home_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Set default screen"/>
+<property type="content-desc" value="Set default screen"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][-539,-29]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-539"/>
+<property type="height" value="-29"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1540" ignored="false" w="-11" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][-11,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="-11"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-803" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Music"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,90][-803,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-803"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-539" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Videos"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,90][-539,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-539"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-275" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Calendar"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,90][-275,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-275"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-11" web="false" x="0" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Email"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,90][-11,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="90"/>
+<property type="width" value="-11"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-803" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Themes"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,380][-803,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-803"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-539" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Phone Manager"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[0,380][-539,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-539"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-275" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="HiCare"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[0,380][-275,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-275"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-11" web="false" x="0" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Settings"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[0,380][-11,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="380"/>
+<property type="width" value="-11"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-803" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Health"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[0,670][-803,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-803"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-539" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="contentDescription" value="Folder: Tools"/>
+<property type="content-desc" value="Folder: Tools"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="9"/>
+<property type="bounds" value="[0,670][-539,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-539"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="180" ignored="false" w="-581" web="false" x="0" y="690">
+<properties>
+<property type="id" value="preview_background"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/preview_background"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,690][-581,870]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="690"/>
+<property type="width" value="-581"/>
+<property type="height" value="180"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="78" ignored="false" w="-539" web="false" x="0" y="882">
+<properties>
+<property type="id" value="folder_icon_name"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/folder_icon_name"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Tools"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,882][-539,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="882"/>
+<property type="width" value="-539"/>
+<property type="height" value="78"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-275" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="contentDescription" value="Folder: Top Apps"/>
+<property type="content-desc" value="Folder: Top Apps"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="10"/>
+<property type="bounds" value="[0,670][-275,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-275"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="180" ignored="false" w="-317" web="false" x="0" y="690">
+<properties>
+<property type="id" value="preview_background"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/preview_background"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,690][-317,870]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="690"/>
+<property type="width" value="-317"/>
+<property type="height" value="180"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="78" ignored="false" w="-275" web="false" x="0" y="882">
+<properties>
+<property type="id" value="folder_icon_name"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/folder_icon_name"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Top Apps"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,882][-275,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="882"/>
+<property type="width" value="-275"/>
+<property type="height" value="78"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="290" ignored="false" w="-11" web="false" x="0" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="FedEx"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="11"/>
+<property type="bounds" value="[0,670][-11,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="670"/>
+<property type="width" value="-11"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-803" web="false" x="0" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ScreenCapture"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="12"/>
+<property type="bounds" value="[0,960][-803,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="960"/>
+<property type="width" value="-803"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-539" web="false" x="0" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Appium Settings"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="13"/>
+<property type="bounds" value="[0,960][-539,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="960"/>
+<property type="width" value="-539"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-275" web="false" x="0" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Unlock"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="14"/>
+<property type="bounds" value="[0,960][-275,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="960"/>
+<property type="width" value="-275"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-11" web="false" x="0" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="API Demos"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="15"/>
+<property type="bounds" value="[0,960][-11,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="960"/>
+<property type="width" value="-11"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-803" web="false" x="0" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Servus"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="16"/>
+<property type="bounds" value="[0,1250][-803,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="-803"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-539" web="false" x="0" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ynet"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="17"/>
+<property type="bounds" value="[0,1250][-539,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="-539"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-275" web="false" x="0" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="UIAutomator"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="18"/>
+<property type="bounds" value="[0,1250][-275,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="-275"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-11" web="false" x="0" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="EriBank"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="19"/>
+<property type="bounds" value="[0,1250][-11,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="-11"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1567" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="workspace_screen"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/workspace_screen"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,0][1080,1567]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1567"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1540" ignored="false" w="1056" web="false" x="12" y="0">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[12,0][1068,1540]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="0"/>
+<property type="width" value="1056"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="-29" ignored="false" w="0" web="false" x="540" y="0">
+<properties>
+<property type="id" value="default_screen_home_icon"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/default_screen_home_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Set default screen"/>
+<property type="content-desc" value="Set default screen"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[540,0][540,-29]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="540"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="-29"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1540" ignored="false" w="1056" web="false" x="12" y="0">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[12,0][1068,1540]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="0"/>
+<property type="width" value="1056"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="264" web="false" x="12" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="QR Code Reader"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[12,90][276,380]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="90"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="276" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Islands_game"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[276,90][540,380]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="276"/>
+<property type="y" value="90"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="540" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="BrowserDemo"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[540,90][804,380]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="90"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="804" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Messenger"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[804,90][1068,380]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="90"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="12" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ConquerMonsters"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[12,380][276,670]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="380"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="276" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="My Application3"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[276,380][540,670]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="276"/>
+<property type="y" value="380"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="540" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="EriInstrumentationHolder"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[540,380][804,670]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="380"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="804" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="MyImageCaptureAndCrop"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[804,380][1068,670]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="380"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="12" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="fooCam beta"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[12,670][276,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="670"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="276" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="EriBank"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="9"/>
+<property type="bounds" value="[276,670][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="276"/>
+<property type="y" value="670"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="540" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Good Work"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="10"/>
+<property type="bounds" value="[540,670][804,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="670"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="804" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="WeMo"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="11"/>
+<property type="bounds" value="[804,670][1068,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="670"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="12" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Cosmo"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="12"/>
+<property type="bounds" value="[12,960][276,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="960"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="276" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Security Mode"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="13"/>
+<property type="bounds" value="[276,960][540,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="276"/>
+<property type="y" value="960"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="540" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Air Canada"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="14"/>
+<property type="bounds" value="[540,960][804,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="960"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="804" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Maybank MY"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="15"/>
+<property type="bounds" value="[804,960][1068,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="960"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="12" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Chrome"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="16"/>
+<property type="bounds" value="[12,1250][276,1540]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="1250"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="276" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Print Service"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="17"/>
+<property type="bounds" value="[276,1250][540,1540]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="276"/>
+<property type="y" value="1250"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="540" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ExperitestDemo"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="18"/>
+<property type="bounds" value="[540,1250][804,1540]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="1250"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="264" web="false" x="804" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Voice Recorder"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="19"/>
+<property type="bounds" value="[804,1250][1068,1540]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="1250"/>
+<property type="width" value="264"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1567" ignored="false" w="0" web="false" x="1080" y="0">
+<properties>
+<property type="id" value="workspace_screen"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/workspace_screen"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[1080,0][1080,1567]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1080"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="1567"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="1540" ignored="false" w="-12" web="false" x="1092" y="0">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1092,0][1080,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="0"/>
+<property type="width" value="-12"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="-29" ignored="false" w="-540" web="false" x="1620" y="0">
+<properties>
+<property type="id" value="default_screen_home_icon"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/default_screen_home_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Set default screen"/>
+<property type="content-desc" value="Set default screen"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1620,0][1080,-29]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1620"/>
+<property type="y" value="0"/>
+<property type="width" value="-540"/>
+<property type="height" value="-29"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1540" ignored="false" w="-12" web="false" x="1092" y="0">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1092,0][1080,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="0"/>
+<property type="width" value="-12"/>
+<property type="height" value="1540"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="290" ignored="false" w="-12" web="false" x="1092" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="HubPro"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1092,90][1080,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="90"/>
+<property type="width" value="-12"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-276" web="false" x="1356" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="AutoTest"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1356,90][1080,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1356"/>
+<property type="y" value="90"/>
+<property type="width" value="-276"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-540" web="false" x="1620" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Supermóvil +"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[1620,90][1080,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1620"/>
+<property type="y" value="90"/>
+<property type="width" value="-540"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-804" web="false" x="1884" y="90">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="InstaBeauty"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1884,90][1080,380]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1884"/>
+<property type="y" value="90"/>
+<property type="width" value="-804"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-12" web="false" x="1092" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Network Tools"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[1092,380][1080,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="380"/>
+<property type="width" value="-12"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-276" web="false" x="1356" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="My Application"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[1356,380][1080,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1356"/>
+<property type="y" value="380"/>
+<property type="width" value="-276"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-540" web="false" x="1620" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Catch the rectangle"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[1620,380][1080,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1620"/>
+<property type="y" value="380"/>
+<property type="width" value="-540"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-804" web="false" x="1884" y="380">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Basic Espresso sample"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[1884,380][1080,670]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1884"/>
+<property type="y" value="380"/>
+<property type="width" value="-804"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-12" web="false" x="1092" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="NoPermissionApp"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[1092,670][1080,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="670"/>
+<property type="width" value="-12"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-276" web="false" x="1356" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="com.experitest.uicatalog"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="9"/>
+<property type="bounds" value="[1356,670][1080,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1356"/>
+<property type="y" value="670"/>
+<property type="width" value="-276"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-540" web="false" x="1620" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Espresso Test App"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="10"/>
+<property type="bounds" value="[1620,670][1080,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1620"/>
+<property type="y" value="670"/>
+<property type="width" value="-540"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-804" web="false" x="1884" y="670">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ApplicationA"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="11"/>
+<property type="bounds" value="[1884,670][1080,960]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1884"/>
+<property type="y" value="670"/>
+<property type="width" value="-804"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-12" web="false" x="1092" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Fidelity"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="12"/>
+<property type="bounds" value="[1092,960][1080,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="960"/>
+<property type="width" value="-12"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-276" web="false" x="1356" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="AsymmetricFingerprintDialog"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="13"/>
+<property type="bounds" value="[1356,960][1080,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1356"/>
+<property type="y" value="960"/>
+<property type="width" value="-276"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-540" web="false" x="1620" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Camera"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="14"/>
+<property type="bounds" value="[1620,960][1080,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1620"/>
+<property type="y" value="960"/>
+<property type="width" value="-540"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-804" web="false" x="1884" y="960">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Chrome Beta"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="15"/>
+<property type="bounds" value="[1884,960][1080,1250]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1884"/>
+<property type="y" value="960"/>
+<property type="width" value="-804"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-12" web="false" x="1092" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="camera flash"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="16"/>
+<property type="bounds" value="[1092,1250][1080,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1092"/>
+<property type="y" value="1250"/>
+<property type="width" value="-12"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-276" web="false" x="1356" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Camera"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="17"/>
+<property type="bounds" value="[1356,1250][1080,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1356"/>
+<property type="y" value="1250"/>
+<property type="width" value="-276"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-540" web="false" x="1620" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="FingerprintDialog"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="18"/>
+<property type="bounds" value="[1620,1250][1080,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1620"/>
+<property type="y" value="1250"/>
+<property type="width" value="-540"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="290" ignored="false" w="-804" web="false" x="1884" y="1250">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="FingerPrint"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="19"/>
+<property type="bounds" value="[1884,1250][1080,1540]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1884"/>
+<property type="y" value="1250"/>
+<property type="width" value="-804"/>
+<property type="height" value="290"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="108" ignored="false" w="1080" web="false" x="0" y="1528">
+<properties>
+<property type="id" value="dock_divider"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/dock_divider"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Page Indicator"/>
+<property type="content-desc" value="Page Indicator"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,1528][1080,1636]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1528"/>
+<property type="width" value="1080"/>
+<property type="height" value="108"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="273" ignored="false" w="1080" web="false" x="0" y="1577">
+<properties>
+<property type="id" value="hotseat"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/hotseat"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,1577][1080,1850]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1577"/>
+<property type="width" value="1080"/>
+<property type="height" value="273"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="273" ignored="false" w="1080" web="false" x="0" y="1577">
+<properties>
+<property type="id" value="bg_dock"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/bg_dock"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1577][1080,1850]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1577"/>
+<property type="width" value="1080"/>
+<property type="height" value="273"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="273" ignored="false" w="594" web="false" x="243" y="1577">
+<properties>
+<property type="id" value="layout"/>
+<property type="resource-id" value="com.huawei.android.launcher:id/layout"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[243,1577][837,1850]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="243"/>
+<property type="y" value="1577"/>
+<property type="width" value="594"/>
+<property type="height" value="273"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="273" ignored="false" w="540" web="false" x="270" y="1577">
+<properties>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[270,1577][810,1850]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="270"/>
+<property type="y" value="1577"/>
+<property type="width" value="540"/>
+<property type="height" value="273"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children>
+<node h="273" ignored="false" w="240" web="false" x="270" y="1577">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="Dialer"/>
+<property type="content-desc" value="Dialer"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[270,1577][510,1850]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="270"/>
+<property type="y" value="1577"/>
+<property type="width" value="240"/>
+<property type="height" value="273"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+<node h="273" ignored="false" w="240" web="false" x="570" y="1577">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="Contacts"/>
+<property type="content-desc" value="Contacts"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[570,1577][810,1850]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="570"/>
+<property type="y" value="1577"/>
+<property type="width" value="240"/>
+<property type="height" value="273"/>
+<property type="package" value="com.huawei.android.launcher"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

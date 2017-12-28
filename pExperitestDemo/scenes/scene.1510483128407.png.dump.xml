@@ -1,0 +1,2601 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="App Store"/>
+<property type="text" value="App Store"/>
+<property type="XCElementType" value="XCUIElementTypeApplication"/>
+<property type="name" value="App Store"/>
+<property type="label" value="App Store"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIApplication"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UILayoutContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UITransitionView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIViewControllerWrapperView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UILayoutContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="accessibilityLabel" value="SKUIDocumentContainerView"/>
+<property type="value" value="SKUIDocumentContainerView"/>
+<property type="text" value="SKUIDocumentContainerView"/>
+<property type="XCElementType" value="XCUIElementTypeNavigationBar"/>
+<property type="name" value="SKUIDocumentContainerView"/>
+<property type="label" value="SKUIDocumentContainerView"/>
+<property type="class" value="UIANavigationBar"/>
+<property type="knownSuperClass" value="UINavigationBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="718" web="false" x="16" y="40">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UISearchBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="40"/>
+<property type="width" value="718"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="56" ignored="false" w="718" web="false" x="16" y="56">
+<properties>
+<property type="value" value="flashlight"/>
+<property type="text" value="Search"/>
+<property type="XCElementType" value="XCUIElementTypeSearchField"/>
+<property type="name" value="Search"/>
+<property type="label" value="Search"/>
+<property type="placeholder" value="Search"/>
+<property type="class" value="UIATextField"/>
+<property type="knownSuperClass" value="UISearchBarTextField"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="56"/>
+<property type="width" value="718"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="38" ignored="false" w="38" web="false" x="684" y="64">
+<properties>
+<property type="value" value="Clear text"/>
+<property type="text" value="Clear text"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Clear text"/>
+<property type="label" value="Clear text"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="684"/>
+<property type="y" value="64"/>
+<property type="width" value="38"/>
+<property type="height" value="38"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="750" web="false" x="0" y="128">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UINavigationControllerPalette"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="750" web="false" x="0" y="128">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="94" web="false" x="30" y="128">
+<properties>
+<property type="value" value="Related:"/>
+<property type="text" value="Related:"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="Related:"/>
+<property type="label" value="Related:"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="30"/>
+<property type="y" value="128"/>
+<property type="width" value="94"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="626" web="false" x="124" y="128">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="124"/>
+<property type="y" value="128"/>
+<property type="width" value="626"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="626" web="false" x="124" y="128">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeScrollView"/>
+<property type="class" value="UIAScrollView"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="124"/>
+<property type="y" value="128"/>
+<property type="width" value="626"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="70" web="false" x="142" y="128">
+<properties>
+<property type="value" value="tools"/>
+<property type="text" value="tools"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="tools"/>
+<property type="label" value="tools"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="142"/>
+<property type="y" value="128"/>
+<property type="width" value="70"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="64" web="false" x="248" y="128">
+<properties>
+<property type="value" value="light"/>
+<property type="text" value="light"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="light"/>
+<property type="label" value="light"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="248"/>
+<property type="y" value="128"/>
+<property type="width" value="64"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="208" web="false" x="348" y="128">
+<properties>
+<property type="value" value="punjabi keyboard"/>
+<property type="text" value="punjabi keyboard"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="punjabi keyboard"/>
+<property type="label" value="punjabi keyboard"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="348"/>
+<property type="y" value="128"/>
+<property type="width" value="208"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="176" web="false" x="592" y="128">
+<properties>
+<property type="value" value="windat opener"/>
+<property type="text" value="windat opener"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="windat opener"/>
+<property type="label" value="windat opener"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="592"/>
+<property type="y" value="128"/>
+<property type="width" value="176"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="156" web="false" x="804" y="128">
+<properties>
+<property type="value" value="tally counter"/>
+<property type="text" value="tally counter"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="tally counter"/>
+<property type="label" value="tally counter"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="128"/>
+<property type="width" value="156"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="164" web="false" x="996" y="128">
+<properties>
+<property type="value" value="word counter"/>
+<property type="text" value="word counter"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="word counter"/>
+<property type="label" value="word counter"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="996"/>
+<property type="y" value="128"/>
+<property type="width" value="164"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="70" web="false" x="1196" y="128">
+<properties>
+<property type="value" value="flash"/>
+<property type="text" value="flash"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="flash"/>
+<property type="label" value="flash"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1196"/>
+<property type="y" value="128"/>
+<property type="width" value="70"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UINavigationTransitionView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIViewControllerWrapperView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCollectionView"/>
+<property type="class" value="UIACollectionView"/>
+<property type="knownSuperClass" value="UICollectionView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="286" ignored="false" w="750" web="false" x="0" y="168">
+<properties>
+<property type="value" value="Advertisement, Flashlight Ⓞ, iHandy Inc., Bright. Fast. Simple. The most elegant and functional flashlight app, ever! And it even goes with a compass, giving you the direction in the darkness. Don't miss it!&#10;&#10;New feature:&#10;&#10;• Built-in Mini Map, by tapping on the compass&#10;• LED brightness control &#10;• Full support for iPhone 7 Plus big screen&#10;&#10;Features:&#10;&#10;• Brightest Flashlight instantly ON&#10;• Always-On compass&#10;• Strobe mode with 10 different frequencies&#10;• Built-in SOS signal&#10;• Intuitive and elegant UI design&#10;&#10;Continued use of the flash may dramatically decrease battery life."/>
+<property type="text" value="Advertisement, Flashlight Ⓞ, iHandy Inc., Bright. Fast. Simple. The most elegant and functional flashlight app, ever! And it even goes with a compass, giving you the direction in the darkness. Don't miss it!&#10;&#10;New feature:&#10;&#10;• Built-in Mini Map, by tapping on the compass&#10;• LED brightness control &#10;• Full support for iPhone 7 Plus big screen&#10;&#10;Features:&#10;&#10;• Brightest Flashlight instantly ON&#10;• Always-On compass&#10;• Strobe mode with 10 different frequencies&#10;• Built-in SOS signal&#10;• Intuitive and elegant UI design&#10;&#10;Continued use of the flash may dramatically decrease battery life."/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Advertisement, Flashlight Ⓞ, iHandy Inc., Bright. Fast. Simple. The most elegant and functional flashlight app, ever! And it even goes with a compass, giving you the direction in the darkness. Don't miss it!&#10;&#10;New feature:&#10;&#10;• Built-in Mini Map, by tapping on the compass&#10;• LED brightness control &#10;• Full support for iPhone 7 Plus big screen&#10;&#10;Features:&#10;&#10;• Brightest Flashlight instantly ON&#10;• Always-On compass&#10;• Strobe mode with 10 different frequencies&#10;• Built-in SOS signal&#10;• Intuitive and elegant UI design&#10;&#10;Continued use of the flash may dramatically decrease battery life."/>
+<property type="label" value="Advertisement, Flashlight Ⓞ, iHandy Inc., Bright. Fast. Simple. The most elegant and functional flashlight app, ever! And it even goes with a compass, giving you the direction in the darkness. Don't miss it!&#10;&#10;New feature:&#10;&#10;• Built-in Mini Map, by tapping on the compass&#10;• LED brightness control &#10;• Full support for iPhone 7 Plus big screen&#10;&#10;Features:&#10;&#10;• Brightest Flashlight instantly ON&#10;• Always-On compass&#10;• Strobe mode with 10 different frequencies&#10;• Built-in SOS signal&#10;• Intuitive and elegant UI design&#10;&#10;Continued use of the flash may dramatically decrease battery life."/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="168"/>
+<property type="width" value="750"/>
+<property type="height" value="286"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="26" ignored="false" w="44" web="false" x="204" y="284">
+<properties>
+<property type="accessibilityLabel" value="Ad"/>
+<property type="value" value="Ad"/>
+<property type="text" value="Ad"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Ad"/>
+<property type="label" value="Ad"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="284"/>
+<property type="width" value="44"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="52" ignored="false" w="114" web="false" x="596" y="254">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="254"/>
+<property type="width" value="114"/>
+<property type="height" value="52"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="52" ignored="false" w="94" web="false" x="616" y="254">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="GET"/>
+<property type="text" value="GET"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="GET"/>
+<property type="label" value="GET"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="616"/>
+<property type="y" value="254"/>
+<property type="width" value="94"/>
+<property type="height" value="52"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="454">
+<properties>
+<property type="value" value="Flashlight Ⓞ, iHandy Inc."/>
+<property type="text" value="Flashlight Ⓞ, iHandy Inc."/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight Ⓞ, iHandy Inc."/>
+<property type="label" value="Flashlight Ⓞ, iHandy Inc."/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="454"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="52" ignored="false" w="114" web="false" x="596" y="540">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="540"/>
+<property type="width" value="114"/>
+<property type="height" value="52"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="52" ignored="false" w="94" web="false" x="616" y="540">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="GET"/>
+<property type="text" value="GET"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="GET"/>
+<property type="label" value="GET"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="616"/>
+<property type="y" value="540"/>
+<property type="width" value="94"/>
+<property type="height" value="52"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="1298">
+<properties>
+<property type="value" value="Flashlight for iPhone , iPod and iPad, Lemondo Entertainment, four and a half stars, (15,713) user reviews"/>
+<property type="text" value="Flashlight for iPhone , iPod and iPad, Lemondo Entertainment, four and a half stars, (15,713) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight for iPhone , iPod and iPad, Lemondo Entertainment, four and a half stars, (15,713) user reviews"/>
+<property type="label" value="Flashlight for iPhone , iPod and iPad, Lemondo Entertainment, four and a half stars, (15,713) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1298"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="98" ignored="false" w="114" web="false" x="596" y="1360">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="1360"/>
+<property type="width" value="114"/>
+<property type="height" value="98"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="52" ignored="false" w="94" web="false" x="616" y="1360">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="GET"/>
+<property type="text" value="GET"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="GET"/>
+<property type="label" value="GET"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="616"/>
+<property type="y" value="1360"/>
+<property type="width" value="94"/>
+<property type="height" value="52"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="84" web="false" x="620" y="1418">
+<properties>
+<property type="value" value="In-App Purchases"/>
+<property type="text" value="In-App Purchases"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="In-App Purchases"/>
+<property type="label" value="In-App Purchases"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="620"/>
+<property type="y" value="1418"/>
+<property type="width" value="84"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight ¤, Surpax Technology Inc., four and a half stars, (261) user reviews, Offers Apple Watch App"/>
+<property type="text" value="Flashlight ¤, Surpax Technology Inc., four and a half stars, (261) user reviews, Offers Apple Watch App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight ¤, Surpax Technology Inc., four and a half stars, (261) user reviews, Offers Apple Watch App"/>
+<property type="label" value="Flashlight ¤, Surpax Technology Inc., four and a half stars, (261) user reviews, Offers Apple Watch App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="myLite LED Flashlight &amp; Strobe Light for iPhone and iPod - Free, doapp, inc, three stars, (236) user reviews"/>
+<property type="text" value="myLite LED Flashlight &amp; Strobe Light for iPhone and iPod - Free, doapp, inc, three stars, (236) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="myLite LED Flashlight &amp; Strobe Light for iPhone and iPod - Free, doapp, inc, three stars, (236) user reviews"/>
+<property type="label" value="myLite LED Flashlight &amp; Strobe Light for iPhone and iPod - Free, doapp, inc, three stars, (236) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight ⊜, Noah Corp., four and a half stars, (397) user reviews"/>
+<property type="text" value="Flashlight ⊜, Noah Corp., four and a half stars, (397) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight ⊜, Noah Corp., four and a half stars, (397) user reviews"/>
+<property type="label" value="Flashlight ⊜, Noah Corp., four and a half stars, (397) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="700" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight., Apps From Outer Space, LLC, one and a half stars, (23) user reviews, Offers iMessage App"/>
+<property type="text" value="Flashlight., Apps From Outer Space, LLC, one and a half stars, (23) user reviews, Offers iMessage App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight., Apps From Outer Space, LLC, one and a half stars, (23) user reviews, Offers iMessage App"/>
+<property type="label" value="Flashlight., Apps From Outer Space, LLC, one and a half stars, (23) user reviews, Offers iMessage App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="700"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight ◎, MobileTrends Inc., four stars, (296) user reviews"/>
+<property type="text" value="Flashlight ◎, MobileTrends Inc., four stars, (296) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight ◎, MobileTrends Inc., four stars, (296) user reviews"/>
+<property type="label" value="Flashlight ◎, MobileTrends Inc., four stars, (296) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight ∞, iHandy Inc., four and a half stars, (293) user reviews"/>
+<property type="text" value="Flashlight ∞, iHandy Inc., four and a half stars, (293) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight ∞, iHandy Inc., four and a half stars, (293) user reviews"/>
+<property type="label" value="Flashlight ∞, iHandy Inc., four and a half stars, (293) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="iLights Flashlight Free for iPhone 6, 5s, 5c, 5, 4s, &amp; 4, iPad, and iPod - LED Flash Light &amp; Strobe App, Appmosys, four stars, (505) user reviews, Offers Apple Watch App"/>
+<property type="text" value="iLights Flashlight Free for iPhone 6, 5s, 5c, 5, 4s, &amp; 4, iPad, and iPod - LED Flash Light &amp; Strobe App, Appmosys, four stars, (505) user reviews, Offers Apple Watch App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="iLights Flashlight Free for iPhone 6, 5s, 5c, 5, 4s, &amp; 4, iPad, and iPod - LED Flash Light &amp; Strobe App, Appmosys, four stars, (505) user reviews, Offers Apple Watch App"/>
+<property type="label" value="iLights Flashlight Free for iPhone 6, 5s, 5c, 5, 4s, &amp; 4, iPad, and iPod - LED Flash Light &amp; Strobe App, Appmosys, four stars, (505) user reviews, Offers Apple Watch App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="846" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Karaoke - Sing Unlimited Songs, Yokee Music, four and a half stars, (3,767) user reviews"/>
+<property type="text" value="Karaoke - Sing Unlimited Songs, Yokee Music, four and a half stars, (3,767) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Karaoke - Sing Unlimited Songs, Yokee Music, four and a half stars, (3,767) user reviews"/>
+<property type="label" value="Karaoke - Sing Unlimited Songs, Yokee Music, four and a half stars, (3,767) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="846"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Light - LED Flashlight, Jason Ting, four and a half stars, (140) user reviews"/>
+<property type="text" value="Light - LED Flashlight, Jason Ting, four and a half stars, (140) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Light - LED Flashlight, Jason Ting, four and a half stars, (140) user reviews"/>
+<property type="label" value="Light - LED Flashlight, Jason Ting, four and a half stars, (140) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="iLlumination US - Universal Flashlight, Erik Storli, three and a half stars, (17) user reviews"/>
+<property type="text" value="iLlumination US - Universal Flashlight, Erik Storli, three and a half stars, (17) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="iLlumination US - Universal Flashlight, Erik Storli, three and a half stars, (17) user reviews"/>
+<property type="label" value="iLlumination US - Universal Flashlight, Erik Storli, three and a half stars, (17) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight.®, Intellectual Flame Co., Ltd., four and a half stars, (46) user reviews, Offers Apple Watch App"/>
+<property type="text" value="Flashlight.®, Intellectual Flame Co., Ltd., four and a half stars, (46) user reviews, Offers Apple Watch App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight.®, Intellectual Flame Co., Ltd., four and a half stars, (46) user reviews, Offers Apple Watch App"/>
+<property type="label" value="Flashlight.®, Intellectual Flame Co., Ltd., four and a half stars, (46) user reviews, Offers Apple Watch App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="iTorch Flashlight - Led Flash Light for iPhone, Pixelinlove Ltd, four and a half stars, (107) user reviews, Offers Apple Watch App"/>
+<property type="text" value="iTorch Flashlight - Led Flash Light for iPhone, Pixelinlove Ltd, four and a half stars, (107) user reviews, Offers Apple Watch App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="iTorch Flashlight - Led Flash Light for iPhone, Pixelinlove Ltd, four and a half stars, (107) user reviews, Offers Apple Watch App"/>
+<property type="label" value="iTorch Flashlight - Led Flash Light for iPhone, Pixelinlove Ltd, four and a half stars, (107) user reviews, Offers Apple Watch App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Best Flash Light - Flashlight, RV AppStudios LLC, five stars, (1,775) user reviews"/>
+<property type="text" value="Best Flash Light - Flashlight, RV AppStudios LLC, five stars, (1,775) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Best Flash Light - Flashlight, RV AppStudios LLC, five stars, (1,775) user reviews"/>
+<property type="label" value="Best Flash Light - Flashlight, RV AppStudios LLC, five stars, (1,775) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="650" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Piano app by Yokee, Yokee Music, four and a half stars, (1,647) user reviews"/>
+<property type="text" value="Piano app by Yokee, Yokee Music, four and a half stars, (1,647) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Piano app by Yokee, Yokee Music, four and a half stars, (1,647) user reviews"/>
+<property type="label" value="Piano app by Yokee, Yokee Music, four and a half stars, (1,647) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="650"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Light - LED Flashlight &amp; Strobe Light for iPhone, iPod and iPad, Iddiction, four stars, (29) user reviews"/>
+<property type="text" value="Light - LED Flashlight &amp; Strobe Light for iPhone, iPod and iPad, Iddiction, four stars, (29) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Light - LED Flashlight &amp; Strobe Light for iPhone, iPod and iPad, Iddiction, four stars, (29) user reviews"/>
+<property type="label" value="Light - LED Flashlight &amp; Strobe Light for iPhone, iPod and iPad, Iddiction, four stars, (29) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="New Cool Text: Fonts FX,Emoji Font &amp; Font Keyboard, iphonebestsoft .com, four and a half stars, (736) user reviews"/>
+<property type="text" value="New Cool Text: Fonts FX,Emoji Font &amp; Font Keyboard, iphonebestsoft .com, four and a half stars, (736) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="New Cool Text: Fonts FX,Emoji Font &amp; Font Keyboard, iphonebestsoft .com, four and a half stars, (736) user reviews"/>
+<property type="label" value="New Cool Text: Fonts FX,Emoji Font &amp; Font Keyboard, iphonebestsoft .com, four and a half stars, (736) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="650" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Alarm Clock Free, iHandy Inc., four stars, (310) user reviews"/>
+<property type="text" value="Alarm Clock Free, iHandy Inc., four stars, (310) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Alarm Clock Free, iHandy Inc., four stars, (310) user reviews"/>
+<property type="label" value="Alarm Clock Free, iHandy Inc., four stars, (310) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="650"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight ◌, iHandy Inc., four and a half stars, (31) user reviews"/>
+<property type="text" value="Flashlight ◌, iHandy Inc., four and a half stars, (31) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight ◌, iHandy Inc., four and a half stars, (31) user reviews"/>
+<property type="label" value="Flashlight ◌, iHandy Inc., four and a half stars, (31) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="LED Light - Flashlight, BLUE WIND, five stars, (84) user reviews"/>
+<property type="text" value="LED Light - Flashlight, BLUE WIND, five stars, (84) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="LED Light - Flashlight, BLUE WIND, five stars, (84) user reviews"/>
+<property type="label" value="LED Light - Flashlight, BLUE WIND, five stars, (84) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Nightstand Central Alarm Clock, Thomas Huntington, four and a half stars, (1,302) user reviews"/>
+<property type="text" value="Nightstand Central Alarm Clock, Thomas Huntington, four and a half stars, (1,302) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Nightstand Central Alarm Clock, Thomas Huntington, four and a half stars, (1,302) user reviews"/>
+<property type="label" value="Nightstand Central Alarm Clock, Thomas Huntington, four and a half stars, (1,302) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Virtual Lighter, iHandy Inc., four stars, (52) user reviews"/>
+<property type="text" value="Virtual Lighter, iHandy Inc., four stars, (52) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Virtual Lighter, iHandy Inc., four stars, (52) user reviews"/>
+<property type="label" value="Virtual Lighter, iHandy Inc., four stars, (52) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="824" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight - Brightest Flashlight Free, myNewApps.com, four stars, (146) user reviews"/>
+<property type="text" value="Flashlight - Brightest Flashlight Free, myNewApps.com, four stars, (146) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight - Brightest Flashlight Free, myNewApps.com, four stars, (146) user reviews"/>
+<property type="label" value="Flashlight - Brightest Flashlight Free, myNewApps.com, four stars, (146) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="824"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="756" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="LED Strobe Flashlight, ThunderKeyBolt, two and a half stars, (29) user reviews"/>
+<property type="text" value="LED Strobe Flashlight, ThunderKeyBolt, two and a half stars, (29) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="LED Strobe Flashlight, ThunderKeyBolt, two and a half stars, (29) user reviews"/>
+<property type="label" value="LED Strobe Flashlight, ThunderKeyBolt, two and a half stars, (29) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="756"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="756" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="MUSiC STROBE with LED Flashlight  it's a party in your pocket, FAD Games LLC, three stars, (16) user reviews"/>
+<property type="text" value="MUSiC STROBE with LED Flashlight  it's a party in your pocket, FAD Games LLC, three stars, (16) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="MUSiC STROBE with LED Flashlight  it's a party in your pocket, FAD Games LLC, three stars, (16) user reviews"/>
+<property type="label" value="MUSiC STROBE with LED Flashlight  it's a party in your pocket, FAD Games LLC, three stars, (16) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="756"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight by Rik, Henri Asseily, five stars, (35) user reviews"/>
+<property type="text" value="Flashlight by Rik, Henri Asseily, five stars, (35) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight by Rik, Henri Asseily, five stars, (35) user reviews"/>
+<property type="label" value="Flashlight by Rik, Henri Asseily, five stars, (35) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="756" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="iStrobe - Flash &amp; Strobe Light for iPhone 4, Nick Vellios, four stars, (65) user reviews"/>
+<property type="text" value="iStrobe - Flash &amp; Strobe Light for iPhone 4, Nick Vellios, four stars, (65) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="iStrobe - Flash &amp; Strobe Light for iPhone 4, Nick Vellios, four stars, (65) user reviews"/>
+<property type="label" value="iStrobe - Flash &amp; Strobe Light for iPhone 4, Nick Vellios, four stars, (65) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="756"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="700" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="FourChords Guitar Karaoke, Musopia, five stars, (28) user reviews, Offers Apple TV App"/>
+<property type="text" value="FourChords Guitar Karaoke, Musopia, five stars, (28) user reviews, Offers Apple TV App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="FourChords Guitar Karaoke, Musopia, five stars, (28) user reviews, Offers Apple TV App"/>
+<property type="label" value="FourChords Guitar Karaoke, Musopia, five stars, (28) user reviews, Offers Apple TV App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="700"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight Ω, Javoid, four stars, (24) user reviews"/>
+<property type="text" value="Flashlight Ω, Javoid, four stars, (24) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight Ω, Javoid, four stars, (24) user reviews"/>
+<property type="label" value="Flashlight Ω, Javoid, four stars, (24) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="842" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="iHandy Flashlight Pro, iHandy Inc., four and a half stars, (83) user reviews"/>
+<property type="text" value="iHandy Flashlight Pro, iHandy Inc., four and a half stars, (83) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="iHandy Flashlight Pro, iHandy Inc., four and a half stars, (83) user reviews"/>
+<property type="label" value="iHandy Flashlight Pro, iHandy Inc., four and a half stars, (83) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="842"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Alarm Clock Pro, iHandy Inc., three and a half stars, (327) user reviews"/>
+<property type="text" value="Alarm Clock Pro, iHandy Inc., three and a half stars, (327) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Alarm Clock Pro, iHandy Inc., three and a half stars, (327) user reviews"/>
+<property type="label" value="Alarm Clock Pro, iHandy Inc., three and a half stars, (327) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight for iPhone, iPad and iPod, DOUBLE U s.r.o., four stars, (105) user reviews"/>
+<property type="text" value="Flashlight for iPhone, iPad and iPod, DOUBLE U s.r.o., four stars, (105) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight for iPhone, iPad and iPod, DOUBLE U s.r.o., four stars, (105) user reviews"/>
+<property type="label" value="Flashlight for iPhone, iPad and iPod, DOUBLE U s.r.o., four stars, (105) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flashlight - Night Light Clock, Tim O's Studios, LLC, four and a half stars, (162) user reviews, Offers Apple Watch App"/>
+<property type="text" value="Flashlight - Night Light Clock, Tim O's Studios, LLC, four and a half stars, (162) user reviews, Offers Apple Watch App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flashlight - Night Light Clock, Tim O's Studios, LLC, four and a half stars, (162) user reviews, Offers Apple Watch App"/>
+<property type="label" value="Flashlight - Night Light Clock, Tim O's Studios, LLC, four and a half stars, (162) user reviews, Offers Apple Watch App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="FlashLight LED HD, smalltech sarl, four and a half stars, (12) user reviews, Offers Apple Watch App"/>
+<property type="text" value="FlashLight LED HD, smalltech sarl, four and a half stars, (12) user reviews, Offers Apple Watch App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="FlashLight LED HD, smalltech sarl, four and a half stars, (12) user reviews, Offers Apple Watch App"/>
+<property type="label" value="FlashLight LED HD, smalltech sarl, four and a half stars, (12) user reviews, Offers Apple Watch App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="756" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Flash-Light, CrossBridge, three and a half stars, (2,160) user reviews"/>
+<property type="text" value="Flash-Light, CrossBridge, three and a half stars, (2,160) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Flash-Light, CrossBridge, three and a half stars, (2,160) user reviews"/>
+<property type="label" value="Flash-Light, CrossBridge, three and a half stars, (2,160) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="756"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="894" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Symbol Infinity ∞ Keyboard for Emoji, Text Symbols, Cool GamApp Limited, four and a half stars, (290) user reviews, Offers iMessage App"/>
+<property type="text" value="Symbol Infinity ∞ Keyboard for Emoji, Text Symbols, Cool GamApp Limited, four and a half stars, (290) user reviews, Offers iMessage App"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Symbol Infinity ∞ Keyboard for Emoji, Text Symbols, Cool GamApp Limited, four and a half stars, (290) user reviews, Offers iMessage App"/>
+<property type="label" value="Symbol Infinity ∞ Keyboard for Emoji, Text Symbols, Cool GamApp Limited, four and a half stars, (290) user reviews, Offers iMessage App"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="894"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="844" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Battery Toolkit - Power Charge Life &amp; Unit Convert, Zhang liming, four stars, (11) user reviews"/>
+<property type="text" value="Battery Toolkit - Power Charge Life &amp; Unit Convert, Zhang liming, four stars, (11) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Battery Toolkit - Power Charge Life &amp; Unit Convert, Zhang liming, four stars, (11) user reviews"/>
+<property type="label" value="Battery Toolkit - Power Charge Life &amp; Unit Convert, Zhang liming, four stars, (11) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="844"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="756" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Mirror Mirror (FREE), U.S. Robots and Mechanical Men, Inc., one and a half stars, (140,018) user reviews"/>
+<property type="text" value="Mirror Mirror (FREE), U.S. Robots and Mechanical Men, Inc., one and a half stars, (140,018) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="name" value="Mirror Mirror (FREE), U.S. Robots and Mechanical Men, Inc., one and a half stars, (140,018) user reviews"/>
+<property type="label" value="Mirror Mirror (FREE), U.S. Robots and Mechanical Men, Inc., one and a half stars, (140,018) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="756"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="98" ignored="false" w="750" web="false" x="0" y="1236">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeTabBar"/>
+<property type="class" value="UIATabBar"/>
+<property type="knownSuperClass" value="UITabBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1236"/>
+<property type="width" value="750"/>
+<property type="height" value="98"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="142" web="false" x="4" y="1238">
+<properties>
+<property type="value" value="Featured"/>
+<property type="text" value="Featured"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Featured"/>
+<property type="label" value="Featured"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="4"/>
+<property type="y" value="1238"/>
+<property type="width" value="142"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="142" web="false" x="154" y="1238">
+<properties>
+<property type="value" value="Categories"/>
+<property type="text" value="Categories"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Categories"/>
+<property type="label" value="Categories"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="154"/>
+<property type="y" value="1238"/>
+<property type="width" value="142"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="142" web="false" x="304" y="1238">
+<properties>
+<property type="value" value="Top Charts"/>
+<property type="text" value="Top Charts"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Top Charts"/>
+<property type="label" value="Top Charts"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="304"/>
+<property type="y" value="1238"/>
+<property type="width" value="142"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="142" web="false" x="454" y="1238">
+<properties>
+<property type="value" value="Search"/>
+<property type="text" value="Search"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Search"/>
+<property type="label" value="Search"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="454"/>
+<property type="y" value="1238"/>
+<property type="width" value="142"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="142" web="false" x="604" y="1238">
+<properties>
+<property type="value" value="13 items"/>
+<property type="text" value="Updates"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Updates"/>
+<property type="label" value="Updates"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="604"/>
+<property type="y" value="1238"/>
+<property type="width" value="142"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UITextEffectsWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIInputSetContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIStatusBarWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeStatusBar"/>
+<property type="class" value="UIAStatusBar"/>
+<property type="knownSuperClass" value="UIStatusBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBackgroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarForegroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="82" web="false" x="12" y="0">
+<properties>
+<property type="value" value="No SIM"/>
+<property type="text" value="No SIM"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="No SIM"/>
+<property type="label" value="No SIM"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarServiceItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="0"/>
+<property type="width" value="82"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="26" web="false" x="104" y="0">
+<properties>
+<property type="value" value="SSID"/>
+<property type="text" value="3 of 3 Wi-Fi bars"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="3 of 3 Wi-Fi bars"/>
+<property type="label" value="3 of 3 Wi-Fi bars"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarDataNetworkItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="104"/>
+<property type="y" value="0"/>
+<property type="width" value="26"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="68" web="false" x="344" y="0">
+<properties>
+<property type="value" value="12:38"/>
+<property type="text" value="12:38"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="12:38"/>
+<property type="label" value="12:38"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarTimeItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="344"/>
+<property type="y" value="0"/>
+<property type="width" value="68"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="122" web="false" x="618" y="0">
+<properties>
+<property type="value" value="36% battery power, Charging"/>
+<property type="text" value="36% battery power, Charging"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="36% battery power, Charging"/>
+<property type="label" value="36% battery power, Charging"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBatteryItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="618"/>
+<property type="y" value="0"/>
+<property type="width" value="122"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="50" web="false" x="618" y="0">
+<properties>
+<property type="value" value="36% battery power"/>
+<property type="text" value="36% battery power"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="36% battery power"/>
+<property type="label" value="36% battery power"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBatteryPercentItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="618"/>
+<property type="y" value="0"/>
+<property type="width" value="50"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

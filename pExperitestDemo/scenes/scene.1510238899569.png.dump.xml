@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="value" value="App Store"/>
+<property type="text" value="App Store"/>
+<property type="XCElementType" value="XCUIElementTypeApplication"/>
+<property type="name" value="App Store"/>
+<property type="label" value="App Store"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIApplication"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UILayoutContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UITransitionView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIViewControllerWrapperView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UILayoutContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="1242" web="false" x="0" y="60">
+<properties>
+<property type="accessibilityLabel" value="Top Charts"/>
+<property type="value" value="Top Charts"/>
+<property type="text" value="Top Charts"/>
+<property type="XCElementType" value="XCUIElementTypeNavigationBar"/>
+<property type="name" value="Top Charts"/>
+<property type="label" value="Top Charts"/>
+<property type="class" value="UIANavigationBar"/>
+<property type="knownSuperClass" value="UINavigationBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="60"/>
+<property type="width" value="1242"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="90" ignored="false" w="252" web="false" x="60" y="78">
+<properties>
+<property type="value" value="Categories"/>
+<property type="text" value="Categories"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Categories"/>
+<property type="label" value="Categories"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UINavigationButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="60"/>
+<property type="y" value="78"/>
+<property type="width" value="252"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="81" ignored="false" w="264" web="false" x="489" y="84">
+<properties>
+<property type="value" value="Top Charts"/>
+<property type="text" value="Top Charts"/>
+<property type="XCElementType" value="XCUIElementTypeStaticText"/>
+<property type="name" value="Top Charts"/>
+<property type="label" value="Top Charts"/>
+<property type="class" value="UIAStaticText"/>
+<property type="knownSuperClass" value="UINavigationItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="489"/>
+<property type="y" value="84"/>
+<property type="width" value="264"/>
+<property type="height" value="81"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="90" ignored="false" w="129" web="false" x="1086" y="78">
+<properties>
+<property type="value" value="Item List"/>
+<property type="text" value="Item List"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Item List"/>
+<property type="label" value="Item List"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UINavigationButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1086"/>
+<property type="y" value="78"/>
+<property type="width" value="129"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="114" ignored="false" w="1242" web="false" x="0" y="192">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UINavigationControllerPalette"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="114"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="114" ignored="false" w="1242" web="false" x="0" y="192">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="192"/>
+<property type="width" value="1242"/>
+<property type="height" value="114"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="87" ignored="false" w="900" web="false" x="171" y="192">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="171"/>
+<property type="y" value="192"/>
+<property type="width" value="900"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="87" ignored="false" w="900" web="false" x="171" y="192">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeSegmentedControl"/>
+<property type="class" value="UIASegmentedControl"/>
+<property type="knownSuperClass" value="UISegmentedControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="171"/>
+<property type="y" value="192"/>
+<property type="width" value="900"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="87" ignored="false" w="297" web="false" x="171" y="192">
+<properties>
+<property type="value" value="Paid"/>
+<property type="text" value="Paid"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Paid"/>
+<property type="label" value="Paid"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UISegment"/>
+<property type="enabled" value="true"/>
+<property type="x" value="171"/>
+<property type="y" value="192"/>
+<property type="width" value="297"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="87" ignored="false" w="297" web="false" x="471" y="192">
+<properties>
+<property type="value" value="Free"/>
+<property type="text" value="Free"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Free"/>
+<property type="label" value="Free"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UISegment"/>
+<property type="enabled" value="true"/>
+<property type="x" value="471"/>
+<property type="y" value="192"/>
+<property type="width" value="297"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="87" ignored="false" w="300" web="false" x="771" y="192">
+<properties>
+<property type="value" value="Top Grossing"/>
+<property type="text" value="Top Grossing"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Top Grossing"/>
+<property type="label" value="Top Grossing"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UISegment"/>
+<property type="enabled" value="true"/>
+<property type="x" value="771"/>
+<property type="y" value="192"/>
+<property type="width" value="300"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UINavigationTransitionView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIViewControllerWrapperView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCollectionView"/>
+<property type="class" value="UIACollectionView"/>
+<property type="knownSuperClass" value="UICollectionView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="306">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="306"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="306">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="306"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="252" ignored="false" w="1071" web="false" x="0" y="306">
+<properties>
+<property type="value" value="1, Sandbox Coloring, Entertainment, four and a half stars, (2,766) user reviews"/>
+<property type="text" value="1, Sandbox Coloring, Entertainment, four and a half stars, (2,766) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="1, Sandbox Coloring, Entertainment, four and a half stars, (2,766) user reviews"/>
+<property type="label" value="1, Sandbox Coloring, Entertainment, four and a half stars, (2,766) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="306"/>
+<property type="width" value="1071"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="147" ignored="false" w="171" web="false" x="1026" y="357">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1026"/>
+<property type="y" value="357"/>
+<property type="width" value="171"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="141" web="false" x="1056" y="357">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="GET"/>
+<property type="text" value="GET"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="GET"/>
+<property type="label" value="GET"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1056"/>
+<property type="y" value="357"/>
+<property type="width" value="141"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="126" web="false" x="1062" y="444">
+<properties>
+<property type="value" value="In-App Purchases"/>
+<property type="text" value="In-App Purchases"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="In-App Purchases"/>
+<property type="label" value="In-App Purchases"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1062"/>
+<property type="y" value="444"/>
+<property type="width" value="126"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="558">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="558"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="558">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="558"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1134" web="false" x="0" y="558">
+<properties>
+<property type="value" value="2, WhatsApp Messenger, Social Networking, four and a half stars, (18,815) user reviews"/>
+<property type="text" value="2, WhatsApp Messenger, Social Networking, four and a half stars, (18,815) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="2, WhatsApp Messenger, Social Networking, four and a half stars, (18,815) user reviews"/>
+<property type="label" value="2, WhatsApp Messenger, Social Networking, four and a half stars, (18,815) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="558"/>
+<property type="width" value="1134"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="108" web="false" x="1089" y="645">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1089"/>
+<property type="y" value="645"/>
+<property type="width" value="108"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="78" web="false" x="1119" y="645">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="Download"/>
+<property type="text" value="Download"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Download"/>
+<property type="label" value="Download"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1119"/>
+<property type="y" value="645"/>
+<property type="width" value="78"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="558">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="558"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="810">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="810"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="810">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="810"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1071" web="false" x="0" y="810">
+<properties>
+<property type="value" value="3, AliExpress Shopping App, Shopping, five stars, (710) user reviews"/>
+<property type="text" value="3, AliExpress Shopping App, Shopping, five stars, (710) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="3, AliExpress Shopping App, Shopping, five stars, (710) user reviews"/>
+<property type="label" value="3, AliExpress Shopping App, Shopping, five stars, (710) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="810"/>
+<property type="width" value="1071"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="171" web="false" x="1026" y="897">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1026"/>
+<property type="y" value="897"/>
+<property type="width" value="171"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="141" web="false" x="1056" y="897">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="GET"/>
+<property type="text" value="GET"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="GET"/>
+<property type="label" value="GET"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1056"/>
+<property type="y" value="897"/>
+<property type="width" value="141"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="810">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="810"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="1062">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1062"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="1062">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1062"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1071" web="false" x="0" y="1062">
+<properties>
+<property type="value" value="4, Wish - Shopping Made Fun, Shopping, four stars, (20) user reviews"/>
+<property type="text" value="4, Wish - Shopping Made Fun, Shopping, four stars, (20) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="4, Wish - Shopping Made Fun, Shopping, four stars, (20) user reviews"/>
+<property type="label" value="4, Wish - Shopping Made Fun, Shopping, four stars, (20) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1062"/>
+<property type="width" value="1071"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="171" web="false" x="1026" y="1149">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1026"/>
+<property type="y" value="1149"/>
+<property type="width" value="171"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="141" web="false" x="1056" y="1149">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="GET"/>
+<property type="text" value="GET"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="GET"/>
+<property type="label" value="GET"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1056"/>
+<property type="y" value="1149"/>
+<property type="width" value="141"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="1062">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="1062"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="1314">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1314"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="1314">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1314"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1134" web="false" x="0" y="1314">
+<properties>
+<property type="value" value="5, Instagram, Photo &amp; Video, five stars, (10,438) user reviews"/>
+<property type="text" value="5, Instagram, Photo &amp; Video, five stars, (10,438) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="5, Instagram, Photo &amp; Video, five stars, (10,438) user reviews"/>
+<property type="label" value="5, Instagram, Photo &amp; Video, five stars, (10,438) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1314"/>
+<property type="width" value="1134"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="108" web="false" x="1089" y="1401">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1089"/>
+<property type="y" value="1401"/>
+<property type="width" value="108"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="78" web="false" x="1119" y="1401">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="Download"/>
+<property type="text" value="Download"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Download"/>
+<property type="label" value="Download"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1119"/>
+<property type="y" value="1401"/>
+<property type="width" value="78"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="1314">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="1314"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="1566">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1566"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="1566">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1566"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1134" web="false" x="0" y="1566">
+<properties>
+<property type="value" value="6, Facebook, Social Networking, two and a half stars, (687) user reviews"/>
+<property type="text" value="6, Facebook, Social Networking, two and a half stars, (687) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="6, Facebook, Social Networking, two and a half stars, (687) user reviews"/>
+<property type="label" value="6, Facebook, Social Networking, two and a half stars, (687) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1566"/>
+<property type="width" value="1134"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="108" web="false" x="1089" y="1653">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1089"/>
+<property type="y" value="1653"/>
+<property type="width" value="108"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="78" web="false" x="1119" y="1653">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="Download"/>
+<property type="text" value="Download"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Download"/>
+<property type="label" value="Download"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1119"/>
+<property type="y" value="1653"/>
+<property type="width" value="78"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="1566">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="1566"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="1818">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1818"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="1818">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1818"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1134" web="false" x="0" y="1818">
+<properties>
+<property type="value" value="7, YouTube: Watch, Listen, Stream, Photo &amp; Video, four stars, (218) user reviews"/>
+<property type="text" value="7, YouTube: Watch, Listen, Stream, Photo &amp; Video, four stars, (218) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="7, YouTube: Watch, Listen, Stream, Photo &amp; Video, four stars, (218) user reviews"/>
+<property type="label" value="7, YouTube: Watch, Listen, Stream, Photo &amp; Video, four stars, (218) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1818"/>
+<property type="width" value="1134"/>
+<property type="height" value="249"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="108" web="false" x="1089" y="1905">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1089"/>
+<property type="y" value="1905"/>
+<property type="width" value="108"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="78" web="false" x="1119" y="1905">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="Download"/>
+<property type="text" value="Download"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Download"/>
+<property type="label" value="Download"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1119"/>
+<property type="y" value="1905"/>
+<property type="width" value="78"/>
+<property type="height" value="78"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="1818">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="1818"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="252" ignored="false" w="1242" web="false" x="0" y="2070">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeCell"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UICollectionViewCell"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2070"/>
+<property type="width" value="1242"/>
+<property type="height" value="252"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1242" web="false" x="0" y="2070">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2070"/>
+<property type="width" value="1242"/>
+<property type="height" value="249"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="249" ignored="false" w="1134" web="false" x="0" y="2070">
+<properties>
+<property type="value" value="8, Messenger, Social Networking, three and a half stars, (45) user reviews"/>
+<property type="text" value="8, Messenger, Social Networking, three and a half stars, (45) user reviews"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="8, Messenger, Social Networking, three and a half stars, (45) user reviews"/>
+<property type="label" value="8, Messenger, Social Networking, three and a half stars, (45) user reviews"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2070"/>
+<property type="width" value="1134"/>
+<property type="height" value="249"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="108" web="false" x="1089" y="2157">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1089"/>
+<property type="y" value="2157"/>
+<property type="width" value="108"/>
+<property type="height" value="78"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="78" ignored="false" w="78" web="false" x="1119" y="2157">
+<properties>
+<property type="accessibilityLabel" value="PurchaseButton"/>
+<property type="value" value="Download"/>
+<property type="text" value="Download"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Download"/>
+<property type="label" value="Download"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIControl"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1119"/>
+<property type="y" value="2157"/>
+<property type="width" value="78"/>
+<property type="height" value="78"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1197" web="false" x="45" y="2070">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="45"/>
+<property type="y" value="2070"/>
+<property type="width" value="1197"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="147" ignored="false" w="1242" web="false" x="0" y="2061">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeTabBar"/>
+<property type="class" value="UIATabBar"/>
+<property type="knownSuperClass" value="UITabBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2061"/>
+<property type="width" value="1242"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="237" web="false" x="6" y="2064">
+<properties>
+<property type="value" value="Featured"/>
+<property type="text" value="Featured"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Featured"/>
+<property type="label" value="Featured"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="6"/>
+<property type="y" value="2064"/>
+<property type="width" value="237"/>
+<property type="height" value="144"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="237" web="false" x="255" y="2064">
+<properties>
+<property type="value" value="Categories"/>
+<property type="text" value="Categories"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Categories"/>
+<property type="label" value="Categories"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="255"/>
+<property type="y" value="2064"/>
+<property type="width" value="237"/>
+<property type="height" value="144"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="234" web="false" x="504" y="2064">
+<properties>
+<property type="value" value="Top Charts"/>
+<property type="text" value="Top Charts"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Top Charts"/>
+<property type="label" value="Top Charts"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="504"/>
+<property type="y" value="2064"/>
+<property type="width" value="234"/>
+<property type="height" value="144"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="237" web="false" x="750" y="2064">
+<properties>
+<property type="value" value="Search"/>
+<property type="text" value="Search"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Search"/>
+<property type="label" value="Search"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="750"/>
+<property type="y" value="2064"/>
+<property type="width" value="237"/>
+<property type="height" value="144"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="237" web="false" x="999" y="2064">
+<properties>
+<property type="value" value="Updates"/>
+<property type="text" value="Updates"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Updates"/>
+<property type="label" value="Updates"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UITabBarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="999"/>
+<property type="y" value="2064"/>
+<property type="width" value="237"/>
+<property type="height" value="144"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UITextEffectsWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIInputSetContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIStatusBarWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeStatusBar"/>
+<property type="class" value="UIAStatusBar"/>
+<property type="knownSuperClass" value="UIStatusBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBackgroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="60"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarForegroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="123" web="false" x="18" y="0">
+<properties>
+<property type="value" value="No SIM"/>
+<property type="text" value="No SIM"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="No SIM"/>
+<property type="label" value="No SIM"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarServiceItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="18"/>
+<property type="y" value="0"/>
+<property type="width" value="123"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="39" web="false" x="156" y="0">
+<properties>
+<property type="value" value="SSID"/>
+<property type="text" value="3 of 3 Wi-Fi bars"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="3 of 3 Wi-Fi bars"/>
+<property type="label" value="3 of 3 Wi-Fi bars"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarDataNetworkItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="0"/>
+<property type="width" value="39"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="105" web="false" x="576" y="0">
+<properties>
+<property type="value" value="16:48"/>
+<property type="text" value="16:48"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="16:48"/>
+<property type="label" value="16:48"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarTimeItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="576"/>
+<property type="y" value="0"/>
+<property type="width" value="105"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="99" web="false" x="1128" y="0">
+<properties>
+<property type="value" value="2% battery power, Charging"/>
+<property type="text" value="2% battery power, Charging"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="2% battery power, Charging"/>
+<property type="label" value="2% battery power, Charging"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBatteryItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1128"/>
+<property type="y" value="0"/>
+<property type="width" value="99"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

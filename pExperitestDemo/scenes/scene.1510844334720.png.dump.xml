@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITransitionView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITransitionView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITransitionView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITransitionView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="68" web="false" x="0" y="80">
+<properties>
+<property type="accessibilityLabel" value="Back"/>
+<property type="tag" value="0"/>
+<property type="class" value="UIButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="80"/>
+<property type="width" value="68"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="36" ignored="false" w="68" web="false" x="0" y="92">
+<properties>
+<property type="accessibilityLabel" value="Back"/>
+<property type="text" value="Back"/>
+<property type="tag" value="0"/>
+<property type="class" value="UIButtonLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x007AFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="92"/>
+<property type="width" value="68"/>
+<property type="height" value="36"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1582" ignored="false" w="1266" web="false" x="204" y="120">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableView"/>
+<property type="knownSuperClass" value="UITableView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="120"/>
+<property type="width" value="1266"/>
+<property type="height" value="1582"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="90" ignored="false" w="1266" web="false" x="204" y="570">
+<properties>
+<property type="text" value="16/11 16:58    :   4"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCell"/>
+<property type="knownSuperClass" value="UITableViewCell"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="570"/>
+<property type="width" value="1266"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1266" web="false" x="204" y="570">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCellContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="570"/>
+<property type="width" value="1266"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1206" web="false" x="234" y="570">
+<properties>
+<property type="accessibilityLabel" value="16/11 16:58    :   4"/>
+<property type="text" value="16/11 16:58    :   4"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="570"/>
+<property type="width" value="1206"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="658">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="658"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="90" ignored="false" w="1266" web="false" x="204" y="480">
+<properties>
+<property type="text" value="16/11 16:58    :   5"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCell"/>
+<property type="knownSuperClass" value="UITableViewCell"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="480"/>
+<property type="width" value="1266"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1266" web="false" x="204" y="480">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCellContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="480"/>
+<property type="width" value="1266"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1206" web="false" x="234" y="480">
+<properties>
+<property type="accessibilityLabel" value="16/11 16:58    :   5"/>
+<property type="text" value="16/11 16:58    :   5"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="480"/>
+<property type="width" value="1206"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="568">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="568"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="90" ignored="false" w="1266" web="false" x="204" y="390">
+<properties>
+<property type="text" value="16/11 16:35    :   2"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCell"/>
+<property type="knownSuperClass" value="UITableViewCell"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="390"/>
+<property type="width" value="1266"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1266" web="false" x="204" y="390">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCellContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="390"/>
+<property type="width" value="1266"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1206" web="false" x="234" y="390">
+<properties>
+<property type="accessibilityLabel" value="16/11 16:35    :   2"/>
+<property type="text" value="16/11 16:35    :   2"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="390"/>
+<property type="width" value="1206"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="478">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="478"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="90" ignored="false" w="1266" web="false" x="204" y="300">
+<properties>
+<property type="text" value="16/11 16:32    :   0"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCell"/>
+<property type="knownSuperClass" value="UITableViewCell"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="300"/>
+<property type="width" value="1266"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1266" web="false" x="204" y="300">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCellContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="300"/>
+<property type="width" value="1266"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1206" web="false" x="234" y="300">
+<properties>
+<property type="accessibilityLabel" value="16/11 16:32    :   0"/>
+<property type="text" value="16/11 16:32    :   0"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="300"/>
+<property type="width" value="1206"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="388">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="388"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="90" ignored="false" w="1266" web="false" x="204" y="210">
+<properties>
+<property type="text" value="16/11 16:28    :   0"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCell"/>
+<property type="knownSuperClass" value="UITableViewCell"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="210"/>
+<property type="width" value="1266"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1266" web="false" x="204" y="210">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCellContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="210"/>
+<property type="width" value="1266"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1206" web="false" x="234" y="210">
+<properties>
+<property type="accessibilityLabel" value="16/11 16:28    :   0"/>
+<property type="text" value="16/11 16:28    :   0"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="210"/>
+<property type="width" value="1206"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="298">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="298"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="90" ignored="false" w="1266" web="false" x="204" y="120">
+<properties>
+<property type="text" value="16/11 16:27    :   2"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCell"/>
+<property type="knownSuperClass" value="UITableViewCell"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="204"/>
+<property type="y" value="120"/>
+<property type="width" value="1266"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1266" web="false" x="204" y="120">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewCellContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="120"/>
+<property type="width" value="1266"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="1206" web="false" x="234" y="120">
+<properties>
+<property type="accessibilityLabel" value="16/11 16:27    :   2"/>
+<property type="text" value="16/11 16:27    :   2"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITableViewLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="120"/>
+<property type="width" value="1206"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="208">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="208"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="4" ignored="false" w="1254" web="false" x="210" y="1690">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="false"/>
+<property type="x" value="210"/>
+<property type="y" value="1690"/>
+<property type="width" value="1254"/>
+<property type="height" value="4"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="748">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="748"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="838">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="838"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="928">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="928"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1018">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1018"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1108">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1108"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1198">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1198"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1288">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1288"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1378">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1378"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1468">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1468"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1558">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1558"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1648">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1648"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1738">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1738"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1828">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1828"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="1918">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="1918"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2008">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2008"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2098">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2098"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2188">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2188"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2278">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2278"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2368">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2368"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2458">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2458"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1236" web="false" x="234" y="2548">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITableViewCellSeparatorView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xC7C7CC"/>
+<property type="enabled" value="false"/>
+<property type="x" value="234"/>
+<property type="y" value="2548"/>
+<property type="width" value="1236"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="516" ignored="false" w="4" web="false" x="1458" y="1180">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="false"/>
+<property type="x" value="1458"/>
+<property type="y" value="1180"/>
+<property type="width" value="4"/>
+<property type="height" value="516"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="350" ignored="false" w="1536" web="false" x="0" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1698"/>
+<property type="width" value="1536"/>
+<property type="height" value="350"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="350" ignored="false" w="1536" web="false" x="0" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1698"/>
+<property type="width" value="1536"/>
+<property type="height" value="350"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="350" ignored="false" w="388" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKWebView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x5C6367"/>
+<property type="enabled" value="false"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="388"/>
+<property type="height" value="350"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="350" ignored="false" w="388" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKScrollView"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="388"/>
+<property type="height" value="350"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="350" ignored="false" w="388" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKContentView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="388"/>
+<property type="height" value="350"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="442" ignored="false" w="490" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="490"/>
+<property type="height" value="442"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="442" ignored="false" w="490" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="490"/>
+<property type="height" value="442"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="442" ignored="false" w="490" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="490"/>
+<property type="height" value="442"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="442" ignored="false" w="490" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="490"/>
+<property type="height" value="442"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="442" ignored="false" w="490" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="490"/>
+<property type="height" value="442"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="442" ignored="false" w="490" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="490"/>
+<property type="height" value="442"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="WKCompositingView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="362" y="1698">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="362"/>
+<property type="y" value="1698"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="268" ignored="false" w="4" web="false" x="738" y="1704">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="false"/>
+<property type="x" value="738"/>
+<property type="y" value="1704"/>
+<property type="width" value="4"/>
+<property type="height" value="268"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="4" ignored="false" w="298" web="false" x="368" y="2036">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="false"/>
+<property type="x" value="368"/>
+<property type="y" value="2036"/>
+<property type="width" value="298"/>
+<property type="height" value="4"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="178" ignored="false" w="308" web="false" x="0" y="1870">
+<properties>
+<property type="accessibilityLabel" value="Lat:32.29 Lon:34.86"/>
+<property type="text" value="Lat:32.29 Lon:34.86"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1870"/>
+<property type="width" value="308"/>
+<property type="height" value="178"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="168" ignored="false" w="346" web="false" x="0" y="1698">
+<properties>
+<property type="accessibilityLabel" value="Wifi: STAGECLOUD-NV"/>
+<property type="text" value="Wifi: STAGECLOUD-NV"/>
+<property type="tag" value="0"/>
+<property type="class" value="UILabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1698"/>
+<property type="width" value="346"/>
+<property type="height" value="168"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITextEffectsWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2048" ignored="false" w="1536" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetContainerView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1536"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="1536" web="false" x="0" y="2048">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetHostView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2048"/>
+<property type="width" value="1536"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

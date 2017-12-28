@@ -1,0 +1,11 @@
+#Wed Dec 20 23:35:07 IST 2017
+mobile=false
+platform=GENERIC
+default.ios.user=root
+lastZone=default
+default.ios.password=alpine
+translator=Java (junit 4)
+version=2
+app.name=ios_app\:Ido Shoshani’s iPhone🙀
+last.test=webstart
+description=Tests for Experitest Training

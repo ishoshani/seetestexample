@@ -1,0 +1,2633 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="2220" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="2220"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2220" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="2220"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="action_bar_root"/>
+<property type="resource-id" value="com.android.chrome:id/action_bar_root"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="coordinator"/>
+<property type="resource-id" value="com.android.chrome:id/coordinator"/>
+<property type="class" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="compositor_view_holder"/>
+<property type="resource-id" value="com.android.chrome:id/compositor_view_holder"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.support.v7.widget.RecyclerView"/>
+<property type="contentDescription" value="New tab"/>
+<property type="content-desc" value="New tab"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="true"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.support.v7.widget.RecyclerView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="2148"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="1391" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="ntp_content"/>
+<property type="resource-id" value="com.android.chrome:id/ntp_content"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1463]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1391"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="540" y="240">
+<properties>
+<property type="id" value="ntp_top_spacer"/>
+<property type="resource-id" value="com.android.chrome:id/ntp_top_spacer"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[540,240][540,240]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="540"/>
+<property type="y" value="240"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="300" ignored="false" w="984" web="false" x="48" y="318">
+<properties>
+<property type="id" value="search_provider_logo"/>
+<property type="resource-id" value="com.android.chrome:id/search_provider_logo"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[48,318][1032,618]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="318"/>
+<property type="width" value="984"/>
+<property type="height" value="300"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="186" ignored="false" w="996" web="false" x="42" y="687">
+<properties>
+<property type="id" value="search_box"/>
+<property type="resource-id" value="com.android.chrome:id/search_box"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[42,687][1038,873]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="687"/>
+<property type="width" value="996"/>
+<property type="height" value="186"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="168" ignored="false" w="804" web="false" x="84" y="696">
+<properties>
+<property type="id" value="search_box_text"/>
+<property type="resource-id" value="com.android.chrome:id/search_box_text"/>
+<property type="class" value="android.widget.EditText"/>
+<property type="text" value="Search or type URL"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[84,696][888,864]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="84"/>
+<property type="y" value="696"/>
+<property type="width" value="804"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="72" web="false" x="924" y="744">
+<properties>
+<property type="id" value="voice_search_button"/>
+<property type="resource-id" value="com.android.chrome:id/voice_search_button"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Start voice search"/>
+<property type="content-desc" value="Start voice search"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[924,744][996,816]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="924"/>
+<property type="y" value="744"/>
+<property type="width" value="72"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="540" y="876">
+<properties>
+<property type="id" value="ntp_middle_spacer"/>
+<property type="resource-id" value="com.android.chrome:id/ntp_middle_spacer"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[540,876][540,876]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="540"/>
+<property type="y" value="876"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="539" ignored="false" w="1008" web="false" x="36" y="876">
+<properties>
+<property type="id" value="tile_grid_layout"/>
+<property type="resource-id" value="com.android.chrome:id/tile_grid_layout"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[36,876][1044,1415]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="36"/>
+<property type="y" value="876"/>
+<property type="width" value="1008"/>
+<property type="height" value="539"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="247" ignored="false" w="240" web="false" x="36" y="900">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[36,900][276,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="36"/>
+<property type="y" value="900"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="84" y="936">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[84,936][228,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="84"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="84" y="936">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[84,936][228,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="84"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="48" y="1098">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Facebook - Log In or Sign Up"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[48,1098][264,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="1098"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="292" y="900">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[292,900][532,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="292"/>
+<property type="y" value="900"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="340" y="936">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[340,936][484,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="340"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="340" y="936">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[340,936][484,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="340"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="304" y="1098">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="YouTube"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[304,1098][520,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="304"/>
+<property type="y" value="1098"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="548" y="900">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[548,900][788,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="548"/>
+<property type="y" value="900"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="596" y="936">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[596,936][740,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="596" y="936">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[596,936][740,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="560" y="1098">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[560,1098][776,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="560"/>
+<property type="y" value="1098"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="804" y="900">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[804,900][1044,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="900"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="852" y="936">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[852,936][996,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="852"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="852" y="936">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[852,936][996,1080]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="852"/>
+<property type="y" value="936"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="816" y="1098">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Wikipedia, the free encyclopedia"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[816,1098][1032,1147]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="816"/>
+<property type="y" value="1098"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="36" y="1156">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[36,1156][276,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="36"/>
+<property type="y" value="1156"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="84" y="1192">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[84,1192][228,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="84"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="84" y="1192">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[84,1192][228,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="84"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="48" y="1354">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="ESPN: The Worldwide Leader in Sports"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[48,1354][264,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="1354"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="292" y="1156">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[292,1156][532,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="292"/>
+<property type="y" value="1156"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="340" y="1192">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[340,1192][484,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="340"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="340" y="1192">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[340,1192][484,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="340"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="304" y="1354">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Yahoo"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[304,1354][520,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="304"/>
+<property type="y" value="1354"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="548" y="1156">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[548,1156][788,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="548"/>
+<property type="y" value="1156"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="596" y="1192">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[596,1192][740,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="596" y="1192">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[596,1192][740,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="596"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="560" y="1354">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Instagram"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[560,1354][776,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="560"/>
+<property type="y" value="1354"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="247" ignored="false" w="240" web="false" x="804" y="1156">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[804,1156][1044,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="804"/>
+<property type="y" value="1156"/>
+<property type="width" value="240"/>
+<property type="height" value="247"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="144" web="false" x="852" y="1192">
+<properties>
+<property type="id" value="tile_view_highlight"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_highlight"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[852,1192][996,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="852"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="144" web="false" x="852" y="1192">
+<properties>
+<property type="id" value="tile_view_icon"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_icon"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[852,1192][996,1336]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="852"/>
+<property type="y" value="1192"/>
+<property type="width" value="144"/>
+<property type="height" value="144"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="216" web="false" x="816" y="1354">
+<properties>
+<property type="id" value="tile_view_title"/>
+<property type="resource-id" value="com.android.chrome:id/tile_view_title"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[816,1354][1032,1403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="816"/>
+<property type="y" value="1354"/>
+<property type="width" value="216"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="388" ignored="false" w="1080" web="false" x="0" y="1463">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,1463][1080,1851]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1463"/>
+<property type="width" value="1080"/>
+<property type="height" value="388"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="372" ignored="false" w="714" web="false" x="0" y="1469">
+<properties>
+<property type="id" value="text_layout"/>
+<property type="resource-id" value="com.android.chrome:id/text_layout"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1469][714,1841]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1469"/>
+<property type="width" value="714"/>
+<property type="height" value="372"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="203" ignored="false" w="624" web="false" x="42" y="1517">
+<properties>
+<property type="id" value="article_headline"/>
+<property type="resource-id" value="com.android.chrome:id/article_headline"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Mount Agung: Bali volcano activity prompts 'red warning'"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,1517][666,1720]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="1517"/>
+<property type="width" value="624"/>
+<property type="height" value="203"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="459" web="false" x="42" y="1744">
+<properties>
+<property type="id" value="publisher_bar"/>
+<property type="resource-id" value="com.android.chrome:id/publisher_bar"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[42,1744][501,1793]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="1744"/>
+<property type="width" value="459"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="49" ignored="false" w="240" web="false" x="42" y="1744">
+<properties>
+<property type="id" value="article_publisher"/>
+<property type="resource-id" value="com.android.chrome:id/article_publisher"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="BBC News"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,1744][282,1793]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="1744"/>
+<property type="width" value="240"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="219" web="false" x="282" y="1744">
+<properties>
+<property type="id" value="article_age"/>
+<property type="resource-id" value="com.android.chrome:id/article_age"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value=" - 4 hours ago"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[282,1744][501,1793]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="282"/>
+<property type="y" value="1744"/>
+<property type="width" value="219"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="372" ignored="false" w="366" web="false" x="714" y="1469">
+<properties>
+<property type="id" value="article_thumbnail"/>
+<property type="resource-id" value="com.android.chrome:id/article_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[714,1469][1080,1841]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="714"/>
+<property type="y" value="1469"/>
+<property type="width" value="366"/>
+<property type="height" value="372"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="383" ignored="false" w="1080" web="false" x="0" y="1837">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,1837][1080,2220]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1837"/>
+<property type="width" value="1080"/>
+<property type="height" value="383"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="372" ignored="false" w="714" web="false" x="0" y="1843">
+<properties>
+<property type="id" value="text_layout"/>
+<property type="resource-id" value="com.android.chrome:id/text_layout"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1843][714,2215]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1843"/>
+<property type="width" value="714"/>
+<property type="height" value="372"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="203" ignored="false" w="624" web="false" x="42" y="1891">
+<properties>
+<property type="id" value="article_headline"/>
+<property type="resource-id" value="com.android.chrome:id/article_headline"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="China explosion: Ningbo port city rocked by major blast"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,1891][666,2094]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="1891"/>
+<property type="width" value="624"/>
+<property type="height" value="203"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="459" web="false" x="42" y="2118">
+<properties>
+<property type="id" value="publisher_bar"/>
+<property type="resource-id" value="com.android.chrome:id/publisher_bar"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[42,2118][501,2167]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="2118"/>
+<property type="width" value="459"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="49" ignored="false" w="240" web="false" x="42" y="2118">
+<properties>
+<property type="id" value="article_publisher"/>
+<property type="resource-id" value="com.android.chrome:id/article_publisher"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="BBC News"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,2118][282,2167]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="42"/>
+<property type="y" value="2118"/>
+<property type="width" value="240"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="49" ignored="false" w="219" web="false" x="282" y="2118">
+<properties>
+<property type="id" value="article_age"/>
+<property type="resource-id" value="com.android.chrome:id/article_age"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value=" - 6 hours ago"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[282,2118][501,2167]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="282"/>
+<property type="y" value="2118"/>
+<property type="width" value="219"/>
+<property type="height" value="49"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="372" ignored="false" w="366" web="false" x="714" y="1843">
+<properties>
+<property type="id" value="article_thumbnail"/>
+<property type="resource-id" value="com.android.chrome:id/article_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[714,1843][1080,2215]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="714"/>
+<property type="y" value="1843"/>
+<property type="width" value="366"/>
+<property type="height" value="372"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="9" ignored="false" w="1080" web="false" x="0" y="2211">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,2211][1080,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2211"/>
+<property type="width" value="1080"/>
+<property type="height" value="9"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="3" ignored="false" w="714" web="false" x="0" y="2217">
+<properties>
+<property type="id" value="text_layout"/>
+<property type="resource-id" value="com.android.chrome:id/text_layout"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,2217][714,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2217"/>
+<property type="width" value="714"/>
+<property type="height" value="3"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="-45" ignored="false" w="624" web="false" x="42" y="2265">
+<properties>
+<property type="id" value="article_headline"/>
+<property type="resource-id" value="com.android.chrome:id/article_headline"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Black Friday, Thanksgiving online sales climb to record high"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,2265][666,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="42"/>
+<property type="y" value="2265"/>
+<property type="width" value="624"/>
+<property type="height" value="-45"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="-272" ignored="false" w="435" web="false" x="42" y="2492">
+<properties>
+<property type="id" value="publisher_bar"/>
+<property type="resource-id" value="com.android.chrome:id/publisher_bar"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[42,2492][477,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="42"/>
+<property type="y" value="2492"/>
+<property type="width" value="435"/>
+<property type="height" value="-272"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="-272" ignored="false" w="196" web="false" x="42" y="2492">
+<properties>
+<property type="id" value="article_publisher"/>
+<property type="resource-id" value="com.android.chrome:id/article_publisher"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Reuters"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[42,2492][238,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="42"/>
+<property type="y" value="2492"/>
+<property type="width" value="196"/>
+<property type="height" value="-272"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="-272" ignored="false" w="239" web="false" x="238" y="2492">
+<properties>
+<property type="id" value="article_age"/>
+<property type="resource-id" value="com.android.chrome:id/article_age"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value=" - 10 hours ago"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[238,2492][477,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="238"/>
+<property type="y" value="2492"/>
+<property type="width" value="239"/>
+<property type="height" value="-272"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="3" ignored="false" w="366" web="false" x="714" y="2217">
+<properties>
+<property type="id" value="article_thumbnail"/>
+<property type="resource-id" value="com.android.chrome:id/article_thumbnail"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[714,2217][1080,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="714"/>
+<property type="y" value="2217"/>
+<property type="width" value="366"/>
+<property type="height" value="3"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="198" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="control_container"/>
+<property type="resource-id" value="com.android.chrome:id/control_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,72][1080,270]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="198"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="198" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="toolbar_container"/>
+<property type="resource-id" value="com.android.chrome:id/toolbar_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,270]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="198"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="168" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="toolbar"/>
+<property type="resource-id" value="com.android.chrome:id/toolbar"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,240]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="168" ignored="false" w="144" web="false" x="0" y="72">
+<properties>
+<property type="id" value="home_button"/>
+<property type="resource-id" value="com.android.chrome:id/home_button"/>
+<property type="class" value="android.widget.ImageButton"/>
+<property type="contentDescription" value="Home"/>
+<property type="content-desc" value="Home"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][144,240]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageButton"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="144"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="-456" ignored="false" w="1002" web="false" x="78" y="696">
+<properties>
+<property type="id" value="location_bar"/>
+<property type="resource-id" value="com.android.chrome:id/location_bar"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[78,696][1080,240]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="78"/>
+<property type="y" value="696"/>
+<property type="width" value="1002"/>
+<property type="height" value="-456"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="-471" ignored="false" w="996" web="false" x="84" y="711">
+<properties>
+<property type="id" value="url_bar"/>
+<property type="resource-id" value="com.android.chrome:id/url_bar"/>
+<property type="class" value="android.widget.EditText"/>
+<property type="text" value="Search or type URL"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[84,711][1080,240]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="84"/>
+<property type="y" value="711"/>
+<property type="width" value="996"/>
+<property type="height" value="-471"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="168" ignored="false" w="282" web="false" x="798" y="72">
+<properties>
+<property type="id" value="toolbar_buttons"/>
+<property type="resource-id" value="com.android.chrome:id/toolbar_buttons"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[798,72][1080,240]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="798"/>
+<property type="y" value="72"/>
+<property type="width" value="282"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="168" ignored="false" w="144" web="false" x="810" y="72">
+<properties>
+<property type="id" value="tab_switcher_button"/>
+<property type="resource-id" value="com.android.chrome:id/tab_switcher_button"/>
+<property type="class" value="android.widget.ImageButton"/>
+<property type="contentDescription" value="1 open tab"/>
+<property type="content-desc" value="1 open tab"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[810,72][954,240]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="true"/>
+<property type="longClickable" value="true"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageButton"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="810"/>
+<property type="y" value="72"/>
+<property type="width" value="144"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="168" ignored="false" w="126" web="false" x="954" y="72">
+<properties>
+<property type="id" value="menu_button_wrapper"/>
+<property type="resource-id" value="com.android.chrome:id/menu_button_wrapper"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[954,72][1080,240]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="954"/>
+<property type="y" value="72"/>
+<property type="width" value="126"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="168" ignored="false" w="126" web="false" x="954" y="72">
+<properties>
+<property type="id" value="menu_button"/>
+<property type="resource-id" value="com.android.chrome:id/menu_button"/>
+<property type="class" value="android.widget.ImageButton"/>
+<property type="contentDescription" value="More options"/>
+<property type="content-desc" value="More options"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[954,72][1080,240]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageButton"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="954"/>
+<property type="y" value="72"/>
+<property type="width" value="126"/>
+<property type="height" value="168"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="30" ignored="false" w="1080" web="false" x="0" y="240">
+<properties>
+<property type="id" value="toolbar_shadow"/>
+<property type="resource-id" value="com.android.chrome:id/toolbar_shadow"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,240][1080,270]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="240"/>
+<property type="width" value="1080"/>
+<property type="height" value="30"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="6" ignored="false" w="0" web="false" x="1" y="234">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1,234][1,240]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="1"/>
+<property type="y" value="234"/>
+<property type="width" value="0"/>
+<property type="height" value="6"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="2100">
+<properties>
+<property type="id" value="bottom_sheet_snackbar_container"/>
+<property type="resource-id" value="com.android.chrome:id/bottom_sheet_snackbar_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,2100][1080,2100]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="2100"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="2220">
+<properties>
+<property type="id" value="bottom_container"/>
+<property type="resource-id" value="com.android.chrome:id/bottom_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,2220][1080,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="2220"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="2220">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,2220][1080,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="2220"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="2220">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,2220][1080,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="2220"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="2220">
+<properties>
+<property type="id" value="menu_anchor_stub"/>
+<property type="resource-id" value="com.android.chrome:id/menu_anchor_stub"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,2220][0,2220]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="2220"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="statusBarBackground"/>
+<property type="resource-id" value="android:id/statusBarBackground"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.chrome"/>
+</properties>
+<children/>
+</node>
+<node h="1981" ignored="false" w="1080" web="true" x="0" y="240">
+<properties>
+<property type="nodeName" value="document"/>
+<property type="x" value="0"/>
+<property type="y" value="240"/>
+<property type="width" value="1080"/>
+<property type="height" value="1981"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1981" ignored="false" w="1081" web="true" x="0" y="240">
+<properties>
+<property type="nodeName" value="HTML"/>
+<property type="x" value="0"/>
+<property type="y" value="240"/>
+<property type="width" value="1081"/>
+<property type="height" value="1981"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1963" ignored="false" w="1063" web="true" x="8" y="248">
+<properties>
+<property type="nodeName" value="BODY"/>
+<property type="focused" value="true"/>
+<property type="x" value="8"/>
+<property type="y" value="248"/>
+<property type="width" value="1063"/>
+<property type="height" value="1963"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

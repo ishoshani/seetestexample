@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="2065" ignored="false" w="1336" web="false" x="52" y="295">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[52,295][1388,2360]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="52"/>
+<property type="y" value="295"/>
+<property type="width" value="1336"/>
+<property type="height" value="2065"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="1937" ignored="false" w="1208" web="false" x="116" y="359">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[116,359][1324,2296]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="359"/>
+<property type="width" value="1208"/>
+<property type="height" value="1937"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="1937" ignored="false" w="1208" web="false" x="116" y="359">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[116,359][1324,2296]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="359"/>
+<property type="width" value="1208"/>
+<property type="height" value="1937"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="1937" ignored="false" w="1208" web="false" x="116" y="359">
+<properties>
+<property type="id" value="parentPanel"/>
+<property type="resource-id" value="android:id/parentPanel"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[116,359][1324,2296]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="359"/>
+<property type="width" value="1208"/>
+<property type="height" value="1937"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="198" ignored="false" w="1208" web="false" x="116" y="359">
+<properties>
+<property type="id" value="topPanel"/>
+<property type="resource-id" value="android:id/topPanel"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[116,359][1324,557]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="359"/>
+<property type="width" value="1208"/>
+<property type="height" value="198"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="198" ignored="false" w="1208" web="false" x="116" y="359">
+<properties>
+<property type="id" value="title_template"/>
+<property type="resource-id" value="android:id/title_template"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[116,359][1324,557]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="359"/>
+<property type="width" value="1208"/>
+<property type="height" value="198"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="102" ignored="false" w="1016" web="false" x="212" y="455">
+<properties>
+<property type="id" value="alertTitle"/>
+<property type="resource-id" value="android:id/alertTitle"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Attention"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[212,455][1228,557]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="212"/>
+<property type="y" value="455"/>
+<property type="width" value="1016"/>
+<property type="height" value="102"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1531" ignored="false" w="1208" web="false" x="116" y="557">
+<properties>
+<property type="id" value="contentPanel"/>
+<property type="resource-id" value="android:id/contentPanel"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[116,557][1324,2088]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="557"/>
+<property type="width" value="1208"/>
+<property type="height" value="1531"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="1467" ignored="false" w="1208" web="false" x="116" y="589">
+<properties>
+<property type="id" value="scrollView"/>
+<property type="resource-id" value="android:id/scrollView"/>
+<property type="class" value="android.widget.ScrollView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[116,589][1324,2056]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.ScrollView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="589"/>
+<property type="width" value="1208"/>
+<property type="height" value="1467"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="1467" ignored="false" w="1016" web="false" x="212" y="589">
+<properties>
+<property type="id" value="message"/>
+<property type="resource-id" value="android:id/message"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="The connected device is unable to access data on this device. Reconnect the USB cable and try again.&#10;&#10;Android File Transfer or Samsung Smart Switch must be installed on Mac OS X devices. To download Android File Transfer, go to https://www.android.com/filetransfer, or to download Samsung Smart Switch, go to https://www.samsung.com/smartswitch."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[212,589][1228,2056]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="212"/>
+<property type="y" value="589"/>
+<property type="width" value="1016"/>
+<property type="height" value="1467"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="208" ignored="false" w="1208" web="false" x="116" y="2088">
+<properties>
+<property type="id" value="buttonPanel"/>
+<property type="resource-id" value="android:id/buttonPanel"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[116,2088][1324,2296]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="116"/>
+<property type="y" value="2088"/>
+<property type="width" value="1208"/>
+<property type="height" value="208"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="204" web="false" x="1096" y="2088">
+<properties>
+<property type="id" value="button1"/>
+<property type="resource-id" value="android:id/button1"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="OK"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1096,2088][1300,2232]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1096"/>
+<property type="y" value="2088"/>
+<property type="width" value="204"/>
+<property type="height" value="144"/>
+<property type="package" value="com.samsung.android.MtpApplication"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

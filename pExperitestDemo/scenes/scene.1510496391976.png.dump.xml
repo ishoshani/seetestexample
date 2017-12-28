@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="1008" ignored="false" w="512" web="false" x="448" y="259">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[448,259][960,1267]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="259"/>
+<property type="width" value="512"/>
+<property type="height" value="1008"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children>
+<node h="1008" ignored="false" w="512" web="false" x="448" y="259">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[448,259][960,1267]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="259"/>
+<property type="width" value="512"/>
+<property type="height" value="1008"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children>
+<node h="1008" ignored="false" w="512" web="false" x="448" y="259">
+<properties>
+<property type="class" value="android.widget.ListView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="true"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[448,259][960,1267]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.ListView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="259"/>
+<property type="width" value="512"/>
+<property type="height" value="1008"/>
+<property type="NAF" value="true"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children>
+<node h="144" ignored="false" w="512" web="false" x="448" y="259">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.00"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[448,259][960,403]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="259"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="512" web="false" x="448" y="403">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.05"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[448,403][960,547]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="403"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="512" web="false" x="448" y="547">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.10"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[448,547][960,691]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="547"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="512" web="false" x="448" y="691">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.15"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="true"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[448,691][960,835]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="691"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="512" web="false" x="448" y="835">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.20"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[448,835][960,979]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="835"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="512" web="false" x="448" y="979">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.25"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[448,979][960,1123]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="979"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="512" web="false" x="448" y="1123">
+<properties>
+<property type="id" value="text1"/>
+<property type="resource-id" value="android:id/text1"/>
+<property type="class" value="android.widget.CheckedTextView"/>
+<property type="text" value="$0.30"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[448,1123][960,1267]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckedTextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="448"/>
+<property type="y" value="1123"/>
+<property type="width" value="512"/>
+<property type="height" value="144"/>
+<property type="package" value="com.ralksoft.sellerprofitcalculator"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

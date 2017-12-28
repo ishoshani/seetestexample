@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="11.2">
+<command appiumName="SetDevice(Device)" enable="true" name="SetDevice(Device)">
+<parameters>
+<parameter appium="true" defaultValue="adb:Google Pixel" description="Device name" name="Device" pattern="" type="application"/>
+</parameters>
+</command>
+<command appiumName="Launch(app)" enable="true" name="Launch(activity, instrument, stopIfRunning)">
+<parameters>
+<parameter appium="true" defaultValue="chrome:https://www.premierleague.com/tables" description="The application main activity or URL" name="Activity/URL" pattern="" type="launch"/>
+<parameter appium="false" defaultValue="true" description="If set to true then will launch in instrument mode" name="Instrument" pattern="" type="bool"/>
+<parameter appium="false" defaultValue="false" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="" type="bool"/>
+</parameters>
+</command>
+</commands>

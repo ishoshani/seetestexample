@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="default">
+<obj text="Regions" version="1">
+<images enable="true">
+<image file="default\Regions_1.PNG" jump="1" mainColor="-fbfbfc" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="" methodBB="" methodIOS="" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Regions">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/regions']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="74"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="574"/>
+<web-identifier name="href" value="/regions"/>
+<web-identifier name="text" value="Regions"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="USPolitics" version="1">
+<images enable="true">
+<image file="default\U.S. Politics_1.PNG" jump="1" mainColor="-edfd00" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="U.S. Politics">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/politics']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="428"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="574"/>
+<web-identifier name="href" value="/politics"/>
+<web-identifier name="text" value="U.S. Politics"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="Money" version="1">
+<images enable="true">
+<image file="default\Money_1.PNG" jump="1" mainColor="-fa0000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="css" value="A.nav-flyout__section-title[href='http://money.cnn.com/INTERNATIONAL/']">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='http://money.cnn.com/INTERNATIONAL/']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="782"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="574"/>
+<web-identifier name="href" value="http://money.cnn.com/INTERNATIONAL/"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="88"/>
+</web>
+</obj>
+<obj text="Entertainment" version="1">
+<images enable="true">
+<image file="default\Entertainment_1.PNG" jump="1" mainColor="-301" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="css" value="A.nav-flyout__section-title[href='/entertainment']">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/entertainment']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="1136"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="574"/>
+<web-identifier name="href" value="/entertainment"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="tech" version="1">
+<images enable="true">
+<image file="default\tech_1.PNG" jump="1" mainColor="-fbfbfc" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="css" value="A.nav-flyout__section-title[href='http://money.cnn.com/technology/']">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='http://money.cnn.com/technology/']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="74"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="692"/>
+<web-identifier name="href" value="http://money.cnn.com/technology/"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="88"/>
+</web>
+</obj>
+<obj text="Sport" version="1">
+<images enable="true">
+<image file="default\Sport_1.PNG" jump="1" mainColor="-fdfdfe" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="" methodBB="" methodIOS="" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Sport">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/sport']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="428"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="692"/>
+<web-identifier name="href" value="/sport"/>
+<web-identifier name="text" value="Sport"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="travel" version="1">
+<images enable="true">
+<image file="default\travel_1.PNG" jump="1" mainColor="-108" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="css" value="A.nav-flyout__section-title[href='/travel']">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/travel']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="782"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="692"/>
+<web-identifier name="href" value="/travel"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="84"/>
+</web>
+</obj>
+<obj text="style" version="1">
+<images enable="true">
+<image file="default\style_1.PNG" jump="1" mainColor="-108" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="css" value="A.nav-flyout__section-title[href='/style']">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/style']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="1136"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="692"/>
+<web-identifier name="href" value="/style"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="92"/>
+</web>
+</obj>
+<obj text="Health" version="1">
+<images enable="true">
+<image file="default\Health_1.PNG" jump="1" mainColor="-edfd00" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="" methodBB="" methodIOS="" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Health">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/health']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="74"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="814"/>
+<web-identifier name="href" value="/health"/>
+<web-identifier name="text" value="Health"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="Features" version="1">
+<images enable="true">
+<image file="default\Features_1.PNG" jump="1" mainColor="-e2e2e3" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="" methodBB="" methodIOS="" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Features">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/specials']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="428"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="814"/>
+<web-identifier name="href" value="/specials"/>
+<web-identifier name="text" value="Features"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="Video" version="1">
+<images enable="true">
+<image file="default\Video_1.PNG" jump="1" mainColor="-f6fffd" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Video">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/videos']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="782"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="814"/>
+<web-identifier name="href" value="/videos"/>
+<web-identifier name="text" value="Video"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="vr" version="1">
+<images enable="true">
+<image file="default\vr_1.PNG" jump="1" mainColor="-108" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="css" value="A.nav-flyout__section-title[href='/vr']">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/vr']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="1136"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="814"/>
+<web-identifier name="href" value="/vr"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="64"/>
+</web>
+</obj>
+<obj text="More…" version="1">
+<images enable="true">
+<image file="default\More…_1.PNG" jump="1" mainColor="-9090a" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="" methodBB="" methodIOS="" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="More…">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.nav-flyout__section-title[href='/more']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="true"/>
+<web-identifier name="x" value="74"/>
+<web-identifier name="width" value="264"/>
+<web-identifier name="y" value="930"/>
+<web-identifier name="href" value="/more"/>
+<web-identifier name="text" value="More…"/>
+<web-identifier name="class" value="nav-flyout__section-title"/>
+<web-identifier name="height" value="86"/>
+</web>
+</obj>
+<obj text="I agree" version="1">
+<images enable="true">
+<image file="default\I agree.PNG" jump="1" mainColor="-b0b0c" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="I agree">
+<web-identifier name="nodeName" value="DIV"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="DIV.user-msg--agree.js-user-msg--agree"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="580"/>
+<web-identifier name="width" value="130"/>
+<web-identifier name="y" value="1168"/>
+<web-identifier name="text" value="I agree"/>
+<web-identifier name="class" value="user-msg--agree js-user-msg--agree"/>
+<web-identifier name="height" value="60"/>
+</web>
+</obj>
+<obj text="URLbar" version="1">
+<images enable="true">
+<image file="default\URLbar.PNG" jump="1" mainColor="-60607" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\URLbar_1.PNG" jump="1" mainColor="-463927" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\URLbar_2.PNG" jump="1" mainColor="-d0d0e" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="URL" class="android.widget.EditText" classBB="" classIOS="UIAButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="url_text_field" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="//*[@text='Address' and ./parent::*[./parent::*[./following-sibling::*[@class='UIAScrollView']]]]" scriptIOS="" text="http://www.cnn.com" textBB="" textIOS="Address" textWP="" value="//*[@hint='http://']" xpath="//*[@hint='http://']" xpathIOS="//*[@placeholder='Go to this address']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="backIcon" version="1">
+<images enable="true">
+<image file="default\backIcon.PNG" jump="1" mainColor="-fc8601" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\backIcon_1.PNG" jump="1" mainColor="-39393a" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="backIcon" class="android.widget.Button" classBB="" classIOS="_UIToolbarNavigationButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="back_button" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Back" textBB="" textIOS="" textWP="" value="//*[@text='Back']" xpath="//*[@text='Back']" xpathIOS="//*[@accessibilityLabel='backIcon' and @class='_UIToolbarNavigationButton']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Home" version="1">
+<images enable="true">
+<image file="default\Home.PNG" jump="1" mainColor="-424243" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Home">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="css" value="A[href='/']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="true"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="140"/>
+<web-identifier name="width" value="82"/>
+<web-identifier name="y" value="128"/>
+<web-identifier name="href" value="/"/>
+<web-identifier name="text" value="Home"/>
+<web-identifier name="height" value="100"/>
+</web>
+</obj>
+<obj text="Done" version="1">
+<images enable="true">
+<image file="default\Done.PNG" jump="1" mainColor="-fdfdfe" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Done_1.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Done" class="" classBB="" classIOS="AVButton" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="//*[@accessibilityLabel='Done' and @class='AVButton']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="element 0" version="1">
+<images enable="true">
+<image file="default\element 0.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value="">
+<web-identifier name="nodeName" value="document"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="70"/>
+<web-identifier name="width" value="610"/>
+<web-identifier name="y" value="292"/>
+<web-identifier name="height" value="194"/>
+</web>
+</obj>
+<obj text="usernameTextField" version="1">
+<images enable="true">
+<image file="default\usernameTextField.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="usernameTextField" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@hint='Username']" xpath="//*[@hint='Username']" xpathIOS="//*[@placeholder='Username']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="passwordTextField" version="1">
+<images enable="true">
+<image file="default\passwordTextField.PNG" jump="1" mainColor="-838384" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="passwordTextField" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@hint='Password']" xpath="//*[@hint='Password']" xpathIOS="//*[@placeholder='Password']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Login" version="1">
+<images enable="true">
+<image file="default\Login.PNG" jump="1" mainColor="-2f2f30" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Login_1.PNG" jump="1" mainColor="-20108" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Login_2.PNG" jump="1" mainColor="-70708" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Login" class="android.widget.Button" classBB="" classIOS="UIButtonLabel" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="loginButton" method="text" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Login" textBB="" textIOS="//*[@text='Login']" textWP="" value="Login" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Make Payment" version="1">
+<images enable="true">
+<image file="default\Make Payment.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="makePaymentButton" method="text" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Make Payment" textBB="" textIOS="Make Payment" textWP="" value="Make Payment" xpath="//*[@text='Make Payment']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="phoneTextField" version="1">
+<images enable="true">
+<image file="default\phoneTextField.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Phone" id="phoneTextField" method="hint" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="Phone" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Phone" xpath="//*[@hint='Phone']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="nameTextField" version="1">
+<images enable="true">
+<image file="default\nameTextField.PNG" jump="1" mainColor="-808081" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Name" id="nameTextField" method="hint" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="Name" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Name" xpath="//*[@hint='Name']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="amountTextField" version="1">
+<images enable="true">
+<image file="default\amountTextField.PNG" jump="1" mainColor="-7f7f80" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Amount" id="amountTextField" method="hint" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="Amount" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Amount" xpath="//*[@hint='Amount']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Select" version="1">
+<images enable="true">
+<image file="default\Select.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="countryButton" method="text" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Select" textBB="" textIOS="Select" textWP="" value="Select" xpath="//*[@text='Select']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="USA" version="1">
+<images enable="true">
+<image file="default\USA.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="rowTextView" method="text" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="USA" textBB="" textIOS="USA" textWP="" value="USA" xpath="//*[@text='USA']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Send Payment" version="1">
+<images enable="true">
+<image file="default\Send Payment.PNG" jump="1" mainColor="-878788" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="sendPaymentButton" method="text" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="Send Payment" scriptIOS="" text="Send Payment" textBB="" textIOS="" textWP="" value="Send Payment" xpath="//*[@text='Send Payment']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Yes" version="1">
+<images enable="true">
+<image file="default\Yes.PNG" jump="1" mainColor="-232324" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="button1" method="text" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Yes" textBB="" textIOS="Yes" textWP="" value="Yes" xpath="//*[@text='Yes']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Phone" version="1">
+<images enable="false">
+<image file="default\Phone.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="phoneTextField" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Phone" id="phoneTextField" method="hint" methodBB="" methodIOS="placeholder" methodWP="" nameWP="" placeholderIOS="Phone" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Phone" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Name" version="1">
+<images enable="false">
+<image file="default\Name.PNG" jump="1" mainColor="-808081" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="nameTextField" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Name" id="nameTextField" method="hint" methodBB="" methodIOS="placeholder" methodWP="" nameWP="" placeholderIOS="Name" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Name" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Amount" version="1">
+<images enable="false">
+<image file="default\Amount.PNG" jump="1" mainColor="-7f7f80" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="amountTextField" class="android.widget.EditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Amount" id="amountTextField" method="hint" methodBB="" methodIOS="placeholder" methodWP="" nameWP="" placeholderIOS="Amount" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Amount" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Select_1" version="1">
+<images enable="false">
+<image file="default\Select_1.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="countryButton" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="countryButton" method="text" methodBB="" methodIOS="text" methodWP="" nameWP="" placeholderIOS="Select" scriptIOS="" text="Select" textBB="" textIOS="Select" textWP="" value="Select" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="USA_1" version="1">
+<images enable="false">
+<image file="default\USA_1.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="rowTextView" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="rowTextView" method="text" methodBB="" methodIOS="text" methodWP="" nameWP="" placeholderIOS="USA" scriptIOS="" text="USA" textBB="" textIOS="USA" textWP="" value="USA" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Send Payment_1" version="1">
+<images enable="false">
+<image file="default\Send Payment_1.PNG" jump="1" mainColor="-272728" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="sendPaymentButton" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="sendPaymentButton" method="text" methodBB="" methodIOS="text" methodWP="" nameWP="" placeholderIOS="Send Payment" scriptIOS="" text="Send Payment" textBB="" textIOS="Send Payment" textWP="" value="Send Payment" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Yes_1" version="1">
+<images enable="false">
+<image file="default\Yes_1.PNG" jump="1" mainColor="-232324" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="button1" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="button1" method="text" methodBB="" methodIOS="text" methodWP="" nameWP="" placeholderIOS="Yes" scriptIOS="" text="Yes" textBB="" textIOS="Yes" textWP="" value="Yes" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Close" version="1">
+<images enable="true">
+<image file="default\Close.PNG" jump="1" mainColor="-333334" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="Close" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="button3" method="text" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Close" textBB="" textIOS="Dismiss" textWP="" value="Close" xpath="//*[@text='Close']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="topLoginField" version="1">
+<images enable="true">
+<image file="default\topLoginField.PNG" jump="1" mainColor="-1be7f" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\topLoginField_1.PNG" jump="1" mainColor="-2d2d2e" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="TopField" class="android.support.v7.widget.AppCompatEditText" classBB="" classIOS="//*[@accessibilityLabel='These Two ']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="These Must" id="matchText1" method="hint" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="These Two " scriptIOS="" text="" textBB="" textIOS="These Two " textWP="" value="These Must" xpath="//*[@hint='These Must']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="bottomLoginField" version="1">
+<images enable="true">
+<image file="default\BottomField.PNG" jump="1" mainColor="-8d8d8e" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\bottomLoginField.PNG" jump="1" mainColor="-2c2c2d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Bottom Field" class="android.support.v7.widget.AppCompatEditText" classBB="" classIOS="//*[@accessibilityLabel='Must Match']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Match" id="matchText2" method="hint" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="Must Match" scriptIOS="" text="" textBB="" textIOS="Must Match" textWP="" value="Match" xpath="//*[@hint='Match']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Game" version="1">
+<images enable="true">
+<image file="default\Game.PNG" jump="1" mainColor="-e3e3e4" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Game_1.PNG" jump="1" mainColor="-201" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="GameButton" class="android.support.v7.widget.AppCompatButton" classBB="" classIOS="//*[@text='Game']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="GameButton" method="text" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Game" textBB="" textIOS="Game" textWP="" value="Game" xpath="//*[@text='Game']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="clicker_button" version="1">
+<images enable="true">
+<image file="default\clicker_button.PNG" jump="1" mainColor="-f3f3f2" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\clicker_button_1.PNG" jump="1" mainColor="-f2f2f3" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="Image" alIOS="Clicker" class="android.support.v7.widget.AppCompatImageButton" classBB="" classIOS="//*[@class='UIImageView' and ./parent::*[@accessibilityLabel='Button']]" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="clicker_button" method="id" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="clicker_button" xpath="//*[@id='clicker_button']" xpathIOS="xpath=//*[@class='UIImageView' and ./parent::*[@accessibilityLabel='Button']]" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Again" version="1">
+<images enable="true">
+<image file="default\Again.PNG" jump="1" mainColor="-2b292b" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Again_1.PNG" jump="1" mainColor="-140001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="AgainButton" class="android.support.v7.widget.AppCompatButton" classBB="" classIOS="//*[@text='Again']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="AgainButton" method="text" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Again" textBB="" textIOS="Again" textWP="" value="Again" xpath="//*[@text='Again']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Exit" version="1">
+<images enable="true">
+<image file="default\Exit.PNG" jump="1" mainColor="-e4e4e5" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Exit_1.PNG" jump="1" mainColor="-a0001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Back" class="android.support.v7.widget.AppCompatButton" classBB="" classIOS="//*[@text='Back']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="ExitButton" method="text" methodBB="class" methodIOS="text" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Exit" textBB="" textIOS="Back" textWP="" value="Exit" xpath="//*[@text='Exit']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Records" version="1">
+<images enable="true">
+<image file="default\Records.PNG" jump="1" mainColor="-e4e4e5" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Records_1.PNG" jump="1" mainColor="-200001" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Records" class="android.support.v7.widget.AppCompatButton" classBB="" classIOS="//*[@text='Records']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="recordsButton" method="text" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Records" textBB="" textIOS="Records" textWP="" value="Records" xpath="//*[@text='Records']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="counter" version="1">
+<images enable="true">
+<image file="default\0.PNG" jump="1" mainColor="-8c8c8d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\counter.PNG" jump="1" mainColor="-fefeff" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="Score Counter" alIOS="Score Counter" class="android.widget.TextView" classBB="" classIOS="UILabel" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="counter" method="id" methodBB="class" methodIOS="accessibilityLabel" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="0" textBB="" textIOS="0" textWP="" value="counter" xpath="//*[@text='0']" xpathIOS="//*[@text='0']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Store" version="1">
+<images enable="true">
+<image file="default\Store.PNG" jump="1" mainColor="-ead2c7" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Store_1.PNG" jump="1" mainColor="-e25308" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="App Store" class="android.widget.TextView" classBB="" classIOS="//*[@text='App Store']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Play Store" textBB="" textIOS="App Store" textWP="" value="//*[@text='Play Store']" xpath="//*[@text='Play Store']" xpathIOS="//*[@text='App Store']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="search_button" version="1">
+<images enable="true">
+<image file="default\search_button.PNG" jump="1" mainColor="-ee61a7" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\search_button_1.PNG" jump="1" mainColor="-80809" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="//*[@text='Search']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="search_button" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Search" textWP="" value="//*[@id='search_button']" xpath="//*[@id='search_button']" xpathIOS="//*[@text='Search']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Searchstore" version="1">
+<images enable="true">
+<image file="default\Searchstore.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\Searchstore_1.PNG" jump="1" mainColor="-202021" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.EditText" classBB="" classIOS="//*[@placeholder='Search']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="search_box_text_input" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="Search" scriptIOS="" text="Search Google Play" textBB="" textIOS="Search" textWP="" value="//*[@id='search_box_text_input']" xpath="//*[@id='search_box_text_input']" xpathIOS="//*[@placeholder='Search']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="play_card" version="1">
+<images enable="true">
+<image file="default\play_card.PNG" jump="1" mainColor="222222" max="0" min="0" scanner="Advance Similarity" similarity="80"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.RelativeLayout" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="play_card" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='play_card' and ./*[@text='Flashlight'] and ./*[@text='Lighthouse, Inc.']]" xpath="//*[@id='play_card' and ./*[@text='Flashlight'] and ./*[@text='Lighthouse, Inc.']]" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="INSTALL" version="1">
+<images enable="true">
+<image file="default\INSTALL.PNG" jump="1" mainColor="-f161a8" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\INSTALL_1.PNG" jump="1" mainColor="-40405" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="PurchaseButton" class="android.widget.Button" classBB="" classIOS="//*[@text='Download' and ./parent::*[./parent::*[@text='Flashlight., 7th Gear']]]" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="INSTALL" textBB="" textIOS="Download" textWP="" value="//*[@text='INSTALL']" xpath="//*[@text='INSTALL']" xpathIOS="//*[@text='Download']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="OPEN" version="1">
+<images enable="true">
+<image file="default\OPEN.PNG" jump="1" mainColor="-ed62a7" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\OPEN_1.PNG" jump="1" mainColor="-20203" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="PurchaseButton" class="android.widget.Button" classBB="" classIOS="//*[@text='OPEN']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="OPEN" textBB="" textIOS="OPEN" textWP="" value="//*[@text='OPEN']" xpath="//*[@text='OPEN']" xpathIOS="//*[@text='OPEN']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="TOP CHARTS" version="1">
+<images enable="true">
+<image file="default\TOP CHARTS.PNG" jump="1" mainColor="-f160a6" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+<image file="default\TOP CHARTS_1.PNG" jump="1" mainColor="-ff8401" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="//*[@text='Top Charts' and @class='UIAButton']" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="li_title" method="xpath" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="TOP CHARTS" textBB="" textIOS="Top Charts" textWP="" value="//*[@text='TOP CHARTS']" xpath="//*[@text='TOP CHARTS']" xpathIOS="//*[@text='Top Charts']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="toggle_switch_button" version="1">
+<images enable="true">
+<image file="default\toggle_switch_button.PNG" jump="1" mainColor="-f065aa" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Switch" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="toggle_switch_button" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='toggle_switch_button' and @width&gt;0]" xpath="//*[@id='toggle_switch_button' and @width&gt;0]" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="IOS_Card" version="1">
+<images enable="true">
+<image file="default\IOS_Card.PNG" jump="1" mainColor="-fcfcfd" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="UIAView" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Flashlight., 7th Gear" textWP="" value="" xpath="" xpathIOS="//*[@text='Flashlight., 7th Gear']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Free" version="1">
+<images enable="true">
+<image file="default\Free.PNG" jump="1" mainColor="-ff8310" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="UIAButton" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Free" textWP="" value="" xpath="" xpathIOS="//*[@text='Free']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="IOSCARD2" version="1">
+<images enable="true">
+<image file="default\IOSCARD2.PNG" jump="1" mainColor="-eeeeef" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="UIAView" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="xpath" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="Flashlight Ⓞ, iHandy Inc." textWP="" value="" xpath="" xpathIOS="//*[@text='Flashlight Ⓞ, iHandy Inc.']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Seller Profit Calculator" version="1">
+<images enable="true">
+<image file="default\Seller Profit Calculator.PNG" jump="1" mainColor="-cd5d48" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Seller Profit Calculator" textBB="" textIOS="" textWP="" value="//*[@text='Seller Profit Calculator']" xpath="//*[@text='Seller Profit Calculator']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="AuctionStartingPrice" version="1">
+<images enable="true">
+<image file="default\AuctionStartingPrice.PNG" jump="1" mainColor="-8c8c8d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="starting_price" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Auction starting price:" textBB="" textIOS="" textWP="" value="//*[@text='Auction starting price:']" xpath="//*[@text='Auction starting price:']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Fixed price" version="1">
+<images enable="true">
+<image file="default\Fixed price.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.RadioButton" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="radioBIN" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Fixed price" textBB="" textIOS="" textWP="" value="//*[@text='Fixed price']" xpath="//*[@text='Fixed price']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Auction" version="1">
+<images enable="true">
+<image file="default\Auction.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.RadioButton" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="radioAuction" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Auction" textBB="" textIOS="" textWP="" value="//*[@text='Auction']" xpath="//*[@text='Auction']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Reserve price" version="1">
+<images enable="true">
+<image file="default\Reserve price.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.CheckBox" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="reserve_checkbox" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Reserve price" textBB="" textIOS="" textWP="" value="//*[@text='Reserve price']" xpath="//*[@text='Reserve price']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="reservemarker" version="1">
+<images enable="true">
+<image file="default\reservemarker.PNG" jump="1" mainColor="-8c8c8d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="reserve_price" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Reserve price:" textBB="" textIOS="" textWP="" value="//*[@text='Reserve price:']" xpath="//*[@text='Reserve price:']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="pinEntry" version="1">
+<images enable="true">
+<image file="default\pinEntry.PNG" jump="1" mainColor="-f6f2f0" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="pinEntry" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='pinEntry']" xpath="//*[@id='pinEntry']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="These Two " version="1">
+<images enable="false">
+<image file="default\These Two .PNG" jump="1" mainColor="-1d1d1e" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="TopField" class="" classBB="" classIOS="UITextField" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="These Two " id="topField" method="id" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="These Two " scriptIOS="" text="TopField" textBB="" textIOS="" textWP="" value="topField" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Must Match" version="1">
+<images enable="false">
+<image file="default\Must Match.PNG" jump="1" mainColor="-2c2c2d" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Bottom Field" class="" classBB="" classIOS="UITextField" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Must Match" id="" method="partial_text" methodBB="" methodIOS="placeholder" methodWP="" nameWP="" placeholderIOS="Must Match" scriptIOS="" text="Bottom Field" textBB="" textIOS="" textWP="" value="Bottom Field" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="element 1" version="1">
+<images enable="false">
+<image file="default\element 1.PNG" jump="1" mainColor="-524b46" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="UIInputSetContainerView" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="" methodBB="" methodIOS="xpath" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="//*[@class='UIInputSetContainerView' and ./*[./*[@class='UIView']]]" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Login_1" version="1">
+<images enable="false">
+<image file="default\Login_1_1.PNG" jump="1" mainColor="-a0001" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Login" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="Login" textBB="" textIOS="" textWP="" value="Login" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="AgainButton" version="1">
+<images enable="false">
+<image file="default\AgainButton.PNG" jump="1" mainColor="-1b0001" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="AgainButton" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="AgainButton" textBB="" textIOS="" textWP="" value="AgainButton" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Back Button" version="1">
+<images enable="false">
+<image file="default\Back Button.PNG" jump="1" mainColor="-d0001" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Back Button" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="Back Button" textBB="" textIOS="" textWP="" value="Back Button" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Records_1" version="1">
+<images enable="false">
+<image file="default\Records_1_1.PNG" jump="1" mainColor="-200001" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Records" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="Records" textBB="" textIOS="" textWP="" value="Records" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Back" version="1">
+<images enable="false">
+<image file="default\Back.PNG" jump="1" mainColor="-150001" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Back" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="Back" textBB="" textIOS="" textWP="" value="Back" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="These Two _1" version="1">
+<images enable="false">
+<image file="default\These Two _1.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="TopField" class="" classBB="" classIOS="UITextField" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="These Two " id="" method="partial_text" methodBB="" methodIOS="placeholder" methodWP="" nameWP="" placeholderIOS="These Two " scriptIOS="" text="TopField" textBB="" textIOS="butt" textWP="" value="TopField" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="GameButton" version="1">
+<images enable="false">
+<image file="default\GameButton_1.PNG" jump="1" mainColor="-201" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="GameButton" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="GameButton" textBB="" textIOS="" textWP="" value="GameButton" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Clicker" version="1">
+<images enable="false">
+<image file="default\Clicker_1.PNG" jump="1" mainColor="-f2f2f3" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="Clicker" class="" classBB="" classIOS="UIButton" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="accessibilityLabel" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="Clicker" textBB="" textIOS="" textWP="" value="Clicker" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="element 2" version="1">
+<images enable="false">
+<image file="default\element 2_1.PNG" jump="1" mainColor="-fcfcfd" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="Timer" alIOS="Timer" class="" classBB="" classIOS="UILabel" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="partial_text" methodBB="" methodIOS="xpath" methodWP="" nameWP="" placeholderIOS="" scriptIOS="" text="0.67" textBB="" textIOS="0.67" textWP="" value="0.67" xpath="" xpathIOS="//*[@text='0.67']" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="INSTALL_1" version="1">
+<images enable="true">
+<image file="default\INSTALL_1_1.PNG" jump="1" mainColor="-ed62a7" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="INSTALL" textBB="" textIOS="" textWP="" value="//*[@text='INSTALL']" xpath="//*[@text='INSTALL']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Open in Play Store app" version="1">
+<images enable="true">
+<image file="default\Open in Play Store app.PNG" jump="1" mainColor="-8f5edd" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="text" value="Open in Play Store app">
+<web-identifier name="nodeName" value="A"/>
+<web-identifier name="css" value="A.boqPlaydetailsNativeredirectbannerLink.boqPlaybasestylesButtonApps[href='https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id%3Dcom.ralksoft.sellerprofitcalculator%26ddl%3D1%26pcampaignid%3Dweb_ddl_1']"/>
+<web-identifier name="visible" value="true"/>
+<web-identifier name="hidden" value="false"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="top" value="false"/>
+<web-identifier name="x" value="268"/>
+<web-identifier name="width" value="540"/>
+<web-identifier name="y" value="1759"/>
+<web-identifier name="href" value="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id%3Dcom.ralksoft.sellerprofitcalculator%26ddl%3D1%26pcampaignid%3Dweb_ddl_1"/>
+<web-identifier name="text" value="Open in Play Store app"/>
+<web-identifier name="class" value="boqPlaydetailsNativeredirectbannerLink boqPlaybasestylesButtonApps  "/>
+<web-identifier name="height" value="119"/>
+</web>
+</obj>
+</domain>
