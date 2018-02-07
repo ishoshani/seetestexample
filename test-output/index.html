@@ -2,6 +2,7 @@
 
 <html>
   <head>
+  <meta charset='utf-8'>
   <title>TestNG reports</title>
 
     <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
@@ -58,7 +59,7 @@
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="group-My_suite">
-                    <span>4 groups</span>
+                    <span>1 group</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -90,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">7 methods, 1 failed,  4 skipped,  2 passed</span>
+                    <span class="method-stats">1 method, 1 failed,   </span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -101,58 +102,10 @@
                     <div class="method-list-content failed suite-My_suite">
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.AppStoreDownload" hash-for-method="test">test</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.calculator.CalculatorField" hash-for-method="test">test</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-My_suite -->
-                  </li>
-                  <li>
-                    <span class="method-list-title skipped">Skipped methods</span>
-                    <span class="show-or-hide-methods skipped">
-                      <a href="#" panel-name="suite-My_suite" class="hide-methods skipped suite-My_suite"> (hide)</a> <!-- hide-methods skipped suite-My_suite -->
-                      <a href="#" panel-name="suite-My_suite" class="show-methods skipped suite-My_suite"> (show)</a> <!-- show-methods skipped suite-My_suite -->
-                    </span>
-                    <div class="method-list-content skipped suite-My_suite">
-                      <span>
-                        <img width="3%" src="skipped.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.MyApplicationLogin" hash-for-method="test">test</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="skipped.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.MyApplicationGame" hash-for-method="test2">test2</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="skipped.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.WebTestMenuExists" hash-for-method="testWebTest1">testWebTest1</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="skipped.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.WebTestLinksWork" hash-for-method="testWebTest2">testWebTest2</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content skipped suite-My_suite -->
-                  </li>
-                  <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-My_suite" class="hide-methods passed suite-My_suite"> (hide)</a> <!-- hide-methods passed suite-My_suite -->
-                      <a href="#" panel-name="suite-My_suite" class="show-methods passed suite-My_suite"> (show)</a> <!-- show-methods passed suite-My_suite -->
-                    </span>
-                    <div class="method-list-content passed suite-My_suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.NativeTestLogin" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-My_suite" title="com.myTests.NativeTestWorkFlow" hash-for-method="OrderTest">OrderTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content passed suite-My_suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -167,7 +120,7 @@
           <div class="suite-My_suite-class-failed">
             <div class="main-panel-header rounded-window-top">
               <img src="failed.png"/>
-              <span class="class-name">com.myTests.AppStoreDownload</span>
+              <span class="class-name">com.myTests.calculator.CalculatorField</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
@@ -175,13 +128,13 @@
                   <a name="test">
                   </a> <!-- test -->
                   <span class="method-name">test</span>
-                  <div class="stack-trace">com.experitest.client.InternalException: Exception caught while executing click: Element was not identified: &apos;OPEN&apos; at zone default
+                  <div class="stack-trace">com.experitest.client.InternalException: Exception caught while executing elementSendText: Element was not identified: &apos;xpath=//*[@id=&apos;starting_price_edit_text&apos;]&apos; at zone NATIVE
 	at com.experitest.client.JavaClientInternals.executeInternally(JavaClientInternals.java:249)
 	at com.experitest.client.Client.execute(Client.java:247)
 	at com.experitest.client.ExecutionClient.execute(ExecutionClient.java:184)
-	at com.experitest.client.Client.click(Client.java:476)
-	at com.experitest.client.ClientWrapper.click(ClientWrapper.java:195)
-	at com.myTests.AppStoreDownload.test(AppStoreDownload.java:39)
+	at com.experitest.client.Client.elementSendText(Client.java:794)
+	at com.experitest.client.ClientWrapper.elementSendText(ClientWrapper.java:502)
+	at com.myTests.calculator.CalculatorField.test(CalculatorField.java:16)
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at java.lang.Thread.run(Thread.java:748)
@@ -191,96 +144,6 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-My_suite-class-failed -->
-          <div class="suite-My_suite-class-skipped">
-            <div class="main-panel-header rounded-window-top">
-              <img src="skipped.png"/>
-              <span class="class-name">com.myTests.WebTestMenuExists</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="testWebTest1">
-                  </a> <!-- testWebTest1 -->
-                  <span class="method-name">testWebTest1</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-My_suite-class-skipped -->
-          <div class="suite-My_suite-class-skipped">
-            <div class="main-panel-header rounded-window-top">
-              <img src="skipped.png"/>
-              <span class="class-name">com.myTests.MyApplicationGame</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="test2">
-                  </a> <!-- test2 -->
-                  <span class="method-name">test2</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-My_suite-class-skipped -->
-          <div class="suite-My_suite-class-skipped">
-            <div class="main-panel-header rounded-window-top">
-              <img src="skipped.png"/>
-              <span class="class-name">com.myTests.WebTestLinksWork</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="testWebTest2">
-                  </a> <!-- testWebTest2 -->
-                  <span class="method-name">testWebTest2</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-My_suite-class-skipped -->
-          <div class="suite-My_suite-class-skipped">
-            <div class="main-panel-header rounded-window-top">
-              <img src="skipped.png"/>
-              <span class="class-name">com.myTests.MyApplicationLogin</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="test">
-                  </a> <!-- test -->
-                  <span class="method-name">test</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-My_suite-class-skipped -->
-          <div class="suite-My_suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.myTests.NativeTestLogin</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="LoginTest">
-                  </a> <!-- LoginTest -->
-                  <span class="method-name">LoginTest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-My_suite-class-passed -->
-          <div class="suite-My_suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.myTests.NativeTestWorkFlow</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="OrderTest">
-                  </a> <!-- OrderTest -->
-                  <span class="method-name">OrderTest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-My_suite-class-passed -->
         </div> <!-- panel My_suite -->
         <div panel-name="test-xml-My_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -290,31 +153,12 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;My suite&quot; parallel=&quot;methods&quot;&gt;
-  &lt;parameter name=&quot;isGrid&quot; value=&quot;true&quot;/&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;My suite&quot; parallel=&quot;classes&quot;&gt;
   &lt;test name=&quot;TestAttempt&quot;&gt;
-    &lt;groups&gt;
-      &lt;run&gt;
-        &lt;include name=&quot;native1&quot;/&gt;
-        &lt;include name=&quot;AppStore&quot;/&gt;
-        &lt;include name=&quot;native2&quot;/&gt;
-        &lt;include name=&quot;calculator&quot;/&gt;
-        &lt;include name=&quot;Web&quot;/&gt;
-      &lt;/run&gt;
-    &lt;/groups&gt;
+    &lt;parameter name=&quot;isGrid&quot; value=&quot;true&quot;/&gt;
+    &lt;parameter name=&quot;deviceQ&quot; value=&quot;@os=&amp;#039;android&amp;#039;&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.myTests.DemoTest&quot;/&gt;
-      &lt;class name=&quot;com.myTests.NativeTestLogin&quot;/&gt;
-      &lt;class name=&quot;com.myTests.NativeTestWorkFlow&quot;/&gt;
-      &lt;class name=&quot;com.myTests.MyApplicationGame&quot;/&gt;
-      &lt;class name=&quot;com.myTests.MyApplicationLogin&quot;/&gt;
-      &lt;class name=&quot;com.myTests.AppStoreCharts&quot;/&gt;
-      &lt;class name=&quot;com.myTests.AppStoreDownload&quot;/&gt;
-      &lt;class name=&quot;com.myTests.CalculatorField&quot;/&gt;
-      &lt;class name=&quot;com.myTests.CalculatorFlow&quot;/&gt;
-      &lt;class name=&quot;com.myTests.CalculatorView&quot;/&gt;
-      &lt;class name=&quot;com.myTests.WebTestLinksWork&quot;/&gt;
-      &lt;class name=&quot;com.myTests.WebTestMenuExists&quot;/&gt;
+      &lt;class name=&quot;com.myTests.calculator.CalculatorField&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- TestAttempt --&gt;
 &lt;/suite&gt; &lt;!-- My suite --&gt;
@@ -328,7 +172,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">TestAttempt (12 classes)</span>
+                <span class="test-name">TestAttempt (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -339,46 +183,10 @@
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="test-group">
-              <span class="test-group-name">AppStore</span>
+              <span class="test-group-name">Calculator</span>
               <br/>
               <div class="method-in-group">
                 <span class="method-in-group-name">test</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
-            <div class="test-group">
-              <span class="test-group-name">Web</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">testWebTest1</span>
-                <br/>
-              </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">testWebTest2</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
-            <div class="test-group">
-              <span class="test-group-name">native1</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">LoginTest</span>
-                <br/>
-              </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">OrderTest</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
-            <div class="test-group">
-              <span class="test-group-name">native2</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">test</span>
-                <br/>
-              </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">test2</span>
                 <br/>
               </div> <!-- method-in-group -->
             </div> <!-- test-group -->
@@ -398,40 +206,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(7);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'LoginTest')
-data.setCell(0, 2, 'com.myTests.NativeTestLogin')
-data.setCell(0, 3, 389815);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'OrderTest')
-data.setCell(1, 2, 'com.myTests.NativeTestWorkFlow')
-data.setCell(1, 3, 102054);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'test')
-data.setCell(2, 2, 'com.myTests.AppStoreDownload')
-data.setCell(2, 3, 36856);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'testWebTest2')
-data.setCell(3, 2, 'com.myTests.WebTestLinksWork')
-data.setCell(3, 3, 4);
-data.setCell(4, 0, 4)
-data.setCell(4, 1, 'test2')
-data.setCell(4, 2, 'com.myTests.MyApplicationGame')
-data.setCell(4, 3, 3);
-data.setCell(5, 0, 5)
-data.setCell(5, 1, 'test')
-data.setCell(5, 2, 'com.myTests.MyApplicationLogin')
-data.setCell(5, 3, 1);
-data.setCell(6, 0, 6)
-data.setCell(6, 1, 'testWebTest1')
-data.setCell(6, 2, 'com.myTests.WebTestMenuExists')
-data.setCell(6, 3, 1);
+data.setCell(0, 1, 'test')
+data.setCell(0, 2, 'com.myTests.calculator.CalculatorField')
+data.setCell(0, 3, 50590);
 window.suiteTableData['My_suite']= { tableData: data, tableDiv: 'times-div-My_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 8 minutes</span>
+              <span class="suite-total-time">Total running time: 50 seconds</span>
               <div id="times-div-My_suite">
               </div> <!-- times-div-My_suite -->
             </div> <!-- times-div -->
@@ -446,94 +230,9 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-My_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">15 ignored methods</span>
+            <span class="header-content">0 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.NativeTestLogin</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.CalculatorFlow</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">test3</span>
-                <br/>
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.CalculatorView</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">test2</span>
-                <br/>
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.WebTestMenuExists</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.AppStoreCharts</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-                <span class="ignored-method-name">test2</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.MyApplicationGame</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.WebTestLinksWork</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.MyApplicationLogin</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.CalculatorField</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">test</span>
-                <br/>
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.NativeTestWorkFlow</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
-            <div class="ignored-class-div">
-              <span class="ignored-class-name">com.myTests.AppStoreDownload</span>
-              <div class="ignored-methods-div">
-                <span class="ignored-method-name">setRuntime</span>
-                <br/>
-              </div> <!-- ignored-methods-div -->
-            </div> <!-- ignored-class-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="chronological-My_suite" class="panel">
@@ -542,131 +241,28 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.DemoTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.myTests.calculator.CalculatorField</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">setRuntime</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.NativeTestLogin</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
-                <span class="method-name">setUp(true)</span>
-                <span class="method-start">47 ms</span>
+                <span class="method-name">clientSetUp(true, @os='android')</span>
+                <span class="method-start">33 ms</span>
               </div> <!-- configuration-method before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.MyApplicationGame</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(true)</span>
-                <span class="method-start">48 ms</span>
-              </div> <!-- configuration-method before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.NativeTestWorkFlow</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp(true)</span>
-                <span class="method-start">48 ms</span>
-              </div> <!-- configuration-method before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.MyApplicationLogin</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">setUp(true)</span>
-                <span class="method-start">49 ms</span>
-              </div> <!-- configuration-method before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.AppStoreDownload</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <span class="method-name">setUp(true)</span>
-                <span class="method-start">51 ms</span>
+                <span class="method-start">39965 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">test</span>
-                <span class="method-start">18039 ms</span>
+                <span class="method-start">39966 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">54909 ms</span>
-              </div> <!-- configuration-method after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.WebTestLinksWork</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">setUp(true)</span>
-                <span class="method-start">63092 ms</span>
-              </div> <!-- configuration-method before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.MyApplicationLogin</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">test</span>
-                <span class="method-start">84496 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.WebTestMenuExists</div> <!-- chronological-class-name -->
-              <div class="configuration-method before">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">setUp(true)</span>
-                <span class="method-start">84499 ms</span>
-              </div> <!-- configuration-method before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.MyApplicationGame</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">test2</span>
-                <span class="method-start">120648 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.NativeTestWorkFlow</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">OrderTest</span>
-                <span class="method-start">136368 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.NativeTestLogin</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">LoginTest</span>
-                <span class="method-start">140539 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.WebTestMenuExists</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">testWebTest1</span>
-                <span class="method-start">167277 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.WebTestLinksWork</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">testWebTest2</span>
-                <span class="method-start">176142 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.NativeTestWorkFlow</div> <!-- chronological-class-name -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">238428 ms</span>
-              </div> <!-- configuration-method after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.myTests.NativeTestLogin</div> <!-- chronological-class-name -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">530363 ms</span>
+                <span class="method-start">90560 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

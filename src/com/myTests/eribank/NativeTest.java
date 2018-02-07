@@ -24,33 +24,21 @@ public class NativeTest extends DemoTest{
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
 	private String installPath = "";
-	protected DemoClient client = null;
 	protected String scenario;
 	protected String expected;
 	protected String actual;
 	private String runtime;
 	private String device;
-	private String OS;
 	
-	
+	public NativeTest() {
+		super();
+		testName="NativeTest";
+	}
 	@Parameters({"isGrid"})
 	@BeforeMethod(groups = {"native1"})
-	public void setUp(String isGrid){
-		Boolean createGrid = Boolean.parseBoolean(isGrid);
-		Client tempClient;
-		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
-		      tempClient = gridClient.lockDeviceForExecution("native1", "", 120, TimeUnit.MINUTES.toMillis(2));
-		}else{	
-			tempClient = new Client(host, port, true);
-			String device = tempClient.waitForDevice("", 30000);
-			tempClient.setDevice(device);
-		}
-		client = new DemoClient(tempClient,"EriBank",runtime);
+	public void setUp(String isGrid) throws Exception{
 	
-		client.setProjectBaseDirectory(projectBaseDirectory);	
-		OS = client.getDeviceProperty("device.os");
-		client.setSpeed("Slow");
+		client.setSpeed("Fast");
 		if(OS.equals("IOS_APP")) {
 			client.install("cloud:com.experitest.ExperiBank", true, false);
 			client.launch("cloud:com.experitest.ExperiBank", true, true);      

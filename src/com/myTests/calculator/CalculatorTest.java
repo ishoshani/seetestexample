@@ -20,53 +20,44 @@ import com.myTests.DemoTest;
 
 public class CalculatorTest extends DemoTest{
 
-	private String host = "localhost";
-	private int port = 8889;
-	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
-	private String installPath = "";
-	private String runtime;
-	protected DemoClient client = null;
-	private String device = null;
+	
 	protected String ErrorString = "+=-_)(*&^%$#@!abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWSYZ;{}[],0987654321../<>";
 	protected String[] xpaths = {"xpath=//*[@id='item_cost_edit_text']",
 			"xpath=//*[@id='shipping_cost_edit_text']",
 			"xpath=//*[@id='sale_price_edit_text']",
 			"xpath=//*[@id='buyer_shipping_price_edit_text']",
 	"xpath=//*[@id='starting_price_edit_text']"};
+	
+	public CalculatorTest() {
+		super();
+		testName = "CalcTest";
+
+		
+	}
 	@Parameters("isGrid")
 	@BeforeMethod
-	public void setUp(String isGrid){
-		Boolean createGrid = Boolean.parseBoolean(isGrid);
-		Client tempClient;
-		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
-		      tempClient = gridClient.lockDeviceForExecution("Calculator", "@os='Android'", 120, TimeUnit.MINUTES.toMillis(2));
-
-		}else{
-	
-			tempClient = new Client(host, port, true);
-			device = tempClient.waitForDevice("", 30000);
-			tempClient.setDevice(device);
-		}
-		client = new DemoClient(tempClient, "Calculator", runtime);
-		client.setProjectBaseDirectory(projectBaseDirectory);
-		String apps = client.getInstalledApplications();
-		if(!apps.contains("sellerprofitcalculator"));{
-			client.openDevice();
-			client.launch("chrome:https://play.google.com/store/apps/details?id=com.ralksoft.sellerprofitcalculator&hl=en", true, false);
-			client.click("WEB", "text=Open in Play Store app", 0, 1);
-			client.click("NATIVE", "xpath=//*[@text='INSTALL']", 0, 1);
-			client.waitForElement("default", "OPEN", 0, 60000);
-		}
-		client.deviceAction("HOME");
-		client.setThrowExceptionOnFail(false);
-		client.swipeWhileNotFound("right", 400, 400, "default", "Seller Profit Calculator", 0, 0, 10, false);
-		client.click("default", "Seller Profit Calculator", 0, 1);
+	public void setUp(String isGrid) throws Exception{
+		GetApplication();
 
 
 
 	}
-	
+	public void GetApplication() {
+		client.deviceAction("HOME");
+		client.click("default", "Store", 0, 1);
+		client.sendText("{ENTER}");
+		if(client.isElementFound("default", "SearchOut")) {
+			 client.click("default","SearchOut",0,1);
+			}else {
+			client.click("default", "search_button", 0, 1);
+			}
+        client.elementSendText("default", "Searchstore", 0, "seller profit calculator");
+        client.sendText("{ENTER}");
+        client.click("NATIVE", "xpath=//*[@id='play_card' and ./*[@text='eBay Seller Profit Calculator']]", 0, 1);
+        client.click("NATIVE", "xpath=//*[@text='INSTALL']", 0, 1);
+        client.click("NATIVE", "xpath=//*[@text='OPEN']", 0, 1);
+
+	}
 	
 	
 	public void resetApp() {
@@ -78,7 +69,6 @@ public class CalculatorTest extends DemoTest{
 	}
 	@AfterMethod
 	public void tearDown() {
-			resetApp();
 			client.generateReport(false);
 			client.releaseClient();
 		}

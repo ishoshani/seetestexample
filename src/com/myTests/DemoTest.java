@@ -14,21 +14,23 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
 
 import com.experitest.client.Client;
 import com.experitest.client.GridClient;
 
-public abstract class DemoTest {
+public class DemoTest {
 	protected static String runtime;
 	public String deviceQ = "";
-	public String testName = "DemoTest";
-	protected Properties cloudProperties = new Properties();
+	public String testName;
+	protected Properties cloudProperties;
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "pExperitestDemo";
 	protected DemoClient client = null;
 	private String device;
-	private String OS;
+	protected String OS;
+	private String accessKey;
 	
 	@BeforeSuite(alwaysRun=true)
 	public void setRuntime() {
@@ -38,14 +40,19 @@ public abstract class DemoTest {
 		return runtime;
 	}
 
-	@Parameters("isGrid")
+	@Parameters({"isGrid","deviceQ"})
 	@BeforeMethod()
-	public void setUp(String isGrid) throws Exception {
+	public void clientSetUp(String isGrid, String deviceQ) throws Exception {
+		this.deviceQ = deviceQ;
+		initCloudProperties();
+		if(testName == null) {
+			testName = "DemoTest ";
+		}
 		Boolean createGrid = Boolean.parseBoolean(isGrid);
 		Client tempClient;
 		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123",deviceQ, "https://sales.experitest.com:443");
-		      tempClient = gridClient.lockDeviceForExecution(testName, "", 120, TimeUnit.MINUTES.toMillis(2));
+			  GridClient gridClient = new GridClient(cloudProperties.getProperty("accessKey"),cloudProperties.getProperty("url"));
+		      tempClient = gridClient.lockDeviceForExecution(testName, deviceQ, 120, TimeUnit.MINUTES.toMillis(2));
 
 		}else{
 	
@@ -61,21 +68,35 @@ public abstract class DemoTest {
 	}
 	
 	
-	
-	private void initCloudProperties() throws FileNotFoundException, IOException {
-		FileReader fr = new FileReader("cloud.properties");
-		cloudProperties.load(fr);
-		fr.close();
-	}
-	@Test
-	public void nothingTest() {
-		Assert.assertEquals(2+2, 4);
+	protected String getProperty(String property, Properties props) throws FileNotFoundException, IOException {
+		if (System.getProperty(property) != null) {
+			return System.getProperty(property);
+		} else if (System.getenv().containsKey(property)) {
+			return System.getenv(property);
+		} else if (props != null) {
+			return props.getProperty(property);
+		}
+		return null;
 	}
 
-	@AfterMethod(groups = {"AppStore"})
+	private void initCloudProperties() throws FileNotFoundException, IOException {
+		cloudProperties = new Properties();
+		File cloudPropertiesFile = new File("cloud.properties");
+		if(cloudPropertiesFile.exists()) {
+			FileReader fr = new FileReader("cloud.properties");
+			cloudProperties.load(fr);
+			fr.close();
+		}else {
+			cloudProperties.setProperty("url", System.getenv("url"));
+			cloudProperties.setProperty("accessKey", System.getenv("accessKey"));
+		}
+	
+	}
+
+
+	@AfterMethod()
 	public void tearDown() {
 			client.generateReport(false);
-			client.getDeviceLog();
 			client.releaseClient();
 		}
 	

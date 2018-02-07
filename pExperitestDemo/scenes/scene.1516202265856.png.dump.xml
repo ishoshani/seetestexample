@@ -1,0 +1,2800 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="value" value="Safari"/>
+<property type="text" value="Safari"/>
+<property type="XCElementType" value="XCUIElementTypeApplication"/>
+<property type="name" value="Safari"/>
+<property type="id" value="Safari"/>
+<property type="label" value="Safari"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIApplication"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UIBackgroundHitTestWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1294" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="1294"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1294" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="1294"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UIBackdropView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="_UIBackdropEffectView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="128" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="128"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="750" web="false" x="0" y="40">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="40"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="712" web="false" x="18" y="48">
+<properties>
+<property type="accessibilityLabel" value="URL"/>
+<property type="value" value="EASYBOURSE SASU, secure and validated connection"/>
+<property type="text" value="Address"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="URL"/>
+<property type="id" value="URL"/>
+<property type="label" value="Address"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="18"/>
+<property type="y" value="48"/>
+<property type="width" value="712"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="58" ignored="false" w="704" web="false" x="22" y="48">
+<properties>
+<property type="accessibilityLabel" value="URL"/>
+<property type="value" value="EASYBOURSE SASU, secure and validated connection"/>
+<property type="text" value="Address"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="URL"/>
+<property type="id" value="URL"/>
+<property type="label" value="Address"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIAccessibilityElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="22"/>
+<property type="y" value="48"/>
+<property type="width" value="704"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="58" ignored="false" w="58" web="false" x="672" y="48">
+<properties>
+<property type="accessibilityLabel" value="ReloadButton"/>
+<property type="value" value="reload"/>
+<property type="text" value="reload"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="ReloadButton"/>
+<property type="id" value="ReloadButton"/>
+<property type="label" value="reload"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="672"/>
+<property type="y" value="48"/>
+<property type="width" value="58"/>
+<property type="height" value="58"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="750" web="false" x="0" y="128">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeScrollView"/>
+<property type="class" value="UIAScrollView"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWebView"/>
+<property type="class" value="UIAWebView"/>
+<property type="knownSuperClass" value="UIWebScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="750" web="false" x="0" y="1246">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeToolbar"/>
+<property type="class" value="UIAToolbar"/>
+<property type="knownSuperClass" value="UIToolbar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1246"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="750" web="false" x="0" y="1244">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1244"/>
+<property type="width" value="750"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="80" ignored="false" w="84" web="false" x="0" y="1250">
+<properties>
+<property type="accessibilityLabel" value="back"/>
+<property type="value" value="Back"/>
+<property type="text" value="Back"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="back"/>
+<property type="id" value="back"/>
+<property type="label" value="Back"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="84"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="80" ignored="false" w="84" web="false" x="170" y="1250">
+<properties>
+<property type="value" value="Forward"/>
+<property type="text" value="Forward"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Forward"/>
+<property type="id" value="Forward"/>
+<property type="label" value="Forward"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="false"/>
+<property type="x" value="170"/>
+<property type="y" value="1250"/>
+<property type="width" value="84"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="80" ignored="false" w="102" web="false" x="322" y="1248">
+<properties>
+<property type="value" value="Share"/>
+<property type="text" value="Share"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Share"/>
+<property type="id" value="Share"/>
+<property type="label" value="Share"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="322"/>
+<property type="y" value="1248"/>
+<property type="width" value="102"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="80" ignored="false" w="114" web="false" x="478" y="1250">
+<properties>
+<property type="value" value="Show Bookmarks"/>
+<property type="text" value="Show Bookmarks"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Show Bookmarks"/>
+<property type="id" value="Show Bookmarks"/>
+<property type="label" value="Show Bookmarks"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="478"/>
+<property type="y" value="1250"/>
+<property type="width" value="114"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="80" ignored="false" w="114" web="false" x="636" y="1250">
+<properties>
+<property type="value" value="Pages"/>
+<property type="text" value="Pages"/>
+<property type="XCElementType" value="XCUIElementTypeButton"/>
+<property type="name" value="Pages"/>
+<property type="id" value="Pages"/>
+<property type="label" value="Pages"/>
+<property type="class" value="UIAButton"/>
+<property type="knownSuperClass" value="UIToolbarButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="636"/>
+<property type="y" value="1250"/>
+<property type="width" value="114"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="2" web="false" x="748" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="748"/>
+<property type="y" value="0"/>
+<property type="width" value="2"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1294" ignored="false" w="2" web="false" x="748" y="40">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="748"/>
+<property type="y" value="40"/>
+<property type="width" value="2"/>
+<property type="height" value="1294"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UITextEffectsWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIInputSetContainerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UIStatusBarWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeStatusBar"/>
+<property type="class" value="UIAStatusBar"/>
+<property type="knownSuperClass" value="UIStatusBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBackgroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarForegroundView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="82" web="false" x="12" y="0">
+<properties>
+<property type="value" value="No SIM"/>
+<property type="text" value="No SIM"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="No SIM"/>
+<property type="id" value="No SIM"/>
+<property type="label" value="No SIM"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarServiceItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12"/>
+<property type="y" value="0"/>
+<property type="width" value="82"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="26" web="false" x="104" y="0">
+<properties>
+<property type="value" value="SSID"/>
+<property type="text" value="3 of 3 Wi-Fi bars"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="3 of 3 Wi-Fi bars"/>
+<property type="id" value="3 of 3 Wi-Fi bars"/>
+<property type="label" value="3 of 3 Wi-Fi bars"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarDataNetworkItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="104"/>
+<property type="y" value="0"/>
+<property type="width" value="26"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="60" web="false" x="348" y="0">
+<properties>
+<property type="value" value="17:17"/>
+<property type="text" value="17:17"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="17:17"/>
+<property type="id" value="17:17"/>
+<property type="label" value="17:17"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarTimeItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="348"/>
+<property type="y" value="0"/>
+<property type="width" value="60"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="16" web="false" x="646" y="0">
+<properties>
+<property type="value" value="Bluetooth on"/>
+<property type="text" value="Bluetooth on"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="Bluetooth on"/>
+<property type="id" value="Bluetooth on"/>
+<property type="label" value="Bluetooth on"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBluetoothItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="646"/>
+<property type="y" value="0"/>
+<property type="width" value="16"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="66" web="false" x="674" y="0">
+<properties>
+<property type="value" value="100% battery power, Charging"/>
+<property type="text" value="100% battery power, Charging"/>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="name" value="100% battery power, Charging"/>
+<property type="id" value="100% battery power, Charging"/>
+<property type="label" value="100% battery power, Charging"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIStatusBarBatteryItemView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="674"/>
+<property type="y" value="0"/>
+<property type="width" value="66"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeWindow"/>
+<property type="class" value="UIAWindow"/>
+<property type="knownSuperClass" value="UITextEffectsWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="1334" ignored="false" w="750" web="false" x="0" y="0">
+<properties>
+<property type="XCElementType" value="XCUIElementTypeOther"/>
+<property type="class" value="UIAView"/>
+<property type="knownSuperClass" value="UIApplicationRotationFollowingControllerView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="750"/>
+<property type="height" value="1334"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1118" ignored="false" w="750" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="document"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="1118"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="4596" ignored="false" w="750" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="HTML"/>
+<property type="text" value="  "/>
+<property type="css" value="HTML.eb-js.eb-canvas.eb-canvastext.eb-webgl.eb-touch.eb-geolocation.eb-postmessage.eb-websqldatabase.eb-draganddrop.eb-websockets.eb-multiplebgs.eb-borderradius.eb-boxshadow.eb-textshadow.eb-cssanimations.eb-csscolumns.eb-cssgradients.eb-csstransitions.eb-fontface.eb-generatedcontent.eb-video.eb-audio.eb-localstorage.eb-sessionstorage.eb-webworkers.eb-svg.eb-inlinesvg.eb-svgclippaths"/>
+<property type="class" value=" eb-js eb-canvas eb-canvastext eb-webgl eb-touch eb-geolocation eb-postmessage eb-websqldatabase eb-draganddrop eb-websockets eb-multiplebgs eb-borderradius eb-boxshadow eb-textshadow eb-cssanimations eb-csscolumns eb-cssgradients eb-csstransitions eb-fontface eb-generatedcontent eb-video eb-audio eb-localstorage eb-sessionstorage eb-webworkers eb-svg eb-inlinesvg eb-svgclippaths"/>
+<property type="lang" value="fr"/>
+<property type="style" value="[object CSSStyleDeclaration]"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="4596"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="4596" ignored="false" w="750" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="BODY"/>
+<property type="id" value="easyvie000m1"/>
+<property type="focused" value="true"/>
+<property type="text" value="                                     "/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="4596"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="520" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="H1"/>
+<property type="id" value="mostTopH1"/>
+<property type="text" value="EasyBourse - Investir en bourse en ligne"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="520"/>
+<property type="height" value="30"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="114" ignored="false" w="750" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="NAV"/>
+<property type="id" value="frise"/>
+<property type="text" value="            "/>
+<property type="css" value="NAV.navbar.navbar-default.navbar-fixed-top"/>
+<property type="class" value="navbar navbar-default navbar-fixed-top"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="114"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="86" ignored="false" w="750" web="true" x="0" y="142">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="             "/>
+<property type="css" value="DIV.container"/>
+<property type="class" value="container"/>
+<property type="x" value="0"/>
+<property type="y" value="142"/>
+<property type="width" value="750"/>
+<property type="height" value="86"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="86" ignored="false" w="660" web="true" x="90" y="142">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="frise_indices"/>
+<property type="text" value="          "/>
+<property type="css" value="DIV.collapse.navbar-collapse"/>
+<property type="class" value="collapse navbar-collapse"/>
+<property type="x" value="90"/>
+<property type="y" value="142"/>
+<property type="width" value="660"/>
+<property type="height" value="86"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="86" ignored="false" w="600" web="true" x="120" y="142">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="text" value="                                                                              "/>
+<property type="css" value="UL.nav.navbar-nav.clearfix"/>
+<property type="class" value="nav navbar-nav clearfix"/>
+<property type="x" value="120"/>
+<property type="y" value="142"/>
+<property type="width" value="600"/>
+<property type="height" value="86"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="80" ignored="false" w="150" web="true" x="120" y="142">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="                  "/>
+<property type="x" value="120"/>
+<property type="y" value="142"/>
+<property type="width" value="150"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="80" ignored="false" w="150" web="true" x="120" y="142">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/indice-cours/cac-40/intraday/FR0003500008-25"/>
+<property type="text" value="                                                          "/>
+<property type="css" value="A[href='/indice-cours/cac-40/intraday/FR0003500008-25']"/>
+<property type="x" value="120"/>
+<property type="y" value="142"/>
+<property type="width" value="150"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="28" web="true" x="120" y="142">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="src" value="https://media.easybourse.com/upload/media/image/142000/142595/fleche_bas.png"/>
+<property type="alt" value=""/>
+<property type="style" value="display: block;"/>
+<property type="x" value="120"/>
+<property type="y" value="142"/>
+<property type="width" value="28"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="72" web="true" x="160" y="140">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="CAC40"/>
+<property type="css" value="SPAN.frise-nom_indice"/>
+<property type="class" value="frise-nom_indice"/>
+<property type="x" value="160"/>
+<property type="y" value="140"/>
+<property type="width" value="72"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="28" ignored="false" w="0" web="true" x="232" y="142">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="232"/>
+<property type="y" value="142"/>
+<property type="width" value="0"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="28" ignored="false" w="60" web="true" x="160" y="168">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="5 501 "/>
+<property type="livecotation" value="FR0003500008-25"/>
+<property type="livecotationdisplay" value="cours_dernier"/>
+<property type="options" value="{decimal : '', color : false, transcodeUnit : true, currency : ''}"/>
+<property type="brutlivecotation" value="5501.24"/>
+<property type="x" value="160"/>
+<property type="y" value="168"/>
+<property type="width" value="60"/>
+<property type="height" value="28"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="54" ignored="false" w="106" web="true" x="160" y="168">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="livecotation" value="FR0003500008-25"/>
+<property type="livecotationdisplay" value="variation_veille"/>
+<property type="options" value="{decimal : '2', color : true, transcodeUnit : true, currency : 'PCT', returnempty : true}"/>
+<property type="brutlivecotation" value="-0.228154"/>
+<property type="x" value="160"/>
+<property type="y" value="168"/>
+<property type="width" value="106"/>
+<property type="height" value="54"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="106" web="true" x="160" y="168">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="-0,23 %"/>
+<property type="css" value="SPAN.red.rouge"/>
+<property type="class" value="red rouge"/>
+<property type="x" value="160"/>
+<property type="y" value="168"/>
+<property type="width" value="106"/>
+<property type="height" value="54"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="28" ignored="false" w="150" web="true" x="276" y="194">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="                  "/>
+<property type="x" value="276"/>
+<property type="y" value="194"/>
+<property type="width" value="150"/>
+<property type="height" value="28"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="28" ignored="false" w="150" web="true" x="276" y="194">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/indice-cours/dow-jones-industrial-30/intraday/US2605661048-145"/>
+<property type="text" value="                                                          "/>
+<property type="css" value="A[href='/indice-cours/dow-jones-industrial-30/intraday/US2605661048-145']"/>
+<property type="x" value="276"/>
+<property type="y" value="194"/>
+<property type="width" value="150"/>
+<property type="height" value="28"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="54" web="true" x="316" y="192">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="DJ30"/>
+<property type="css" value="SPAN.frise-nom_indice"/>
+<property type="class" value="frise-nom_indice"/>
+<property type="x" value="316"/>
+<property type="y" value="192"/>
+<property type="width" value="54"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="28" ignored="false" w="0" web="true" x="372" y="194">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="372"/>
+<property type="y" value="194"/>
+<property type="width" value="0"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="80" ignored="false" w="150" web="true" x="432" y="142">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="                  "/>
+<property type="x" value="432"/>
+<property type="y" value="142"/>
+<property type="width" value="150"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="80" ignored="false" w="150" web="true" x="432" y="142">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/indice-cours/nikkei-225/intraday/JP9010C00002-106"/>
+<property type="text" value="                                                          "/>
+<property type="css" value="A[href='/indice-cours/nikkei-225/intraday/JP9010C00002-106']"/>
+<property type="x" value="432"/>
+<property type="y" value="142"/>
+<property type="width" value="150"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="28" web="true" x="432" y="142">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="src" value="https://media.easybourse.com/upload/media/image/142000/142576/fleche_haut.png"/>
+<property type="alt" value=""/>
+<property type="style" value="display: block;"/>
+<property type="x" value="432"/>
+<property type="y" value="142"/>
+<property type="width" value="28"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="30" ignored="false" w="64" web="true" x="472" y="140">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="Nikkei"/>
+<property type="css" value="SPAN.frise-nom_indice"/>
+<property type="class" value="frise-nom_indice"/>
+<property type="x" value="472"/>
+<property type="y" value="140"/>
+<property type="width" value="64"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="28" ignored="false" w="0" web="true" x="538" y="142">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="538"/>
+<property type="y" value="142"/>
+<property type="width" value="0"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="28" ignored="false" w="66" web="true" x="472" y="168">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="23 952 "/>
+<property type="livecotation" value="JP9010C00002-106"/>
+<property type="livecotationdisplay" value="cours_dernier"/>
+<property type="options" value="{decimal : '0', color : false, transcodeUnit : true, currency : ''}"/>
+<property type="brutlivecotation" value="23951.81"/>
+<property type="x" value="472"/>
+<property type="y" value="168"/>
+<property type="width" value="66"/>
+<property type="height" value="28"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="28" ignored="false" w="74" web="true" x="472" y="194">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="livecotation" value="JP9010C00002-106"/>
+<property type="livecotationdisplay" value="variation_veille"/>
+<property type="options" value="{decimal : '2', color : true, transcodeUnit : true, currency : 'PCT', returnempty : true}"/>
+<property type="brutlivecotation" value="0.999077"/>
+<property type="x" value="472"/>
+<property type="y" value="194"/>
+<property type="width" value="74"/>
+<property type="height" value="28"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="28" ignored="false" w="74" web="true" x="472" y="194">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="+1,00 %"/>
+<property type="css" value="SPAN.green.vert"/>
+<property type="class" value="green vert"/>
+<property type="x" value="472"/>
+<property type="y" value="194"/>
+<property type="width" value="74"/>
+<property type="height" value="28"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="30" ignored="false" w="30" web="true" x="690" y="142">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="                                    "/>
+<property type="x" value="690"/>
+<property type="y" value="142"/>
+<property type="width" value="30"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="30" web="true" x="690" y="158">
+<properties>
+<property type="nodeName" value="BUTTON"/>
+<property type="id" value="panel-trigger"/>
+<property type="disabled" value="false"/>
+<property type="text" value="                                  "/>
+<property type="type" value="submit"/>
+<property type="data-toggle" value="dropdown"/>
+<property type="x" value="690"/>
+<property type="y" value="158"/>
+<property type="width" value="30"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="30" ignored="false" w="30" web="true" x="690" y="164">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.glyphicon.glyphicon-chevron-down"/>
+<property type="class" value="glyphicon glyphicon-chevron-down"/>
+<property type="x" value="690"/>
+<property type="y" value="164"/>
+<property type="width" value="30"/>
+<property type="height" value="30"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2922" ignored="false" w="750" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="left-nav-holder"/>
+<property type="text" value="           "/>
+<property type="css" value="DIV.container"/>
+<property type="class" value="container"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="750"/>
+<property type="height" value="2922"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2822" ignored="false" w="690" web="true" x="30" y="228">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="global"/>
+<property type="text" value="                             "/>
+<property type="x" value="30"/>
+<property type="y" value="228"/>
+<property type="width" value="690"/>
+<property type="height" value="2822"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="90" ignored="false" w="750" web="true" x="0" y="228">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="id" value="most-top"/>
+<property type="text" value="        "/>
+<property type="css" value="HEADER.row.clearfix"/>
+<property type="class" value="row clearfix"/>
+<property type="x" value="0"/>
+<property type="y" value="228"/>
+<property type="width" value="750"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="90" ignored="false" w="270" web="true" x="0" y="228">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="logo"/>
+<property type="text" value="      "/>
+<property type="css" value="DIV.col-xs-5"/>
+<property type="class" value="col-xs-5"/>
+<property type="x" value="0"/>
+<property type="y" value="228"/>
+<property type="width" value="270"/>
+<property type="height" value="90"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="70" ignored="false" w="270" web="true" x="0" y="238">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/"/>
+<property type="text" value="                "/>
+<property type="css" value="A[href='/']"/>
+<property type="x" value="0"/>
+<property type="y" value="238"/>
+<property type="width" value="270"/>
+<property type="height" value="70"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="70" ignored="false" w="270" web="true" x="0" y="238">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="alt" value="EasyBourse"/>
+<property type="css" value="IMG.rwd_img.visible-xs"/>
+<property type="class" value="rwd_img visible-xs"/>
+<property type="src" value="https://media.easybourse.com/upload/media/image/144000/144080/easybourse_crop_200px.png"/>
+<property type="x" value="0"/>
+<property type="y" value="238"/>
+<property type="width" value="270"/>
+<property type="height" value="70"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="100" ignored="false" w="750" web="true" x="0" y="228">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="search-nav-logIn"/>
+<property type="text" value="                      "/>
+<property type="css" value="DIV.col-xs-15"/>
+<property type="class" value="col-xs-15"/>
+<property type="x" value="0"/>
+<property type="y" value="228"/>
+<property type="width" value="750"/>
+<property type="height" value="100"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="100" ignored="false" w="750" web="true" x="0" y="228">
+<properties>
+<property type="nodeName" value="NAV"/>
+<property type="id" value="nav-wrapper"/>
+<property type="text" value="                                                 "/>
+<property type="css" value="NAV.navbar.navbar-default"/>
+<property type="class" value="navbar navbar-default"/>
+<property type="x" value="0"/>
+<property type="y" value="228"/>
+<property type="width" value="750"/>
+<property type="height" value="100"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="750" web="true" x="0" y="228">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="              "/>
+<property type="css" value="DIV.navbar-header"/>
+<property type="class" value="navbar-header"/>
+<property type="x" value="0"/>
+<property type="y" value="228"/>
+<property type="width" value="750"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="80" ignored="false" w="114" web="true" x="636" y="236">
+<properties>
+<property type="nodeName" value="BUTTON"/>
+<property type="id" value="btn-topMainNav"/>
+<property type="disabled" value="false"/>
+<property type="text" value="                                                "/>
+<property type="type" value="button"/>
+<property type="css" value="BUTTON.navbar-toggle.collapsed"/>
+<property type="class" value="navbar-toggle collapsed"/>
+<property type="data-target" value="#eb-topMainNav"/>
+<property type="data-target-2" value=".side-collapse-container"/>
+<property type="data-toggle" value="collapse"/>
+<property type="aria-expanded" value="false"/>
+<property type="x" value="636"/>
+<property type="y" value="236"/>
+<property type="width" value="114"/>
+<property type="height" value="80"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="2" web="true" x="690" y="254">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="Toggle navigation"/>
+<property type="css" value="SPAN.sr-only"/>
+<property type="class" value="sr-only"/>
+<property type="x" value="690"/>
+<property type="y" value="254"/>
+<property type="width" value="2"/>
+<property type="height" value="2"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="8" ignored="false" w="70" web="true" x="658" y="256">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon-bar"/>
+<property type="class" value="icon-bar"/>
+<property type="x" value="658"/>
+<property type="y" value="256"/>
+<property type="width" value="70"/>
+<property type="height" value="8"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="8" ignored="false" w="70" web="true" x="658" y="272">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon-bar"/>
+<property type="class" value="icon-bar"/>
+<property type="x" value="658"/>
+<property type="y" value="272"/>
+<property type="width" value="70"/>
+<property type="height" value="8"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="8" ignored="false" w="70" web="true" x="658" y="288">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon-bar"/>
+<property type="class" value="icon-bar"/>
+<property type="x" value="658"/>
+<property type="y" value="288"/>
+<property type="width" value="70"/>
+<property type="height" value="8"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="btnToTop"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="322" ignored="false" w="580" web="true" x="150" y="922">
+<properties>
+<property type="nodeName" value="ASIDE"/>
+<property type="id" value="fixed-contact"/>
+<property type="text" value="              "/>
+<property type="x" value="150"/>
+<property type="y" value="922"/>
+<property type="width" value="580"/>
+<property type="height" value="322"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="100" ignored="false" w="508" web="true" x="186" y="952">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Pas encore client ?Contactez-nous"/>
+<property type="css" value="DIV.fixed-contact-titre"/>
+<property type="class" value="fixed-contact-titre"/>
+<property type="x" value="186"/>
+<property type="y" value="952"/>
+<property type="width" value="508"/>
+<property type="height" value="100"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="0" web="true" x="552" y="954">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="552"/>
+<property type="y" value="954"/>
+<property type="width" value="0"/>
+<property type="height" value="44"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="66" ignored="false" w="508" web="true" x="186" y="1060">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.rwd_img"/>
+<property type="class" value="rwd_img"/>
+<property type="src" value="https://media.easybourse.com/upload/media/image/142000/142577/tel-contact.png"/>
+<property type="x" value="186"/>
+<property type="y" value="1060"/>
+<property type="width" value="508"/>
+<property type="height" value="66"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="66" ignored="false" w="508" web="true" x="186" y="1140">
+<properties>
+<property type="nodeName" value="SMALL"/>
+<property type="text" value="Vous pouvez contacter notre service commercial du lundi au vendredi de 8h à 20h (hors jours fériés et jours fériés de bourse)"/>
+<property type="x" value="186"/>
+<property type="y" value="1140"/>
+<property type="width" value="508"/>
+<property type="height" value="66"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.fixed-contact-fleche"/>
+<property type="class" value="fixed-contact-fleche"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="38" web="true" x="672" y="942">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="fixedContactClose"/>
+<property type="text" value="        ✖  "/>
+<property type="x" value="672"/>
+<property type="y" value="942"/>
+<property type="width" value="38"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="100" ignored="false" w="100" web="true" x="630" y="1346">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="fixedContactOpen"/>
+<property type="x" value="630"/>
+<property type="y" value="1346"/>
+<property type="width" value="100"/>
+<property type="height" value="100"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2732" ignored="false" w="750" web="true" x="0" y="318">
+<properties>
+<property type="nodeName" value="MAIN"/>
+<property type="text" value="                    "/>
+<property type="css" value="MAIN.row.easyvie"/>
+<property type="class" value="row easyvie"/>
+<property type="x" value="0"/>
+<property type="y" value="318"/>
+<property type="width" value="750"/>
+<property type="height" value="2732"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="900" ignored="false" w="750" web="true" x="0" y="318">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="text" value="      "/>
+<property type="css" value="HEADER.bandeau-easyvie.row"/>
+<property type="class" value="bandeau-easyvie row"/>
+<property type="x" value="0"/>
+<property type="y" value="318"/>
+<property type="width" value="750"/>
+<property type="height" value="900"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="750" web="true" x="0" y="638">
+<properties>
+<property type="nodeName" value="H1"/>
+<property type="text" value="      Découvrez la bourse           "/>
+<property type="css" value="H1.bandeau-easyvie__title"/>
+<property type="class" value="bandeau-easyvie__title"/>
+<property type="x" value="0"/>
+<property type="y" value="638"/>
+<property type="width" value="750"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="138" ignored="false" w="634" web="true" x="30" y="634">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="par EasyBourse"/>
+<property type="css" value="SPAN.h-bold.h-bleu"/>
+<property type="class" value="h-bold h-bleu"/>
+<property type="x" value="30"/>
+<property type="y" value="634"/>
+<property type="width" value="634"/>
+<property type="height" value="138"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="856" ignored="false" w="750" web="true" x="0" y="886">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="          "/>
+<property type="css" value="DIV.row.bloc-info-offre-outer.equalHeightParent"/>
+<property type="class" value="row bloc-info-offre-outer equalHeightParent"/>
+<property type="x" value="0"/>
+<property type="y" value="886"/>
+<property type="width" value="750"/>
+<property type="height" value="856"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="856" ignored="false" w="750" web="true" x="0" y="886">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="          "/>
+<property type="css" value="DIV.col-sm-offset-2.col-sm-16"/>
+<property type="class" value="col-sm-offset-2 col-sm-16"/>
+<property type="x" value="0"/>
+<property type="y" value="886"/>
+<property type="width" value="750"/>
+<property type="height" value="856"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="856" ignored="false" w="690" web="true" x="30" y="886">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="text" value="                                      "/>
+<property type="css" value="SECTION.bloc-info-offre.bloc-info-offre--easybourse.equalHeight"/>
+<property type="class" value="bloc-info-offre bloc-info-offre--easybourse equalHeight"/>
+<property type="style" value="height: 428px;"/>
+<property type="x" value="30"/>
+<property type="y" value="886"/>
+<property type="width" value="690"/>
+<property type="height" value="856"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children>
+<node h="84" ignored="false" w="606" web="true" x="70" y="938">
+<properties>
+<property type="nodeName" value="H2"/>
+<property type="text" value="EasyBourse"/>
+<property type="css" value="H2.bloc-info-offre__title"/>
+<property type="class" value="bloc-info-offre__title"/>
+<property type="x" value="70"/>
+<property type="y" value="938"/>
+<property type="width" value="606"/>
+<property type="height" value="84"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="160" ignored="false" w="606" web="true" x="70" y="1054">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="EasyBourse vous accompagne dans le monde de la bourse à travers une plateforme de courtage en ligne et d'informations financières et vous propose : "/>
+<property type="x" value="70"/>
+<property type="y" value="1054"/>
+<property type="width" value="606"/>
+<property type="height" value="160"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="320" ignored="false" w="606" web="true" x="70" y="1254">
+<properties>
+<property type="nodeName" value="UL"/>
+<property type="text" value="                                      "/>
+<property type="x" value="70"/>
+<property type="y" value="1254"/>
+<property type="width" value="606"/>
+<property type="height" value="320"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="88" ignored="false" w="606" web="true" x="70" y="1254">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="Une offre  qui rend la bourse accessible à tous"/>
+<property type="x" value="70"/>
+<property type="y" value="1254"/>
+<property type="width" value="606"/>
+<property type="height" value="88"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="88" ignored="false" w="606" web="true" x="70" y="1370">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="Des outils conçus pour simplifier vos investissements"/>
+<property type="x" value="70"/>
+<property type="y" value="1370"/>
+<property type="width" value="606"/>
+<property type="height" value="88"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="88" ignored="false" w="606" web="true" x="70" y="1486">
+<properties>
+<property type="nodeName" value="LI"/>
+<property type="text" value="Des services utiles pour faciliter la gestion de votre contrat"/>
+<property type="x" value="70"/>
+<property type="y" value="1486"/>
+<property type="width" value="606"/>
+<property type="height" value="88"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="88" ignored="false" w="510" web="true" x="118" y="1622">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/souscription"/>
+<property type="text" value="Souscrire"/>
+<property type="css" value="A.btn-cta.btn-cta-c[href='/souscription']"/>
+<property type="class" value="btn-cta btn-cta-c"/>
+<property type="x" value="118"/>
+<property type="y" value="1622"/>
+<property type="width" value="510"/>
+<property type="height" value="88"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1278" ignored="false" w="750" web="true" x="0" y="1772">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="              "/>
+<property type="css" value="DIV.row"/>
+<property type="class" value="row"/>
+<property type="x" value="0"/>
+<property type="y" value="1772"/>
+<property type="width" value="750"/>
+<property type="height" value="1278"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="716" ignored="false" w="750" web="true" x="0" y="1772">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="          "/>
+<property type="css" value="DIV.col-sm-10"/>
+<property type="class" value="col-sm-10"/>
+<property type="x" value="0"/>
+<property type="y" value="1772"/>
+<property type="width" value="750"/>
+<property type="height" value="716"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="716" ignored="false" w="690" web="true" x="30" y="1772">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="text" value="                                       "/>
+<property type="css" value="SECTION.bloc-tester-offre"/>
+<property type="class" value="bloc-tester-offre"/>
+<property type="x" value="30"/>
+<property type="y" value="1772"/>
+<property type="width" value="690"/>
+<property type="height" value="716"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="104" ignored="false" w="690" web="true" x="30" y="1852">
+<properties>
+<property type="nodeName" value="H2"/>
+<property type="text" value="          Testez  notre offre        "/>
+<property type="css" value="H2.sous-titre-section"/>
+<property type="class" value="sous-titre-section"/>
+<property type="x" value="30"/>
+<property type="y" value="1852"/>
+<property type="width" value="690"/>
+<property type="height" value="104"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="326" web="true" x="194" y="1850">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="x" value="194"/>
+<property type="y" value="1850"/>
+<property type="width" value="326"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="326" web="true" x="194" y="1850">
+<properties>
+<property type="nodeName" value="STRONG"/>
+<property type="text" value="gratuitement"/>
+<property type="x" value="194"/>
+<property type="y" value="1850"/>
+<property type="width" value="326"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="132" ignored="false" w="690" web="true" x="30" y="1996">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="          Devenez membre et profitez des fonctionnalités EasyBourse, solutions idéales pour vous ouvrir au monde de la bourse.        "/>
+<property type="x" value="30"/>
+<property type="y" value="1996"/>
+<property type="width" value="690"/>
+<property type="height" value="132"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="132" ignored="false" w="690" web="true" x="30" y="2168">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="          Retrouvez dès maintenant les listes personnelles ou encore le portefeuille fictif pour vous habituer pas à pas à la bourse et suivre les marchés.        "/>
+<property type="x" value="30"/>
+<property type="y" value="2168"/>
+<property type="width" value="690"/>
+<property type="height" value="132"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="88" ignored="false" w="690" web="true" x="30" y="2360">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="/#inscription"/>
+<property type="text" value="Je souhaite devenir membre"/>
+<property type="css" value="A.btn-cta[href='/#inscription']"/>
+<property type="class" value="btn-cta"/>
+<property type="x" value="30"/>
+<property type="y" value="2360"/>
+<property type="width" value="690"/>
+<property type="height" value="88"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="562" ignored="false" w="750" web="true" x="0" y="2488">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="          "/>
+<property type="css" value="DIV.col-sm-10"/>
+<property type="class" value="col-sm-10"/>
+<property type="x" value="0"/>
+<property type="y" value="2488"/>
+<property type="width" value="750"/>
+<property type="height" value="562"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="562" ignored="false" w="690" web="true" x="30" y="2488">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="text" value="                              "/>
+<property type="css" value="SECTION.bloc-devenir-membre"/>
+<property type="class" value="bloc-devenir-membre"/>
+<property type="x" value="30"/>
+<property type="y" value="2488"/>
+<property type="width" value="690"/>
+<property type="height" value="562"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="156" ignored="false" w="690" web="true" x="30" y="2568">
+<properties>
+<property type="nodeName" value="H2"/>
+<property type="text" value="                  "/>
+<property type="css" value="H2.sous-titre-section"/>
+<property type="class" value="sous-titre-section"/>
+<property type="x" value="30"/>
+<property type="y" value="2568"/>
+<property type="width" value="690"/>
+<property type="height" value="156"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="158" ignored="false" w="656" web="true" x="30" y="2566">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="Devenir membre Easybourse,"/>
+<property type="x" value="30"/>
+<property type="y" value="2566"/>
+<property type="width" value="656"/>
+<property type="height" value="158"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="0" web="true" x="686" y="2566">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="686"/>
+<property type="y" value="2566"/>
+<property type="width" value="0"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="106" ignored="false" w="640" web="true" x="30" y="2618">
+<properties>
+<property type="nodeName" value="STRONG"/>
+<property type="text" value="c'est profiter de nombreux avantages."/>
+<property type="x" value="30"/>
+<property type="y" value="2618"/>
+<property type="width" value="640"/>
+<property type="height" value="106"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="128">
+<properties>
+<property type="nodeName" value="BR"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="226" ignored="false" w="750" web="true" x="0" y="2784">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                            "/>
+<property type="css" value="DIV.row"/>
+<property type="class" value="row"/>
+<property type="x" value="0"/>
+<property type="y" value="2784"/>
+<property type="width" value="750"/>
+<property type="height" value="226"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="226" ignored="false" w="374" web="true" x="0" y="2784">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                      "/>
+<property type="css" value="DIV.col-xs-10"/>
+<property type="class" value="col-xs-10"/>
+<property type="x" value="0"/>
+<property type="y" value="2784"/>
+<property type="width" value="374"/>
+<property type="height" value="226"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="226" ignored="false" w="336" web="true" x="30" y="2784">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                            Portefeuille fictif            "/>
+<property type="css" value="DIV.border-picto"/>
+<property type="class" value="border-picto"/>
+<property type="x" value="30"/>
+<property type="y" value="2784"/>
+<property type="width" value="336"/>
+<property type="height" value="226"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="100" ignored="false" w="86" web="true" x="154" y="2820">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="src" value="https://media.easybourse.com/upload/media/image/142000/142657/picto-wallet.png"/>
+<property type="x" value="154"/>
+<property type="y" value="2820"/>
+<property type="width" value="86"/>
+<property type="height" value="100"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="226" ignored="false" w="374" web="true" x="374" y="2784">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                      "/>
+<property type="css" value="DIV.col-xs-10"/>
+<property type="class" value="col-xs-10"/>
+<property type="x" value="374"/>
+<property type="y" value="2784"/>
+<property type="width" value="374"/>
+<property type="height" value="226"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="226" ignored="false" w="336" web="true" x="382" y="2784">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                            Liste personnelle            "/>
+<property type="css" value="DIV.border-picto"/>
+<property type="class" value="border-picto"/>
+<property type="x" value="382"/>
+<property type="y" value="2784"/>
+<property type="width" value="336"/>
+<property type="height" value="226"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="100" ignored="false" w="96" web="true" x="502" y="2820">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="src" value="https://media.easybourse.com/upload/media/image/142000/142668/picto-liste-perso.png"/>
+<property type="x" value="502"/>
+<property type="y" value="2820"/>
+<property type="width" value="96"/>
+<property type="height" value="100"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1674" ignored="false" w="750" web="true" x="0" y="3050">
+<properties>
+<property type="nodeName" value="FOOTER"/>
+<property type="text" value="    "/>
+<property type="x" value="0"/>
+<property type="y" value="3050"/>
+<property type="width" value="750"/>
+<property type="height" value="1674"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1674" ignored="false" w="750" web="true" x="0" y="3050">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                                      "/>
+<property type="css" value="DIV.container"/>
+<property type="class" value="container"/>
+<property type="x" value="0"/>
+<property type="y" value="3050"/>
+<property type="width" value="750"/>
+<property type="height" value="1674"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="594" ignored="false" w="750" web="true" x="0" y="3050">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="top-wrapper"/>
+<property type="text" value="                                    "/>
+<property type="css" value="DIV.row"/>
+<property type="class" value="row"/>
+<property type="x" value="0"/>
+<property type="y" value="3050"/>
+<property type="width" value="750"/>
+<property type="height" value="594"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="422" ignored="false" w="750" web="true" x="0" y="3050">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="newsletter-area"/>
+<property type="text" value="                            "/>
+<property type="css" value="DIV.col-md-12.col-md-offset-1.col-sm-offset-0.clearfix"/>
+<property type="class" value="col-md-12 col-md-offset-1 col-sm-offset-0 clearfix"/>
+<property type="x" value="0"/>
+<property type="y" value="3050"/>
+<property type="width" value="750"/>
+<property type="height" value="422"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="166" ignored="false" w="670" web="true" x="40" y="3090">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                              "/>
+<property type="x" value="40"/>
+<property type="y" value="3090"/>
+<property type="width" value="670"/>
+<property type="height" value="166"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="46" ignored="false" w="590" web="true" x="120" y="3090">
+<properties>
+<property type="nodeName" value="H4"/>
+<property type="text" value="Newsletter"/>
+<property type="x" value="120"/>
+<property type="y" value="3090"/>
+<property type="width" value="590"/>
+<property type="height" value="46"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="590" web="true" x="120" y="3136">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="            Recevez toutes les dernières informations EasyBourse et les dernières cotations directement sur votre boîte mail          "/>
+<property type="x" value="120"/>
+<property type="y" value="3136"/>
+<property type="width" value="590"/>
+<property type="height" value="120"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="96" ignored="false" w="670" web="true" x="40" y="3296">
+<properties>
+<property type="nodeName" value="FORM"/>
+<property type="id" value="newsletter_form"/>
+<property type="name" value="newsletter_form"/>
+<property type="text" value="                                 "/>
+<property type="x" value="40"/>
+<property type="y" value="3296"/>
+<property type="width" value="670"/>
+<property type="height" value="96"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="670" web="true" x="40" y="3296">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="                                            "/>
+<property type="css" value="DIV.input-group"/>
+<property type="class" value="input-group"/>
+<property type="x" value="40"/>
+<property type="y" value="3296"/>
+<property type="width" value="670"/>
+<property type="height" value="96"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="582" web="true" x="40" y="3296">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="disabled" value="false"/>
+<property type="checked" value="false"/>
+<property type="placeholder" value="Votre adresse e-mail"/>
+<property type="type" value="text"/>
+<property type="css" value="INPUT.form-control"/>
+<property type="class" value="form-control"/>
+<property type="x" value="40"/>
+<property type="y" value="3296"/>
+<property type="width" value="582"/>
+<property type="height" value="96"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="96" ignored="false" w="88" web="true" x="622" y="3296">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="                          "/>
+<property type="css" value="SPAN.input-group-btn"/>
+<property type="class" value="input-group-btn"/>
+<property type="x" value="622"/>
+<property type="y" value="3296"/>
+<property type="width" value="88"/>
+<property type="height" value="96"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="90" web="true" x="620" y="3296">
+<properties>
+<property type="nodeName" value="BUTTON"/>
+<property type="disabled" value="false"/>
+<property type="type" value="submit"/>
+<property type="css" value="BUTTON.btn.btn-default.submit"/>
+<property type="class" value="btn btn-default submit"/>
+<property type="x" value="620"/>
+<property type="y" value="3296"/>
+<property type="width" value="90"/>
+<property type="height" value="96"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="172" ignored="false" w="750" web="true" x="0" y="3472">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="social-area"/>
+<property type="text" value="                              "/>
+<property type="css" value="DIV.col-md-7"/>
+<property type="class" value="col-md-7"/>
+<property type="x" value="0"/>
+<property type="y" value="3472"/>
+<property type="width" value="750"/>
+<property type="height" value="172"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="46" ignored="false" w="266" web="true" x="154" y="3536">
+<properties>
+<property type="nodeName" value="H4"/>
+<property type="text" value="Suivez-nous"/>
+<property type="x" value="154"/>
+<property type="y" value="3536"/>
+<property type="width" value="266"/>
+<property type="height" value="46"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="80" web="true" x="428" y="3532">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="id" value="eb-fb"/>
+<property type="href" value="https://www.facebook.com/easybourse/"/>
+<property type="css" value="A[href='https://www.facebook.com/easybourse/']"/>
+<property type="target" value="_blank"/>
+<property type="x" value="428"/>
+<property type="y" value="3532"/>
+<property type="width" value="80"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="80" web="true" x="514" y="3532">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="id" value="eb-tt"/>
+<property type="href" value="https://twitter.com/easybourse"/>
+<property type="css" value="A[href='https://twitter.com/easybourse']"/>
+<property type="target" value="_blank"/>
+<property type="x" value="514"/>
+<property type="y" value="3532"/>
+<property type="width" value="80"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="268" ignored="false" w="676" web="true" x="52" y="3644">
+<properties>
+<property type="nodeName" value="NAV"/>
+<property type="text" value="                                        "/>
+<property type="css" value="NAV.add-left-margin"/>
+<property type="class" value="add-left-margin"/>
+<property type="x" value="52"/>
+<property type="y" value="3644"/>
+<property type="width" value="676"/>
+<property type="height" value="268"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="676" web="true" x="52" y="3680">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="https://www.easybourse.com/contact/"/>
+<property type="text" value="Contactez-nous"/>
+<property type="css" value="A[href='https://www.easybourse.com/contact/']"/>
+<property type="x" value="52"/>
+<property type="y" value="3680"/>
+<property type="width" value="676"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="676" web="true" x="52" y="3732">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="https://media.easybourse.com/upload/media/other/144000/144084/FAQ081117.pdf"/>
+<property type="text" value="FAQ"/>
+<property type="css" value="A[href='https://media.easybourse.com/upload/media/other/144000/144084/FAQ081117.pdf']"/>
+<property type="target" value="_blank"/>
+<property type="x" value="52"/>
+<property type="y" value="3732"/>
+<property type="width" value="676"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="676" web="true" x="52" y="3784">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="https://www.easybourse.com/mentions/legales/"/>
+<property type="text" value="Mentions Légales"/>
+<property type="css" value="A[href='https://www.easybourse.com/mentions/legales/']"/>
+<property type="x" value="52"/>
+<property type="y" value="3784"/>
+<property type="width" value="676"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="676" web="true" x="52" y="3836">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="href" value="https://www.easybourse.com/sitemap/"/>
+<property type="text" value="Plan Site"/>
+<property type="css" value="A[href='https://www.easybourse.com/sitemap/']"/>
+<property type="x" value="52"/>
+<property type="y" value="3836"/>
+<property type="width" value="676"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="812" ignored="false" w="676" web="true" x="52" y="3912">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="bottom-notes"/>
+<property type="text" value="                      "/>
+<property type="css" value="SECTION.add-left-margin"/>
+<property type="class" value="add-left-margin"/>
+<property type="x" value="52"/>
+<property type="y" value="3912"/>
+<property type="width" value="676"/>
+<property type="height" value="812"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="320" ignored="false" w="476" web="true" x="242" y="3954">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="Graphique, cours, CAC 40, indices, retrouvez toute l'actualité boursière en quelques clics mais aussi des articles et dossiers complets sur les tendances du moment.  Des informations clé en main pour vous accompagner dans tous vos investissements en bours..."/>
+<property type="x" value="242"/>
+<property type="y" value="3954"/>
+<property type="width" value="476"/>
+<property type="height" value="320"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="280" ignored="false" w="476" web="true" x="242" y="4304">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="        Copyright © 2015 Easybourse.com - Tous droits réservés. Euronext : Cours en temps réel sur le CAC40. Cours différés d'au moins 15 minutes sur les valeurs et autres indices. Pour les clients connectés : cours en temps réel sur toutes valeurs et ind..."/>
+<property type="x" value="242"/>
+<property type="y" value="4304"/>
+<property type="width" value="476"/>
+<property type="height" value="280"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="476" web="true" x="242" y="4614">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value="Partenaire : LinkFinance"/>
+<property type="x" value="242"/>
+<property type="y" value="4614"/>
+<property type="width" value="476"/>
+<property type="height" value="40"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

@@ -8,10 +8,10 @@ import org.testng.annotations.Test;
 
 import com.experitest.client.InternalException;
 
-public class MyApplicationGame extends NativeTest2 {
+public class MyApplicationGame extends MyApplicationTest {
 	
 	
-	@Test(groups = {"native2"})
+	@Test()
 	public void test2() {
 	client.elementSendText("default", "topLoginField", 0, "login");
 	client.elementSendText("default", "bottomLoginField", 0, "login");

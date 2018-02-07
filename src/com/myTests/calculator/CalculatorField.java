@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 public class CalculatorField extends CalculatorTest {
 	@Test(groups = {"Calculator"})
 	public void test() {
-		client.deviceAction("HOME");
 
 		client.startVideoRecord();
 		for(int i = 4; i>=0;i--) {

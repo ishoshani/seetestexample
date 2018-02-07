@@ -6,17 +6,17 @@ import org.testng.annotations.Test;
 import com.myTests.RetryAnalyzer;
 
 public class NativeTestWorkFlow extends NativeTest{
-	@Test(groups = {"native1"}, retryAnalyzer = RetryAnalyzer.class)
+	@Test()
 	
 	public void OrderTest() {
 	client.elementSendText("default", "usernameTextField", 0, "company");
 	client.elementSendText("default", "passwordTextField", 0, "company");
 	client.click("default", "Login", 0, 1);
-	double start = 100;
+	double start;
 	double spent = 66;
 
 	String startString = client.hybridRunJavascript("", 0, "var result = document.getElementsByTagName(\"H1\")[0].innerText;");
-	startString = startString.replaceAll("[^0-9]", "");
+	startString = startString.replaceAll("-?[^0-9]", "");
 	System.out.println(startString);
 	start = Double.parseDouble(startString)/100;
 	System.out.print(start);
@@ -32,6 +32,6 @@ public class NativeTestWorkFlow extends NativeTest{
 	String actualString = client.hybridRunJavascript("", 0, "var result = document.getElementsByTagName(\"H1\")[0].innerText;");
 	actualString = actualString.replace("\n", "");
 	String expectedString = String.format("Your balance is: %.2f$",(start-spent));
-	Assert.assertEquals(expectedString, actualString);
+	Assert.assertEquals(actualString,expectedString);
 }
 }

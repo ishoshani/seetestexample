@@ -19,34 +19,25 @@ import com.experitest.client.InternalException;
 import com.myTests.DemoClient;
 import com.myTests.DemoTest;
 
-public class NativeTest2 extends DemoTest{
+public class MyApplicationTest extends DemoTest{
 	private String host = "localhost";
 	private int port = 8889;
 	private String projectBaseDirectory = "C:\\Users\\ido.shoshani\\workspace\\pExperitestDemo";
-	protected DemoClient client = null;
 	private String installPath= "";
 	private String runtime;
 	private String device;
 	private String OS;
 	
+	public MyApplicationTest() {
+		super();
+		testName="MyApplication";
+	}
+	
 	@Parameters("isGrid")
-	@BeforeMethod(groups= {"native2"})
+	@BeforeMethod()
 	public void setUp(String isGrid) throws Exception {
-		Boolean createGrid = Boolean.parseBoolean(isGrid);
-		Client tempClient;
-		if(createGrid) {
-			  GridClient gridClient = new GridClient("ido","Espeon123", "", "https://stage.experitest.com:443");
-		      tempClient = gridClient.lockDeviceForExecution("native2", "", 120, TimeUnit.MINUTES.toMillis(2));
 
-		}else{
-		tempClient = new Client(host, port, true);
-		device = tempClient.waitForDevice("", 30000);
-		tempClient.setDevice(device);
-		
-		}
-		client = new DemoClient(tempClient, "ExperiDemo", runtime);
-		client.setProjectBaseDirectory(projectBaseDirectory);
-	OS = client.getDeviceProperty("device.os");
+		OS = client.getDeviceProperty("device.os");
 		client.setLocation("37.76033", "-122.445848");
 		if(OS.equals("IOS_APP")) {
 			client.install("cloud:ExperiDemo", true, false);
@@ -61,7 +52,7 @@ public class NativeTest2 extends DemoTest{
 
 	
 
-	@AfterMethod(groups = {"native2"})
+	@AfterMethod()
 	public void tearDown() {
 		client.stopLoggingDevice();
 

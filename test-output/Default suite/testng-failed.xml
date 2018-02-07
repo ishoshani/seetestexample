@@ -1,14 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="com.myTests.web.WebTestLinksWork"/>
+      <class name="com.myTests.DemoClient"/>
+      <class name="com.myTests.eribank.NativeTestWorkFlow"/>
+      <class name="com.myTests.web.WebTestMenuExists"/>
+      <class name="com.experitest.auto.IOSDemoTest"/>
+      <class name="com.myTests.calculator.CalculatorFlow"/>
+      <class name="com.myTests.RetryAnalyzer"/>
+      <class name="com.myTests.myApplication.MyApplicationLogin"/>
+      <class name="com.myTests.myApplication.NativeTest2"/>
+      <class name="com.myTests.appstore.AppStoreDownload"/>
+      <class name="com.myTests.calculator.CalculatorTest"/>
+      <class name="com.myTests.appstore.AppStoreCharts"/>
+      <class name="com.myTests.eribank.NativeTest"/>
+      <class name="com.experitest.auto.BaseTest"/>
+      <class name="com.myTests.calculator.CalculatorField"/>
+      <class name="com.myTests.web.WebTest1"/>
+      <class name="com.myTests.myApplication.MyApplicationGame"/>
+      <class name="com.myTests.DemoTest"/>
+      <class name="com.myTests.calculator.CalculatorView"/>
+      <class name="com.myTests.MyRunner"/>
+      <class name="com.myTests.appstore.AppStoreTest"/>
+      <class name="com.experitest.auto.AndroidDemoTest"/>
+      <class name="com.myTests.eribank.NativeTestLogin"/>
+      <class name="com.myTests.FailureRecorder"/>
+    </classes>
+  </test> <!-- Default test -->
   <test name="Default test(failed)">
     <classes>
-      <class name="com.myTests.NativeTest">
+      <class name="com.myTests.eribank.NativeTestLogin">
         <methods>
-          <include name="testNativeLogin"/>
+          <include name="nothingTest"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- com.myTests.eribank.NativeTestLogin -->
+      <class name="com.myTests.DemoTest">
+        <methods>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.DemoTest -->
+      <class name="com.myTests.calculator.CalculatorFlow">
+        <methods>
+          <include name="nothingTest"/>
+          <include name="test3"/>
+        </methods>
+      </class> <!-- com.myTests.calculator.CalculatorFlow -->
+      <class name="com.myTests.myApplication.MyApplicationLogin">
+        <methods>
+          <include name="test"/>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.myApplication.MyApplicationLogin -->
+      <class name="com.myTests.eribank.NativeTestWorkFlow">
+        <methods>
+          <include name="nothingTest"/>
           <include name="OrderTest"/>
         </methods>
-      </class> <!-- com.myTests.NativeTest -->
+      </class> <!-- com.myTests.eribank.NativeTestWorkFlow -->
+      <class name="com.myTests.calculator.CalculatorField">
+        <methods>
+          <include name="test"/>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.calculator.CalculatorField -->
+      <class name="com.myTests.web.WebTestLinksWork">
+        <methods>
+          <include name="testWebTest2"/>
+          <include name="nothingTest"/>
+          <include name="setRuntime"/>
+        </methods>
+      </class> <!-- com.myTests.web.WebTestLinksWork -->
+      <class name="com.myTests.myApplication.MyApplicationGame">
+        <methods>
+          <include name="test2"/>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.myApplication.MyApplicationGame -->
+      <class name="com.myTests.calculator.CalculatorView">
+        <methods>
+          <include name="nothingTest"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.myTests.calculator.CalculatorView -->
+      <class name="com.myTests.appstore.AppStoreDownload">
+        <methods>
+          <include name="nothingTest"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.myTests.appstore.AppStoreDownload -->
+      <class name="com.myTests.web.WebTestMenuExists">
+        <methods>
+          <include name="testWebTest1"/>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.web.WebTestMenuExists -->
+      <class name="com.myTests.eribank.NativeTest">
+        <methods>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.eribank.NativeTest -->
+      <class name="com.myTests.appstore.AppStoreTest">
+        <methods>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.appstore.AppStoreTest -->
+      <class name="com.myTests.web.WebTest1">
+        <methods>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.web.WebTest1 -->
+      <class name="com.myTests.appstore.AppStoreCharts">
+        <methods>
+          <include name="nothingTest"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.myTests.appstore.AppStoreCharts -->
+      <class name="com.myTests.calculator.CalculatorTest">
+        <methods>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.calculator.CalculatorTest -->
+      <class name="com.myTests.myApplication.NativeTest2">
+        <methods>
+          <include name="nothingTest"/>
+        </methods>
+      </class> <!-- com.myTests.myApplication.NativeTest2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

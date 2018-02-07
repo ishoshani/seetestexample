@@ -1,22 +1,29 @@
 package com.myTests.appstore;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class AppStoreDownload extends AppStoreTest {
 	@Test(groups = {"AppStore"})
 	public void test() {
-		String OS = client.getDeviceProperty("os.device");
+		System.out.println(OS);
+		if(!OS.equals("ANDROID")&&!OS.equals("IOS_APP")) {
+			Assert.fail("Input wrong OS:"+OS);
+		}
+		client.setThrowExceptionOnFail(false);
 		client.deviceAction("HOME");
+		client.applicationClearData("com.google.android.play");
+
 		client.click("default", "Store", 0, 1);
+		client.sendText("{ENTER}");
 		if(OS.equals("ANDROID")) {
-			if(client.isElementFound("default", "search_button")) {
-			 client.click("default","search_button",0,1);
-			 client.sendText("FlashLight");
-			 client.sendText("{ENTER}");
-		
+			if(client.isElementFound("default", "SearchOut")) {
+			 client.click("default","SearchOut",0,1);
 			}else {
-			client.elementSendText("default", "Searchstore", 0, "FlashLight");
+			client.click("default", "search_button", 0, 1);
 			}
+			 client.elementSendText("default", "Searchstore", 0, "FlashLight");
+			 client.sendText("{ENTER}");
 			 client.waitForElement("default", "play_card", 0, 30000);
 			 client.click("default", "play_card", 0, 1);
 
@@ -24,9 +31,12 @@ public class AppStoreDownload extends AppStoreTest {
 		else if(OS.equals("IOS_APP")) {
 			 client.click("default","search_button",0,1);
 			 client.click("default", "Searchstore", 0, 1);
-			 client.sendText("FlashLight");
+			 client.sendText("Flashlight");
 			 client.sendText("{ENTER}");
-			 client.click("default", "IOSCARD2", 0, 1);
+			 client.sync(10, 0, 30000);
+			 if(client.isElementFound("Native", "xpath=//*[@text='GET']")) {
+			 client.click("NATIVE","xpath=//*[@text='GET']",0,1);
+			 }
 		}
 		
 		if(client.isElementFound("default", "INSTALL")) {

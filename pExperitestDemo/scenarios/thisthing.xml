@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="11.4">
+<command appiumName="SetDevice(Device)" enable="true" name="SetDevice(Device)">
+<parameters>
+<parameter appium="true" defaultValue="ios_app:iPhone 8plus A11" description="Device name" name="Device" pattern="(.+)" type="application"/>
+</parameters>
+</command>
+<command appiumName="Launch(app)" enable="true" name="Launch(activity, instrument, stopIfRunning)">
+<parameters>
+<parameter appium="true" defaultValue="com.discoverfinancialenterprise.mobile" description="The application main activity or URL" name="Activity/URL" pattern="(.+)" type="launch"/>
+<parameter appium="false" defaultValue="true" description="If set to true then will launch in instrument mode" name="Instrument" pattern="(true|false)" type="bool"/>
+<parameter appium="false" defaultValue="true" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="(true|false)" type="bool"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="default" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="element 3" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="default" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="element 4" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="default" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="element 5" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click(Element)" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="default" description="Select Zone" name="Zone" pattern="(.+)" type="zone"/>
+<parameter appium="true" defaultValue="element 6" description="Select Element" name="Element" pattern="(.+)" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="(\d+)" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="(\d+)" type="integer"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="ElementSetProperty(Zone, Element, Index, Property, Value)">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone_no_ocr"/>
+<parameter appium="false" defaultValue="xpath=//*[@class='RCTPicker']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="" description="Property" name="Property" pattern="" type="property_set"/>
+<parameter appium="false" defaultValue="03" description="The value to set" name="Value" pattern="" type="string"/>
+</parameters>
+</command>
+</commands>

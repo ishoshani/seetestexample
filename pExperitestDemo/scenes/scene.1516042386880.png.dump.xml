@@ -1,0 +1,3078 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="RCTRootView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more.  Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTRootContentView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more.  Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more.  Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more.  Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more.  Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="accessibilityIdentifier" value="Screen_CORE_LOGIN_SCREEN_IsActive"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityIdentifier" value="assets/js/core/images/HandsetPortrait_Background@3x.png"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register Bank  Card Quick View"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="1242" web="false" x="0" y="300">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="300"/>
+<property type="width" value="1242"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="96" ignored="false" w="558" web="false" x="342" y="300">
+<properties>
+<property type="accessibilityIdentifier" value="discover_logo"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="342"/>
+<property type="y" value="300"/>
+<property type="width" value="558"/>
+<property type="height" value="96"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="846" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password Forgot Password? Register"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="846"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="270" ignored="false" w="1242" web="false" x="0" y="444">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="444"/>
+<property type="width" value="1242"/>
+<property type="height" value="270"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="270" ignored="false" w="810" web="false" x="216" y="444">
+<properties>
+<property type="accessibilityLabel" value="Card User ID Password"/>
+<property type="accessibilityIdentifier" value="username_field_view"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="810"/>
+<property type="height" value="270"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="810" web="false" x="216" y="444">
+<properties>
+<property type="accessibilityLabel" value="Card User ID"/>
+<property type="accessibilityIdentifier" value="username_field_view_2"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="810"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="810" web="false" x="216" y="444">
+<properties>
+<property type="accessibilityLabel" value="Card User ID"/>
+<property type="text" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTTextField"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="810" web="false" x="216" y="444">
+<properties>
+<property type="accessibilityIdentifier" value="UsernameField"/>
+<property type="text" value=""/>
+<property type="placeholder" value="Card User ID"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTUITextField"/>
+<property type="knownSuperClass" value="UITextField"/>
+<property type="focused" value="true"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="810" web="false" x="216" y="477">
+<properties>
+<property type="accessibilityLabel" value="Card User ID"/>
+<property type="text" value="Card User ID"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITextFieldLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="477"/>
+<property type="width" value="810"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="810" web="false" x="216" y="444">
+<properties>
+<property type="text" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="UIFieldEditor"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="focused" value="true"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="810" web="false" x="216" y="444">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITextFieldContentView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="216" y="444">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITextSelectionView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="216"/>
+<property type="y" value="444"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="6" web="false" x="216" y="474">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="0"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="216"/>
+<property type="y" value="474"/>
+<property type="width" value="6"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="129" ignored="false" w="810" web="false" x="216" y="585">
+<properties>
+<property type="accessibilityLabel" value="Password"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="585"/>
+<property type="width" value="810"/>
+<property type="height" value="129"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="810" web="false" x="216" y="594">
+<properties>
+<property type="accessibilityLabel" value="Password"/>
+<property type="text" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTTextField"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="594"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="810" web="false" x="216" y="594">
+<properties>
+<property type="accessibilityIdentifier" value="PasswordField"/>
+<property type="text" value=""/>
+<property type="placeholder" value="Password"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTUITextField"/>
+<property type="knownSuperClass" value="UITextField"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="594"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="810" web="false" x="216" y="627">
+<properties>
+<property type="accessibilityLabel" value="Password"/>
+<property type="text" value="Password"/>
+<property type="tag" value="0"/>
+<property type="class" value="UITextFieldLabel"/>
+<property type="knownSuperClass" value="UILabel"/>
+<property type="alpha" value="1"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="627"/>
+<property type="width" value="810"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="810" web="false" x="216" y="594">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UITextFieldContentView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="216"/>
+<property type="y" value="594"/>
+<property type="width" value="810"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="132" ignored="false" w="1242" web="false" x="0" y="714">
+<properties>
+<property type="accessibilityLabel" value="Forgot Password? Register"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="714"/>
+<property type="width" value="1242"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="108" ignored="false" w="1242" web="false" x="0" y="738">
+<properties>
+<property type="accessibilityLabel" value="Forgot Password? Register"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="738"/>
+<property type="width" value="1242"/>
+<property type="height" value="108"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="108" ignored="false" w="810" web="false" x="216" y="738">
+<properties>
+<property type="accessibilityLabel" value="Forgot Password? Register"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="738"/>
+<property type="width" value="810"/>
+<property type="height" value="108"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="108" ignored="false" w="345" web="false" x="216" y="738">
+<properties>
+<property type="accessibilityLabel" value="Forgot Password?"/>
+<property type="accessibilityIdentifier" value="tv_forgot_password_label"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="738"/>
+<property type="width" value="345"/>
+<property type="height" value="108"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="108" ignored="false" w="159" web="false" x="864" y="738">
+<properties>
+<property type="accessibilityLabel" value="Register"/>
+<property type="accessibilityIdentifier" value="tv_register_link_label"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="864"/>
+<property type="y" value="738"/>
+<property type="width" value="159"/>
+<property type="height" value="108"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="129" ignored="false" w="1242" web="false" x="0" y="1401">
+<properties>
+<property type="accessibilityLabel" value="Bank  Card Quick View"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1401"/>
+<property type="width" value="1242"/>
+<property type="height" value="129"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="1242" web="false" x="0" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Bank  Card Quick View"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1440"/>
+<property type="width" value="1242"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="675" web="false" x="0" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Bank  Card"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1440"/>
+<property type="width" value="675"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="618" web="false" x="6" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Bank  Card"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="6"/>
+<property type="y" value="1440"/>
+<property type="width" value="618"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="138" ignored="false" w="660" web="false" x="6" y="1395">
+<properties>
+<property type="accessibilityIdentifier" value="assets/js/core/auth/login/images/card_selected@3x.png"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="6"/>
+<property type="y" value="1395"/>
+<property type="width" value="660"/>
+<property type="height" value="138"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="288" web="false" x="6" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Bank"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="6"/>
+<property type="y" value="1440"/>
+<property type="width" value="288"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="288" web="false" x="6" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Bank"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="6"/>
+<property type="y" value="1440"/>
+<property type="width" value="288"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="159" web="false" x="60" y="1434">
+<properties>
+<property type="accessibilityLabel" value="Bank"/>
+<property type="accessibilityIdentifier" value="bankToggle"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="60"/>
+<property type="y" value="1434"/>
+<property type="width" value="159"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="45" web="false" x="294" y="1464">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="294"/>
+<property type="y" value="1464"/>
+<property type="width" value="45"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="282" web="false" x="339" y="1440">
+<properties>
+<property type="accessibilityLabel" value=" Card"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="339"/>
+<property type="y" value="1440"/>
+<property type="width" value="282"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="282" web="false" x="339" y="1440">
+<properties>
+<property type="accessibilityLabel" value=" Card"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="339"/>
+<property type="y" value="1440"/>
+<property type="width" value="282"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="33" ignored="false" w="33" web="false" x="393" y="1449">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_CardToggle"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="393"/>
+<property type="y" value="1449"/>
+<property type="width" value="33"/>
+<property type="height" value="33"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="111" web="false" x="435" y="1434">
+<properties>
+<property type="accessibilityLabel" value="Card"/>
+<property type="accessibilityIdentifier" value="cardToggle"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="435"/>
+<property type="y" value="1434"/>
+<property type="width" value="111"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="51" ignored="false" w="390" web="false" x="807" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Quick View"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="807"/>
+<property type="y" value="1440"/>
+<property type="width" value="390"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="222" web="false" x="975" y="1440">
+<properties>
+<property type="accessibilityLabel" value="Quick View"/>
+<property type="accessibilityIdentifier" value="Text_QuickView"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="975"/>
+<property type="y" value="1440"/>
+<property type="width" value="222"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1242" web="false" x="0" y="2208">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC  Feedback  ATM  Login  Help  Products"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2208"/>
+<property type="width" value="1242"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="87" ignored="false" w="1242" web="false" x="0" y="1908">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0 | Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1908"/>
+<property type="width" value="1242"/>
+<property type="height" value="87"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="45" ignored="false" w="1242" web="false" x="0" y="1908">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0 | Privacy &amp; Terms"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1908"/>
+<property type="width" value="1242"/>
+<property type="height" value="45"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="222" web="false" x="363" y="1908">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0"/>
+<property type="accessibilityIdentifier" value="version_number"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="363"/>
+<property type="y" value="1908"/>
+<property type="width" value="222"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="12" web="false" x="588" y="1908">
+<properties>
+<property type="accessibilityLabel" value="|"/>
+<property type="accessibilityIdentifier" value="divider"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="588"/>
+<property type="y" value="1908"/>
+<property type="width" value="12"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="273" web="false" x="603" y="1908">
+<properties>
+<property type="accessibilityLabel" value="Privacy &amp; Terms"/>
+<property type="accessibilityIdentifier" value="Text_privacy_and_terms_landing_screen"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="603"/>
+<property type="y" value="1908"/>
+<property type="width" value="273"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="42" ignored="false" w="1239" web="false" x="3" y="1953">
+<properties>
+<property type="accessibilityLabel" value="©2018 Discover Bank, Member FDIC"/>
+<property type="accessibilityIdentifier" value="fdic_disclaimer_view"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="3"/>
+<property type="y" value="1953"/>
+<property type="width" value="1239"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="210" ignored="false" w="1242" web="false" x="0" y="1998">
+<properties>
+<property type="accessibilityLabel" value=" Feedback  ATM  Login  Help  Products"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1998"/>
+<property type="width" value="1242"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="180" ignored="false" w="1242" web="false" x="0" y="2028">
+<properties>
+<property type="accessibilityIdentifier" value="assets/js/core/auth/login/images/toolbar_3x.png"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2028"/>
+<property type="width" value="1242"/>
+<property type="height" value="180"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="210" ignored="false" w="1242" web="false" x="0" y="1998">
+<properties>
+<property type="accessibilityLabel" value=" Feedback  ATM  Login  Help  Products"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1998"/>
+<property type="width" value="1242"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="1242" web="false" x="0" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Feedback  ATM  Login  Help  Products"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2028"/>
+<property type="width" value="1242"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="1200" web="false" x="21" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Feedback  ATM  Login  Help  Products"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="2028"/>
+<property type="width" value="1200"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="168" web="false" x="21" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Feedback"/>
+<property type="accessibilityIdentifier" value="feedBackButton"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="2028"/>
+<property type="width" value="168"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="168" web="false" x="21" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Feedback"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="2028"/>
+<property type="width" value="168"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="60" web="false" x="75" y="2073">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_feedBackIcon"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="75"/>
+<property type="y" value="2073"/>
+<property type="width" value="60"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="168" web="false" x="21" y="2133">
+<properties>
+<property type="accessibilityLabel" value="Feedback"/>
+<property type="accessibilityIdentifier" value="feedBackText"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="21"/>
+<property type="y" value="2133"/>
+<property type="width" value="168"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="210" ignored="false" w="78" web="false" x="315" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" ATM"/>
+<property type="accessibilityIdentifier" value="atmButton"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="315"/>
+<property type="y" value="2028"/>
+<property type="width" value="78"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="78" web="false" x="315" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" ATM"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="315"/>
+<property type="y" value="2028"/>
+<property type="width" value="78"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="60" web="false" x="324" y="2073">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_atmIcon"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="324"/>
+<property type="y" value="2073"/>
+<property type="width" value="60"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="78" web="false" x="315" y="2133">
+<properties>
+<property type="accessibilityLabel" value="ATM"/>
+<property type="accessibilityIdentifier" value="atmText"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="315"/>
+<property type="y" value="2133"/>
+<property type="width" value="78"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="210" ignored="false" w="210" web="false" x="519" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Login"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFF6600"/>
+<property type="enabled" value="true"/>
+<property type="x" value="519"/>
+<property type="y" value="2028"/>
+<property type="width" value="210"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="162" ignored="false" w="210" web="false" x="519" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Login"/>
+<property type="accessibilityIdentifier" value="loginButton"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="519"/>
+<property type="y" value="2028"/>
+<property type="width" value="210"/>
+<property type="height" value="162"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="210" web="false" x="519" y="2058">
+<properties>
+<property type="accessibilityLabel" value=" Login"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="519"/>
+<property type="y" value="2058"/>
+<property type="width" value="210"/>
+<property type="height" value="132"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="60" web="false" x="594" y="2058">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_loginIcon"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFF6600"/>
+<property type="enabled" value="true"/>
+<property type="x" value="594"/>
+<property type="y" value="2058"/>
+<property type="width" value="60"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="120" web="false" x="564" y="2118">
+<properties>
+<property type="accessibilityLabel" value="Login"/>
+<property type="accessibilityIdentifier" value="footer_login_text"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFF6600"/>
+<property type="enabled" value="true"/>
+<property type="x" value="564"/>
+<property type="y" value="2118"/>
+<property type="width" value="120"/>
+<property type="height" value="72"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="210" ignored="false" w="81" web="false" x="855" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Help"/>
+<property type="accessibilityIdentifier" value="helpButton"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="855"/>
+<property type="y" value="2028"/>
+<property type="width" value="81"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="81" web="false" x="855" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Help"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="855"/>
+<property type="y" value="2028"/>
+<property type="width" value="81"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="60" web="false" x="867" y="2073">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_helpIcon"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="867"/>
+<property type="y" value="2073"/>
+<property type="width" value="60"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="81" web="false" x="855" y="2133">
+<properties>
+<property type="accessibilityLabel" value="Help"/>
+<property type="accessibilityIdentifier" value="helpText"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="855"/>
+<property type="y" value="2133"/>
+<property type="width" value="81"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="210" ignored="false" w="156" web="false" x="1062" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Products"/>
+<property type="accessibilityIdentifier" value="productsButton"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1062"/>
+<property type="y" value="2028"/>
+<property type="width" value="156"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="210" ignored="false" w="156" web="false" x="1062" y="2028">
+<properties>
+<property type="accessibilityLabel" value=" Products"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x646464"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1062"/>
+<property type="y" value="2028"/>
+<property type="width" value="156"/>
+<property type="height" value="210"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="60" web="false" x="1110" y="2073">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_productsIcon"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1110"/>
+<property type="y" value="2073"/>
+<property type="width" value="60"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="156" web="false" x="1062" y="2133">
+<properties>
+<property type="accessibilityLabel" value="Products"/>
+<property type="accessibilityIdentifier" value="productsText"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1062"/>
+<property type="y" value="2133"/>
+<property type="width" value="156"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="234" ignored="false" w="810" web="false" x="216" y="60">
+<properties>
+<property type="accessibilityLabel" value="Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="0.93999999761581421"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="60"/>
+<property type="width" value="810"/>
+<property type="height" value="234"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="36" ignored="false" w="204" web="false" x="519" y="84">
+<properties>
+<property type="accessibilityIdentifier" value="assets/js/core/images/Discover_BlackFontLogo@3x.png"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="519"/>
+<property type="y" value="84"/>
+<property type="width" value="204"/>
+<property type="height" value="36"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="144" ignored="false" w="810" web="false" x="216" y="120">
+<properties>
+<property type="accessibilityLabel" value="Discover has great products for you! Dont miss out, learn more."/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="120"/>
+<property type="width" value="810"/>
+<property type="height" value="144"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="810" web="false" x="216" y="120">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="120"/>
+<property type="width" value="810"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="3" ignored="false" w="810" web="false" x="216" y="144">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xE0E0E0"/>
+<property type="enabled" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="144"/>
+<property type="width" value="810"/>
+<property type="height" value="3"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="42" ignored="false" w="618" web="false" x="312" y="171">
+<properties>
+<property type="accessibilityLabel" value="Discover has great products for you!"/>
+<property type="accessibilityIdentifier" value="Text_Caption"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="312"/>
+<property type="y" value="171"/>
+<property type="width" value="618"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="522" web="false" x="360" y="213">
+<properties>
+<property type="accessibilityLabel" value="Dont miss out, learn more."/>
+<property type="accessibilityIdentifier" value="Text_Content"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="360"/>
+<property type="y" value="213"/>
+<property type="width" value="522"/>
+<property type="height" value="51"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="867" web="false" x="-867" y="0">
+<properties>
+<property type="accessibilityLabel" value=" Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="0"/>
+<property type="width" value="867"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2148" ignored="false" w="867" web="false" x="-867" y="60">
+<properties>
+<property type="accessibilityLabel" value=" Log Out Version 9.3.0  |  Privacy &amp; Terms ©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="0"/>
+<property type="backgroundColor" value="0xF2F2F2"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="60"/>
+<property type="width" value="867"/>
+<property type="height" value="2148"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="159" ignored="false" w="867" web="false" x="-867" y="60">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="60"/>
+<property type="width" value="867"/>
+<property type="height" value="159"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="360" web="false" x="-822" y="129">
+<properties>
+<property type="accessibilityIdentifier" value="assets/js/core/navigation/images/Discover_BlackFontLogo@3x.png"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-822"/>
+<property type="y" value="129"/>
+<property type="width" value="360"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1686" ignored="false" w="867" web="false" x="-867" y="219">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTScrollView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="219"/>
+<property type="width" value="867"/>
+<property type="height" value="1686"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1686" ignored="false" w="867" web="false" x="-867" y="219">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="RCTCustomScrollView"/>
+<property type="knownSuperClass" value="UIScrollView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="219"/>
+<property type="width" value="867"/>
+<property type="height" value="1686"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="867" web="false" x="-867" y="219">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="219"/>
+<property type="width" value="867"/>
+<property type="height" value="0"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="21" ignored="false" w="6" web="false" x="-15" y="1875">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="false"/>
+<property type="x" value="-15"/>
+<property type="y" value="1875"/>
+<property type="width" value="6"/>
+<property type="height" value="21"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="6" ignored="false" w="21" web="false" x="-30" y="1890">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="0"/>
+<property type="enabled" value="false"/>
+<property type="x" value="-30"/>
+<property type="y" value="1890"/>
+<property type="width" value="21"/>
+<property type="height" value="6"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="123" ignored="false" w="867" web="false" x="-867" y="1905">
+<properties>
+<property type="accessibilityLabel" value=" Log Out"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="1905"/>
+<property type="width" value="867"/>
+<property type="height" value="123"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="123" ignored="false" w="867" web="false" x="-867" y="1905">
+<properties>
+<property type="accessibilityLabel" value=" Log Out"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="1905"/>
+<property type="width" value="867"/>
+<property type="height" value="123"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="867" web="false" x="-867" y="1905">
+<properties>
+<property type="accessibilityLabel" value=" Log Out"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="1905"/>
+<property type="width" value="867"/>
+<property type="height" value="120"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="57" ignored="false" w="837" web="false" x="-837" y="1938">
+<properties>
+<property type="accessibilityLabel" value=" Log Out"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-837"/>
+<property type="y" value="1938"/>
+<property type="width" value="837"/>
+<property type="height" value="57"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="45" ignored="false" w="45" web="false" x="-531" y="1944">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="accessibilityIdentifier" value="Icon_log-out"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-531"/>
+<property type="y" value="1944"/>
+<property type="width" value="45"/>
+<property type="height" value="45"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="57" ignored="false" w="174" web="false" x="-477" y="1938">
+<properties>
+<property type="accessibilityLabel" value="Log Out"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-477"/>
+<property type="y" value="1938"/>
+<property type="width" value="174"/>
+<property type="height" value="57"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="57" ignored="false" w="174" web="false" x="-477" y="1938">
+<properties>
+<property type="accessibilityLabel" value="Log Out"/>
+<property type="accessibilityIdentifier" value="LogOut"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-477"/>
+<property type="y" value="1938"/>
+<property type="width" value="174"/>
+<property type="height" value="57"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="3" ignored="false" w="867" web="false" x="-867" y="2025">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="2025"/>
+<property type="width" value="867"/>
+<property type="height" value="3"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="3" ignored="false" w="867" web="false" x="-867" y="2025">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xB7B7B7"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="2025"/>
+<property type="width" value="867"/>
+<property type="height" value="3"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="42" ignored="false" w="867" web="false" x="-867" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0  |  Privacy &amp; Terms"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="2064"/>
+<property type="width" value="867"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="222" web="false" x="-723" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-723"/>
+<property type="y" value="2064"/>
+<property type="width" value="222"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="222" web="false" x="-723" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-723"/>
+<property type="y" value="2064"/>
+<property type="width" value="222"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="222" web="false" x="-723" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Version 9.3.0"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xF2F2F2"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-723"/>
+<property type="y" value="2064"/>
+<property type="width" value="222"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="42" ignored="false" w="81" web="false" x="-501" y="2064">
+<properties>
+<property type="accessibilityLabel" value=" | "/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xF2F2F2"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-501"/>
+<property type="y" value="2064"/>
+<property type="width" value="81"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="42" ignored="false" w="273" web="false" x="-420" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Privacy &amp; Terms"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-420"/>
+<property type="y" value="2064"/>
+<property type="width" value="273"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="273" web="false" x="-420" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Privacy &amp; Terms"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-420"/>
+<property type="y" value="2064"/>
+<property type="width" value="273"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="42" ignored="false" w="273" web="false" x="-420" y="2064">
+<properties>
+<property type="accessibilityLabel" value="Privacy &amp; Terms"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xF2F2F2"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-420"/>
+<property type="y" value="2064"/>
+<property type="width" value="273"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="42" ignored="false" w="867" web="false" x="-867" y="2127">
+<properties>
+<property type="accessibilityLabel" value="©2018 Discover Bank, Member FDIC"/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTText"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xF2F2F2"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-867"/>
+<property type="y" value="2127"/>
+<property type="width" value="867"/>
+<property type="height" value="42"/>
+<property type="hidden" value="false"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="867" web="false" x="-867" y="0">
+<properties>
+<property type="accessibilityLabel" value=""/>
+<property type="tag" value="0"/>
+<property type="class" value="RCTView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="-867"/>
+<property type="y" value="0"/>
+<property type="width" value="867"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="visible" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UITextEffectsWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetContainerView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetHostView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIRemoteKeyboardPlaceholderView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIRemoteKeyboardWindow"/>
+<property type="knownSuperClass" value="UIWindow"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2208" ignored="false" w="1242" web="false" x="0" y="0">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetContainerView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1242"/>
+<property type="height" value="2208"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIInputSetHostView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBInputBackdropView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBBackdropView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIBackdropEffectView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="0.5"/>
+<property type="backgroundColor" value="0xFFFFFF"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xEBF0F7"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="1"/>
+<property type="backgroundColor" value="0xDDDDDD"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIView"/>
+<property type="alpha" value="0.30000001192092896"/>
+<property type="backgroundColor" value="0x7F7F7F"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="_UIKBCompatInputView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKeyboardAutomatic"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKeyboardImpl"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKeyboardLayoutStar"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyplaneView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBSplitImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBSplitImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBSplitImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="678" ignored="false" w="1242" web="false" x="0" y="1530">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIImageView"/>
+<property type="knownSuperClass" value="UIImageView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1530"/>
+<property type="width" value="1242"/>
+<property type="height" value="678"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="147" ignored="false" w="147" web="false" x="6" y="1887">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="6"/>
+<property type="y" value="1887"/>
+<property type="width" value="147"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="147" web="false" x="1089" y="1887">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="1089"/>
+<property type="y" value="1887"/>
+<property type="width" value="147"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="150" web="false" x="6" y="2055">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="6"/>
+<property type="y" value="2055"/>
+<property type="width" value="150"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="150" web="false" x="162" y="2055">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="162"/>
+<property type="y" value="2055"/>
+<property type="width" value="150"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="486" web="false" x="441" y="2055">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="441"/>
+<property type="y" value="2055"/>
+<property type="width" value="486"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="303" web="false" x="933" y="2055">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="933"/>
+<property type="y" value="2055"/>
+<property type="width" value="303"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="147" ignored="false" w="117" web="false" x="318" y="2055">
+<properties>
+<property type="tag" value="0"/>
+<property type="class" value="UIKBKeyView"/>
+<property type="alpha" value="1"/>
+<property type="enabled" value="false"/>
+<property type="x" value="318"/>
+<property type="y" value="2055"/>
+<property type="width" value="117"/>
+<property type="height" value="147"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="visible" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

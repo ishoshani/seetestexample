@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name = "My suite" parallel="methods" thread-count="5">
-  <parameter name="isGrid" value="true"/>
+<suite name = "My suite" parallel="classes" thread-count="5">
 
   <test name="TestAttempt" >
+    <parameter name="isGrid" value="true"/>
+<!--     <parameter name="deviceQ" value = "@os='android'"/>-->  
+	  <parameter name="deviceQ" value = "@os='android'"/>
+  
     <classes>
-      <class name = "com.myTests.DemoTest" />
-
+    <!-- 	ExperitestDemo test -->
+    	
+    <!-- 	<class name="com.myTests.myApplication.MyApplicationGame"/>
+    	<class name="com.myTests.myApplication.MyApplicationLogin"/>
+     -->
+    <!-- 	EribankTest -->
+	 <!-- 
+		<class name = "com.myTests.eribank.NativeTestLogin"/>
+		<class name = "com.myTests.eribank.NativeTestWorkFlow"/
+		 -->
+		  <!--App Store Tests  -->
+		 <!-- 
+		<class name = "com.myTests.appstore.AppStoreCharts"/> 
+		<class name = "com.myTests.appstore.AppStoreDownload"/>
+	-->
+		<!-- Web Tests -->
+		
+		<!-- <class name = "com.myTests.web.WebTestMenuExists"/>
+		<class name = "com.myTests.web.WebTestLinksWork"/>
+		 -->
+		<!-- CalculatorTests -->
+		
+			 <class name = "com.myTests.calculator.CalculatorField"/>
+			<!-- <class name = "com.myTests.calculator.CalculatorFlow"/>
+			<class name = "com.myTests.calculator.CalculatorView"/>  -->
+			
     </classes>
+    
   </test>
   </suite>
 

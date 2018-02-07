@@ -9,9 +9,9 @@ import java.util.Scanner;
 
 import org.testng.annotations.Test;
 
-public class MyApplicationLogin extends NativeTest2 {
+public class MyApplicationLogin extends MyApplicationTest {
 	
-	@Test(groups = {"native2"})
+	@Test()
 	public void test() {
 		File f = new File("testLogin2.csv");
 		Scanner r = null;
